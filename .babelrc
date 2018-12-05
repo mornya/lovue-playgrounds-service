@@ -1,0 +1,39 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          "node": "current"
+        }
+      }
+    ],
+    "minify"
+  ],
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "root": [ "./src/**" ]
+      }
+    ],
+    "@babel/proposal-class-properties",
+    "@babel/proposal-object-rest-spread"
+  ],
+  "env": {
+    "test": {
+      "presets": [ "env" ],
+      "plugins": [
+        [
+          "module-resolver",
+          {
+            "root": [ "./src/**" ]
+          }
+        ],
+        "istanbul",
+        "@babel/proposal-class-properties",
+        "@babel/proposal-object-rest-spread"
+      ]
+    }
+  }
+}
