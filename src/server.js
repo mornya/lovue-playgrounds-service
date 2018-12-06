@@ -18,7 +18,7 @@ const servers = {
 };
 
 const start = (routeSet, passport = null) => {
-  const { HTTP_PORT = 80, HTTPS_PORT = null, JWT_SECRET, PATH_ASSETS } = process.env;
+  const { HTTP_PORT = 8080, HTTPS_PORT, JWT_SECRET, PATH_ASSETS } = process.env;
 
   app.disable('x-powered-by');
 
@@ -72,35 +72,28 @@ const start = (routeSet, passport = null) => {
   });
 
   return new Promise((resolve, reject) => {
-    switch (app.get('env')) {
-      case 'test':
-        servers.http = http.createServer(app).listen(HTTP_PORT, () => {
-          resolve(app); // returns only variable 'app' for testing
-        });
-        break;
-      case 'development':
-        servers.http = http.createServer(app).listen(HTTP_PORT, () => {
-          if (HTTPS_PORT) {
-            const pathSSLKey = path.resolve(__dirname, '..', 'ssl-key.pem');
-            const pathSSLCert = path.resolve(__dirname, '..', 'ssl-cert.pem');
-            if (fs.existsSync(pathSSLKey) && fs.existsSync(pathSSLCert)) {
-              const sslOptions = {
-                key: fs.readFileSync(pathSSLKey),
-                cert: fs.readFileSync(pathSSLCert),
-              };
-              servers.https = https.createServer(sslOptions, app).listen(HTTPS_PORT, resolve({ HTTP_PORT, HTTPS_PORT }));
-            } else {
-              reject(`"ssl-key.pem" or "ssl-cert.pem" file is not exists!`);
-            }
+    if (app.get('env') === 'test') {
+      servers.http = http.createServer(app).listen(HTTP_PORT, () => {
+        resolve(app); // returns only variable 'app' for testing
+      });
+    } else {
+      servers.http = http.createServer(app).listen(HTTP_PORT, () => {
+        if (HTTPS_PORT) {
+          const pathSSLKey = path.resolve(__dirname, '..', 'ssl-key.pem');
+          const pathSSLCert = path.resolve(__dirname, '..', 'ssl-cert.pem');
+          if (fs.existsSync(pathSSLKey) && fs.existsSync(pathSSLCert)) {
+            const sslOptions = {
+              key: fs.readFileSync(pathSSLKey),
+              cert: fs.readFileSync(pathSSLCert),
+            };
+            servers.https = https.createServer(sslOptions, app).listen(HTTPS_PORT, resolve({ HTTP_PORT, HTTPS_PORT }));
           } else {
-            resolve({ HTTP_PORT, HTTPS_PORT });
+            reject(`"ssl-key.pem" or "ssl-cert.pem" file is not exists!`);
           }
-        });
-        break;
-      default:
-        app.listen(HTTP_PORT)
-        resolve({ HTTP_PORT, HTTPS_PORT })
-        break;
+        } else {
+          resolve({ HTTP_PORT, HTTPS_PORT });
+        }
+      });
     }
   });
 };
