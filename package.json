@@ -12,6 +12,7 @@
     "npm": ">=6.4.1"
   },
   "scripts": {
+    "heroku": "mkdir -p dist && npm run -s build && node dist/index.js",
     "prestart": "npm run clean && mkdir -p dist && npm run -s build",
     "start": "pm2 start dist/index.js --name lovue-playgrounds-service",
     "stop": "pm2 delete lovue-playgrounds-service",
