@@ -12,7 +12,6 @@
     "npm": ">=6.4.1"
   },
   "scripts": {
-    "heroku": "mkdir -p dist && npm run -s build && node dist/index.js",
     "prestart": "npm run clean && mkdir -p dist && npm run -s build",
     "start": "pm2 start dist/index.js --name lovue-playgrounds-service",
     "stop": "pm2 delete lovue-playgrounds-service",
@@ -20,6 +19,8 @@
     "dev": "nodemon src/index.js --exec \"node -r @babel/register --max_old_space_size=1024\"",
     "clean": "rimraf dist",
     "build": "babel src -s -D -d dist",
+    "heroku-prebuild": "npm run clean",
+    "heroku-postbuild": "mkdir -p dist && npm run -s build",
     "test": "jest --watchAll",
     "lint": "eslint src --cache --ignore-pattern .gitignore --ext js --max-warnings 100"
   },
