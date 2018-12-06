@@ -16,7 +16,7 @@
     "start": "pm2 start dist/index.js --name lovue-playgrounds-service",
     "stop": "pm2 delete lovue-playgrounds-service",
     "restart": "pm2 restart lovue-playgrounds-service",
-    "dev": "nodemon src/index.js --exec \"node -r babel-register --max_old_space_size=1024\"",
+    "dev": "nodemon src/index.js --exec \"node -r @babel/register --max_old_space_size=1024\"",
     "clean": "rimraf dist",
     "build": "babel src -s -D -d dist",
     "test": "jest --watchAll",
@@ -40,6 +40,7 @@
     "eslint"
   ],
   "dependencies": {
+    "acorn": "^6.0.4",
     "body-parser": "^1.18.3",
     "chalk": "^2.4.1",
     "cookie-parser": "^1.4.3",
