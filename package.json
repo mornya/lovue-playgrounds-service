@@ -19,7 +19,7 @@
     "dev": "nodemon src/index.js --exec \"node -r @babel/register --max_old_space_size=1024\"",
     "clean": "rimraf dist",
     "build": "babel src -s -D -d dist",
-    "heroku-prebuild": "npm run clean",
+    "heroku-prebuild": "npm run clean && cp .env.production .env",
     "heroku-postbuild": "mkdir -p dist && npm run -s build",
     "test": "jest --watchAll",
     "lint": "eslint src --cache --ignore-pattern .gitignore --ext js --max-warnings 100"
