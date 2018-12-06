@@ -23,12 +23,12 @@ env()
     const passport = passports(controllerMap);
     return server.start(routeSet, passport);
   })
-  .then(({ HTTP_PORT, HTTPS_PORT }) => {
+  .then(({ httpPort, httpsPort }) => {
     console.info(
       'Listening on port', [
-        HTTP_PORT ? `${chalk.yellow(HTTP_PORT)}(HTTP)` : '',
-        HTTPS_PORT ? `${chalk.yellow(HTTPS_PORT)}(HTTPS)` : ''
-      ].join(' / ')
+        httpPort ? `${chalk.yellow(httpPort)}(HTTP)` : null,
+        httpsPort ? `${chalk.yellow(httpsPort)}(HTTPS)` : null,
+      ].filter(Boolean).join(' / ')
     ); // eslint-disable-line no-console
   })
   .catch((err) => {
