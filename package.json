@@ -8,8 +8,8 @@
   "author": "mornya <mornya78@gmail.com>",
   "main": "dist/index.js",
   "engines": {
-    "node": "~6.9.1",
-    "npm": ">=3.10.0"
+    "node": ">=10.14.1",
+    "npm": ">=6.4.1"
   },
   "scripts": {
     "prestart": "npm run clean && mkdir -p dist && npm run -s build",
