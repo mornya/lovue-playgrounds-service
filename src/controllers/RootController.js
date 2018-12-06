@@ -10,7 +10,7 @@ export default class RootController extends BaseController {
   }
 
   root = (req, res) => {
-    res.render('index', { title: 'Playgrounds' });
+    res.render('index', { title: 'Lovue Playgrounds Service' });
   };
 
   /**
