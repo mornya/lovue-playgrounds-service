@@ -1,4 +1,4 @@
-# mornya-playgrounds-service
+# lovue-playgrounds-service
 ##### NodeJS server with JWT, MongoDB, Social-login, File-uploader and Send-mail
 
 A mostly unopinionated starter project for using Babel and ES6+ features in a Node.js server environment as well as providing linting and testing solutions. It provides the setup for compiling, linting and testing your code but doesn't make any further assumptions on how your project should be structured.

@@ -4,7 +4,7 @@
   "private": true,
   "license": "MIT",
   "description": "NodeJS server with JWT, MongoDB, Social-login, File-uploader and Send-mail",
-  "repository": "https://bitbucket.org/mornya/lovue/lovue-playgrounds-service",
+  "repository": "https://bitbucket.org/lovue/lovue-playgrounds-service",
   "author": "mornya <mornya78@gmail.com>",
   "main": "dist/index.js",
   "engines": {
@@ -13,9 +13,9 @@
   },
   "scripts": {
     "prestart": "npm run clean && mkdir -p dist && npm run -s build",
-    "start": "pm2 start dist/index.js --name mornya-playgrounds-service",
-    "stop": "pm2 delete mornya-playgrounds-service",
-    "restart": "pm2 restart mornya-playgrounds-service",
+    "start": "pm2 start dist/index.js --name lovue-playgrounds-service",
+    "stop": "pm2 delete lovue-playgrounds-service",
+    "restart": "pm2 restart lovue-playgrounds-service",
     "dev": "nodemon src/index.js --exec \"node -r babel-register --max_old_space_size=1024\"",
     "clean": "rimraf dist",
     "build": "babel src -s -D -d dist",
@@ -23,7 +23,7 @@
     "lint": "eslint src --cache --ignore-pattern .gitignore --ext js --max-warnings 100"
   },
   "keywords": [
-    "mornya",
+    "lovue",
     "server",
     "express",
     "mongodb",

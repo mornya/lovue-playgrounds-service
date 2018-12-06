@@ -3,7 +3,7 @@ import responseCodes from 'constants/ResponseCodes';
 
 const jwtOptions = {
   expiresIn: '7d',
-  issuer: 'mornya.com',
+  issuer: 'lovue.com',
   subject: 'userInfo',
 };
 

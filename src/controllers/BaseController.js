@@ -25,7 +25,7 @@ export default class BaseController {
     if (accessToken) {
       getValidateToken(accessToken.replace('Bearer ', ''), req.app.get('jwt-secret'))
         .then((decodedToken) => {
-          if (decodedToken.iss !== 'mornya.com' ||
+          if (decodedToken.iss !== 'lovue.com' ||
             !this._checkAcceptRole(acceptRole, decodedToken.rol) ||
             !this._checkAcceptGroup(acceptGroup, decodedToken.grp)) {
             // Send 401 Unauthorized error
