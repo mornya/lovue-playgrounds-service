@@ -11,4 +11,4 @@ export default {
   phone: { type: String },
   createdAt: { type: Date, required: true },
   updatedAt: { type: Date, required: true },
-};
+}

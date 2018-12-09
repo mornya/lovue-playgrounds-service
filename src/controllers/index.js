@@ -6,4 +6,4 @@ export default {
   Sample: require('./SampleController').default,
   SendMail: require('./SendMailController').default,
   User: require('./UserController').default,
-};
+}

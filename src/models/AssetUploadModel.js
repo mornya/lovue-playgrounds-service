@@ -16,4 +16,4 @@ export default {
       updatedAt: { type: Date, required: true },
     },
   ],
-};
+}

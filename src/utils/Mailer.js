@@ -1,4 +1,4 @@
-import mailer from 'nodemailer';
+import mailer from 'nodemailer'
 
 /**
  * {
@@ -20,9 +20,9 @@ const defaultMailerData = {
   to: 'test@email.com',
   subject: 'Untitled',
   html: ``,
-};
+}
 
-function send(mailForm) {
+function send (mailForm) {
   const {
     MAILER_SERVICE,
     MAILER_USER,
@@ -30,8 +30,8 @@ function send(mailForm) {
     MAILER_CLIENT_SECRET,
     MAILER_REFRESH_TOKEN,
     MAILER_ACCESS_TOKEN,
-    MAILER_EXPIRES
-  } = process.env;
+    MAILER_EXPIRES,
+  } = process.env
   const smtpTransport = mailer.createTransport({
     service: MAILER_SERVICE,
     auth: {
@@ -43,17 +43,17 @@ function send(mailForm) {
       accessToken: MAILER_ACCESS_TOKEN,
       expires: MAILER_EXPIRES,
     },
-  });
-  const data = { ...defaultMailerData, ...mailForm };
+  })
+  const data = { ...defaultMailerData, ...mailForm }
 
   return new Promise((resolve, reject) => {
     smtpTransport.sendMail(data, (err, res) => {
-      smtpTransport.close();
-      err ? reject(err) : resolve(res);
-    });
-  });
+      smtpTransport.close()
+      err ? reject(err) : resolve(res)
+    })
+  })
 }
 
 export default {
   send,
-};
+}

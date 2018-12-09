@@ -15,4 +15,4 @@ export default {
   ASSET_UPLOAD_FAIL: { status: 500, code: 'ASSET_UPLOAD_FAIL', message: 'Failed asset file upload' },
   // Mailer (sendMail) Error
   MAILER_FAIL: { status: 500, code: 'SEND_MAIL_FAIL', message: 'Failed send mail' },
-};
+}

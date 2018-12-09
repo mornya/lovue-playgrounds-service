@@ -1,18 +1,18 @@
 /*
  * 소셜 로그인 설정
  */
-import passport from 'passport';
-import FacebookStrategy from 'passport-facebook';
-import { OAuth2Strategy as GoogleStrategy } from 'passport-google-oauth';
-import NaverStrategy from 'passport-naver';
-import KakaoStrategy from 'passport-kakao';
+import passport from 'passport'
+import FacebookStrategy from 'passport-facebook'
+import { OAuth2Strategy as GoogleStrategy } from 'passport-google-oauth'
+import NaverStrategy from 'passport-naver'
+import KakaoStrategy from 'passport-kakao'
 
 export default (controllerMap) => {
-  const { env } = process;
-  const userController = controllerMap.User;
+  const { env } = process
+  const userController = controllerMap.User
 
-  passport.serializeUser((user, done) => userController.serializeUser(user, done));
-  passport.deserializeUser((id, done) => userController.deserializeUser(id, done));
+  passport.serializeUser((user, done) => userController.serializeUser(user, done))
+  passport.deserializeUser((id, done) => userController.deserializeUser(id, done))
 
   // Initialize Facebook Strategy
   passport.use(
@@ -22,9 +22,9 @@ export default (controllerMap) => {
       callbackURL: env.PASSPORT_FACEBOOK_CALLBACK_URL,
       profileFields: JSON.parse(env.PASSPORT_FACEBOOK_PROFILE_FIELDS),
     }, (accessToken, refreshToken, profile, done) => {
-      userController.saveAuthenticate('facebook', accessToken, refreshToken, profile, done);
-    })
-  );
+      userController.saveAuthenticate('facebook', accessToken, refreshToken, profile, done)
+    }),
+  )
 
   // Initialize Google OAuth2 Strategy
   passport.use(
@@ -34,9 +34,9 @@ export default (controllerMap) => {
       callbackURL: env.PASSPORT_GOOGLE_CALLBACK_URL,
       scope: JSON.parse(env.PASSPORT_GOOGLE_SCOPE),
     }, (accessToken, refreshToken, profile, done) => {
-      userController.saveAuthenticate('google', accessToken, refreshToken, profile, done);
-    })
-  );
+      userController.saveAuthenticate('google', accessToken, refreshToken, profile, done)
+    }),
+  )
 
   // Initialize Naver Strategy
   passport.use(
@@ -47,11 +47,11 @@ export default (controllerMap) => {
     }, (accessToken, refreshToken, profile, done) => {
       const modifiedProfile = {
         ...profile,
-        photos: [ { value: profile._json.profile_image } ],
-      };
-      userController.saveAuthenticate('naver', accessToken, refreshToken, modifiedProfile, done);
-    })
-  );
+        photos: [{ value: profile._json.profile_image }],
+      }
+      userController.saveAuthenticate('naver', accessToken, refreshToken, modifiedProfile, done)
+    }),
+  )
 
   // Initialize Kakao Strategy
   passport.use(
@@ -62,12 +62,12 @@ export default (controllerMap) => {
     }, (accessToken, refreshToken, profile, done) => {
       const modifiedProfile = {
         ...profile,
-        emails: [ { value: profile._json.kaccount_email_verified ? profile._json.kaccount_email : '' } ],
-        photos: [ { value: profile._json.properties.profile_image } ],
-      };
-      userController.saveAuthenticate('kakao', accessToken, refreshToken, modifiedProfile, done);
-    })
-  );
+        emails: [{ value: profile._json.kaccount_email_verified ? profile._json.kaccount_email : '' }],
+        photos: [{ value: profile._json.properties.profile_image }],
+      }
+      userController.saveAuthenticate('kakao', accessToken, refreshToken, modifiedProfile, done)
+    }),
+  )
 
-  return passport;
+  return passport
 };

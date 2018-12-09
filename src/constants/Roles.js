@@ -1,1 +1,1 @@
-export default [ 'NONE', 'READER', 'WRITER', 'MANAGER', 'ADMIN' ];
+export default ['NONE', 'READER', 'WRITER', 'MANAGER', 'ADMIN']
