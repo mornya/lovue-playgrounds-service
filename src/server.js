@@ -18,7 +18,7 @@ const servers = {
 }
 
 const start = (routeSet, passport = null) => {
-  const { PORT, HTTP_PORT, HTTPS_PORT JWT_SECRET, PATH_ASSETS } = process.env
+  const { PORT, HTTP_PORT, HTTPS_PORT, JWT_SECRET, PATH_ASSETS } = process.env
 
   app.disable('x-powered-by')
 
