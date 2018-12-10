@@ -3,11 +3,12 @@ import BaseController from 'controllers/BaseController'
 import { getToken } from 'utils/JWT'
 
 export default class AuthController extends BaseController {
-  constructor (router) {
+  constructor (router, { UserLog }) {
     super()
 
     this.router = router
     this.router.get('/auth', this.authentication)
+    this.router.post('/auth/signout', this.signout)
     this.router.get('/auth/facebook', this.passportAuth('facebook', { scope: 'email' }))
     this.router.get('/auth/facebook/callback', this.passportAuthCallback('facebook'))
     this.router.get('/auth/google', this.passportAuth('google', { scope: ['openid', 'email'] }))
@@ -16,6 +17,8 @@ export default class AuthController extends BaseController {
     this.router.get('/auth/naver/callback', this.passportAuthCallback('naver'))
     this.router.get('/auth/kakao', this.passportAuth('kakao'))
     this.router.get('/auth/kakao/callback', this.passportAuthCallback('kakao'))
+
+    this.userLogModel = UserLog
   }
 
   authentication = (req, res) => {
@@ -34,6 +37,29 @@ export default class AuthController extends BaseController {
       res.redirect(301, `/auth/${provider}`)
     } else {
       this.sendResponseError(res, this.responseCodes.HTTP_403) // Forbidden
+    }
+  }
+
+  signout = (req, res) => {
+    const { userId, provider } = req.body
+
+    if (userId && provider) {
+      // 로그아웃 기록 저장
+      this.userLogModel.findOne({ userId, provider })
+        .then((resultData) => {
+          const date = new Date()
+
+          if (resultData) {
+            // signin 기록이 없을 수 없다고 가정하고 update 처리만 한다.
+            return this.userLogModel.update({ userId, provider }, { $push: { signoutLogs: date } })
+          } else {
+            throw new Error('No user log info to write signed-out time.')
+          }
+        })
+        .then((resultData) => this.sendResponse(res, resultData))
+        .catch((err) => this.logWarn(err)) // 실패 오류 및 후속 처리는 아무것도 없음
+    } else {
+      this.sendResponse(res, {})
     }
   }
 

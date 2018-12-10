@@ -20,6 +20,10 @@ export default class BaseController {
     responseError(response, this.responseCodes.HTTP_500, exceptionInfo)
   }
 
+  logWarn = (exceptionInfo) => console.warn(`🔶 WARN: ${exceptionInfo}`);
+
+  logError = (exceptionInfo) => console.error(`🔴 ERROR: ${exceptionInfo}`);
+
   authorize = (acceptRole, acceptGroup) => (req, res, next) => {
     const accessToken = req.headers.authorization || req.query.token
     if (accessToken) {
