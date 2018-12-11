@@ -7,8 +7,6 @@ export default class AuthController extends BaseController {
     super()
 
     this.router = router
-    this.router.get('/auth', this.authentication)
-    this.router.post('/auth/signout', this.signout)
     this.router.get('/auth/facebook', this.passportAuth('facebook', { scope: 'email' }))
     this.router.get('/auth/facebook/callback', this.passportAuthCallback('facebook'))
     this.router.get('/auth/google', this.passportAuth('google', { scope: ['openid', 'email'] }))
@@ -17,11 +15,12 @@ export default class AuthController extends BaseController {
     this.router.get('/auth/naver/callback', this.passportAuthCallback('naver'))
     this.router.get('/auth/kakao', this.passportAuth('kakao'))
     this.router.get('/auth/kakao/callback', this.passportAuthCallback('kakao'))
+    this.router.post('/auth/signout', this.signout)
 
     this.userLogModel = UserLog
   }
 
-  authentication = (req, res) => {
+  setCookieForAuth = (req, res) => {
     const { provider, redirectUrl } = req.query
     const cookieOptions = {
       expires: new Date(Date.now() + 300000), // 5min (5 * 60 * 1000)
@@ -31,11 +30,7 @@ export default class AuthController extends BaseController {
     if (redirectUrl) {
       res.cookie('redirectUrl', redirectUrl, cookieOptions)
     }
-
-    if (provider) {
-      res.cookie('authentication', 'root', cookieOptions)
-      res.redirect(301, `/auth/${provider}`)
-    } else {
+    if (!provider) {
       this.sendResponseError(res, this.responseCodes.HTTP_403) // Forbidden
     }
   }
@@ -64,15 +59,8 @@ export default class AuthController extends BaseController {
   }
 
   passportAuth = (provider, option) => (req, res, next) => {
-    console.warn('COOKIES >>>', req.cookies, req.cookies.authentication)
-    if (req.cookies && req.cookies.authentication) {
-      res.clearCookie('authentication');
-      (
-        passport.authenticate(provider, option)
-      )(req, res, next)
-    } else {
-      this.sendResponseError(res, this.responseCodes.HTTP_403) // Forbidden
-    }
+    this.setCookieForAuth(req, res)
+    passport.authenticate(provider, option, null)(req, res, next)
   }
 
   passportAuthCallback = (provider) => (req, res, next) => {
@@ -110,7 +98,7 @@ export default class AuthController extends BaseController {
                 origin,
               }))
         }
-      })
+      }, null)
     )(req, res, next)
   }
 }
