@@ -64,6 +64,7 @@ export default class AuthController extends BaseController {
   }
 
   passportAuth = (provider, option) => (req, res, next) => {
+    console.warn('COOKIES >>>', req.cookies, req.cookies.authentication)
     if (req.cookies && req.cookies.authentication) {
       res.clearCookie('authentication');
       (
