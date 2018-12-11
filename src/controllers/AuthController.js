@@ -56,7 +56,7 @@ export default class AuthController extends BaseController {
       const passportCallback = (err, user/*, info*/) => {
         const redirectUrl = (req.cookies && req.cookies.redirectUrl) || ''
         const origin = process.env.URL_ORIGIN_UI
-        console.warn('REDIRECT TO >>>', redirectUrl)
+
         res.clearCookie('redirectUrl') // always clear cookie
 
         if (err) {
