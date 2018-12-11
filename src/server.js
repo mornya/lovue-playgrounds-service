@@ -54,6 +54,16 @@ const start = (routeSet, passport = null) => {
     app.use(passport.session())
   }
 
+  // CORS
+  app.use((req, res, next) => {
+    res.header('Access-Control-Allow-Origin', '*')
+    res.header('Access-Control-Allow-Credentials', true)
+    res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS')
+    res.header('Access-Control-Allow-Headers', 'Origin,X-Requested-With,Content-Type,Accept,content-type,application/json')
+    next()
+  })
+
+  // Route from root
   app.use('/', routeSet)
 
   // Catch 404 and forward to error handler
