@@ -3,11 +3,6 @@ extends layout-blank
 block content
   script.
     var targetWindow = window.opener || window.parent;
-    console.log('JWT RETRIVE >>>', {
-      isSuccess: #{isSuccess},
-      redirectUrl: '#{redirectUrl}',
-      payload: '#{payload}'
-    }, '#{origin}')
     targetWindow.postMessage({
       isSuccess: #{isSuccess},
       redirectUrl: '#{redirectUrl}',
