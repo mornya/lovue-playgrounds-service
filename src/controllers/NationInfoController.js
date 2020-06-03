@@ -5,23 +5,50 @@ export default class NationInfoController extends BaseController {
     super()
 
     this.router = router
-    this.router.get('/nationInfo', this.getList)
-    this.router.get('/nationInfo/reset', this.postReset)
+    this.router.get('/nationInfo', this.getInfo)
+    this.router.get('/nationInfo/:alpha3Code', this.getInfo)
+    this.router.get('/nationInfo/:alpha3Code/memo', this.getMemo)
+    this.router.post('/nationInfo/:alpha3Code/memo', this.postMemo)
+    this.router.post('/nationInfo/reset', this.postReset)
 
     this.nationInfoModel = NationInfo
   }
 
   /**
    * GET /nationInfo
+   * GET /nationInfo/:alpha3Code
    */
-  getList = (req, res) => {
-    this.nationInfoModel.find({},
-      {
-        _id: 0,
-        createdAt: 1,
-        updatedAt: 1,
-      })
-      .then((resultData) => this.sendResponse(res, { nations: resultData }))
+  getInfo = (req, res) => {
+    const { alpha3Code } = req.params
+    this.nationInfoModel.find(alpha3Code ? { alpha3Code } : {}, {
+      _id: 0,
+      __v: 0,
+      memo: 0,
+    })
+      .then((resultData) => this.sendResponse(res, { count: resultData.length, result: resultData }))
+      .catch((err) => this.sendResponseException(res, err))
+  }
+
+  /**
+   * GET /nationInfo/:alpha3Code/memo
+   */
+  getMemo = (req, res) => {
+    const { alpha3Code } = req.params
+    this.nationInfoModel.find({ alpha3Code }, {
+      memo: 1,
+    })
+      .then((resultData) => this.sendResponse(res, { result: resultData }))
+      .catch((err) => this.sendResponseException(res, err))
+  }
+
+  /**
+   * POST /nationInfo/:alpha3Code/memo
+   */
+  postMemo = (req, res) => {
+    const { alpha3Code } = req.params
+    const { memo = { id: '1', content: 'content' } } = req.body
+    this.nationInfoModel.findOneAndUpdate({ alpha3Code }, { memo })
+      .then((/*resultData*/) => this.sendResponse(res, {}))
       .catch((err) => this.sendResponseException(res, err))
   }
 

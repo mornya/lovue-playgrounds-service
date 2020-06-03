@@ -17,19 +17,7 @@ export default class UserController extends BaseController {
   }
 
   getUsers = (req, res) => {
-    this.userModel.find({},
-      {
-        _id: 0,
-        group: 1,
-        role: 1,
-        userId: 1,
-        provider: 1,
-        userName: 1,
-        photoUrl: 1,
-        email: 1,
-        createdAt: 1,
-        updatedAt: 1,
-      })
+    this.userModel.find({}, { _id: 0 })
       .then((resultData) => this.sendResponse(res, { users: resultData }))
       .catch((err) => this.sendResponseException(res, err))
   }
@@ -42,17 +30,7 @@ export default class UserController extends BaseController {
     const userId = req.params.userId
     const provider = req.params.provider
     if (userId && provider) {
-      this.userModel.findOne({ userId, provider },
-        {
-          _id: 0,
-          group: 1,
-          role: 1,
-          userName: 1,
-          photoUrl: 1,
-          email: 1,
-          createdAt: 1,
-          updatedAt: 1,
-        })
+      this.userModel.findOne({ userId, provider }, { _id: 0 })
         .then((resultData) => {
           // 사용자의 privileges 추가
           const userRoleIndex = this.userRoles.findIndex((item) => item === resultData.role)
