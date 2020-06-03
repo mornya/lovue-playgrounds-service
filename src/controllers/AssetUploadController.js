@@ -129,7 +129,7 @@ export default class AssetUploadController extends BaseController {
     const fileIds = req.body.fileIds
 
     if (userId && groupName) {
-      this.assetUploadModel.remove({ userId, groupName, files: { $in: fileIds } })
+      this.assetUploadModel.deleteMany({ userId, groupName, files: { $in: fileIds } })
         .then((resultData) => this.sendResponse(res, resultData))
         .catch((err) => this.sendResponseException(res, err))
     } else {

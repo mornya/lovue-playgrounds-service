@@ -2,6 +2,7 @@
 export default {
   AssetUpload: require('./AssetUploadController').default,
   Auth: require('./AuthController').default,
+  NationInfo: require('./NationInfoController').default,
   Root: require('./RootController').default,
   Sample: require('./SampleController').default,
   SendMail: require('./SendMailController').default,

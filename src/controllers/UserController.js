@@ -103,7 +103,7 @@ export default class UserController extends BaseController {
     const provider = req.params.provider
 
     if (userId && provider) {
-      this.userModel.remove({ userId, provider })
+      this.userModel.deleteOne({ userId, provider })
         .then((resultData) => this.sendResponse(res, resultData))
         .catch((err) => this.sendResponseException(res, err))
     } else {

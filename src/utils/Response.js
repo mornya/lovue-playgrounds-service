@@ -9,6 +9,7 @@ const responseSuccess = (response, data = {}) => {
     payload: { ...data },
   }
   response.status(succ.status).send(result)
+  return true // promise.then에서 return이 필요하기 때문에 값을 true로 전달
 }
 
 const responseError = (response, errorCode, exceptionInfo = {}) => {

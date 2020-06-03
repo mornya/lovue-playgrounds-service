@@ -37,7 +37,8 @@
     "lint": "eslint --cache --cache-location node_modules/.cache/eslintcache --ignore-pattern .gitignore --ext js --max-warnings 100 ./src",
     "test": "jest --color true --watchAll",
     "heroku-prebuild": "cp .env.production .env",
-    "heroku-postbuild": "mkdir -p dist && npm run -s build"
+    "heroku-postbuild": "mkdir -p dist && npm run -s build",
+    "deploy": "git push heroku master"
   },
   "dependencies": {
     "acorn": "^7.2.0",

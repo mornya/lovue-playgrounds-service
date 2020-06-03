@@ -39,7 +39,7 @@ export default class SampleController extends BaseController {
   }
 
   deleteSample = (req, res) => {
-    this.SampleModel.remove({ _id: req.params.id })
+    this.SampleModel.deleteOne({ _id: req.params.id })
       .then((sample) => res.send(sample))
       .catch((err) => this.sendResponseException(res, err))
   }
