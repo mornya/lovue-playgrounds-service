@@ -19,8 +19,6 @@ export default class AssetUploadController extends BaseController {
 
   /**
    * 업로드 미들웨어 설정
-   *
-   * @return {*|DiskStorage}
    */
   getStorage = () =>
     multer.diskStorage({

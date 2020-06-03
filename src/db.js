@@ -25,11 +25,11 @@ const modelMap = Object.entries(models).reduce((modelSet, [k, v]) => {
   const schema = new mongoose.Schema(v, { timestamps: true, collection })
 
   // create: new this 때문에 array function 사용하지 않음
-  schema.statics.create = function(payload) {
+  schema.statics.create = function (payload) {
     const curr = new this(payload)
     return curr.save()
   }
-  schema.statics.findAll = function() {
+  schema.statics.findAll = function () {
     return this.find({})
   }
 
@@ -41,12 +41,12 @@ const modelMap = Object.entries(models).reduce((modelSet, [k, v]) => {
  * Exports MongoDB Server connection promise
  */
 const connect = () => {
-  const { MONGODB_USER, MONGODB_PASS, MONGODB_HOST, MONGODB_DATABASE } = process.env
+  const { MONGODB_USER, MONGODB_PASS = '', MONGODB_HOST, MONGODB_DATABASE } = process.env
   const mongodbUri = `mongodb://${MONGODB_USER}:${encodeURIComponent(MONGODB_PASS)}@${MONGODB_HOST}/${MONGODB_DATABASE}`
   const mongodbOpts = {
     keepAlive: 1,
-    reconnectTries: 30,
     useNewUrlParser: true,
+    useUnifiedTopology: true,
   }
 
   return mongoose.connect(mongodbUri, mongodbOpts)
