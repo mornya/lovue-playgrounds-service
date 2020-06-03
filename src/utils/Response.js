@@ -1,12 +1,12 @@
 import responseCodes from 'constants/ResponseCodes'
 
-const responseSuccess = (response, data = {}) => {
+const responseSuccess = (response, payload = null) => {
   const succ = responseCodes.SUCC
   const result = {
     isSuccess: true,
     statusCode: succ.code,
     statusMessage: succ.message,
-    payload: { ...data },
+    payload,
   }
   response.status(succ.status).send(result)
   return true // promise.then에서 return이 필요하기 때문에 값을 true로 전달

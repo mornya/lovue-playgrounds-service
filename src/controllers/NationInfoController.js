@@ -6,9 +6,9 @@ export default class NationInfoController extends BaseController {
 
     this.router = router
     this.router.get('/nationInfo', this.getInfo)
-    this.router.get('/nationInfo/:alpha3Code', this.getInfo)
-    this.router.get('/nationInfo/:alpha3Code/memo', this.getMemo)
-    this.router.post('/nationInfo/:alpha3Code/memo', this.postMemo)
+    this.router.get('/nationInfo/:alpha2Code', this.getInfo)
+    this.router.get('/nationInfo/memo/:alpha2Code', this.getMemo)
+    this.router.post('/nationInfo/memo/:alpha2Code', this.postMemo)
     this.router.post('/nationInfo/reset', this.postReset)
 
     this.nationInfoModel = NationInfo
@@ -16,38 +16,39 @@ export default class NationInfoController extends BaseController {
 
   /**
    * GET /nationInfo
-   * GET /nationInfo/:alpha3Code
+   * GET /nationInfo/:alpha2Code
    */
   getInfo = (req, res) => {
-    const { alpha3Code } = req.params
-    this.nationInfoModel.find(alpha3Code ? { alpha3Code } : {}, {
+    const { alpha2Code } = req.params
+    this.nationInfoModel.find(alpha2Code ? { alpha2Code } : {}, {
       _id: 0,
       __v: 0,
       memo: 0,
     })
-      .then((resultData) => this.sendResponse(res, { count: resultData.length, result: resultData }))
+      .then((resultData) => this.sendResponse(res, resultData))
       .catch((err) => this.sendResponseException(res, err))
   }
 
   /**
-   * GET /nationInfo/:alpha3Code/memo
+   * GET /nationInfo/memo/:alpha2Code
    */
   getMemo = (req, res) => {
-    const { alpha3Code } = req.params
-    this.nationInfoModel.find({ alpha3Code }, {
+    const { alpha2Code } = req.params
+    this.nationInfoModel.findOne({ alpha2Code }, {
+      _id: 0,
       memo: 1,
     })
-      .then((resultData) => this.sendResponse(res, { result: resultData }))
+      .then((resultData) => this.sendResponse(res, resultData.memo))
       .catch((err) => this.sendResponseException(res, err))
   }
 
   /**
-   * POST /nationInfo/:alpha3Code/memo
+   * POST /nationInfo/memo/:alpha2Code
    */
   postMemo = (req, res) => {
-    const { alpha3Code } = req.params
-    const { memo = { id: '1', content: 'content' } } = req.body
-    this.nationInfoModel.findOneAndUpdate({ alpha3Code }, { memo })
+    const { alpha2Code } = req.params
+    const { memo } = req.body
+    this.nationInfoModel.findOneAndUpdate({ alpha2Code }, { memo })
       .then((/*resultData*/) => this.sendResponse(res, {}))
       .catch((err) => this.sendResponseException(res, err))
   }
