@@ -3,8 +3,15 @@ export default {
   alpha3Code: { type: String, required: true },
   numericCode: { type: Number, required: true },
   officialName: { type: String, required: true },
-  localName: { type: String, required: true },
+  officialNameLocal: { type: String, required: true },
+  fullName: { type: String },
+  fullNameLocal: { type: String },
   capital: { type: String },
+  capitalLocal: { type: String },
+  continent: { type: String, required: true, default: '-' },
+  language: [
+    { type: String, required: true },
+  ],
   localISOCode: { type: String },
   latitude: { type: Number, required: true },
   longitude: { type: Number, required: true },
@@ -15,6 +22,7 @@ export default {
   phoneCode: { type: String },
   daylightSavingFlag: { type: String, required: true },
   specialFlag: { type: String, required: true },
+  flagImageUrl: { type: String },
   memo: [
     {
       id: { type: String, required: true },

@@ -1,0 +1,4339 @@
+[
+  {
+    "moreInfo": [
+      "수도인구: 227만 명 (2018년)",
+      "※ The Greater Accra Metropolitan Area(GAMA): 인구 약 400만 명 (2018년)",
+      "인구: 3,028만 명 (2019년)",
+      "면적: 238,539㎢ (한반도의 1.1배)",
+      "종교: 기독교(71%), 이슬람교(18.6%), 토속 종교(8.5%) 등"
+    ],
+    "language": [
+      "영어(공용어)",
+      "토착어(Twi어, Ewe어 등)"
+    ],
+    "capitalLocal": "아크라",
+    "continent": "중동/아프리카",
+    "fullName": "Republic of Ghana",
+    "fullNameLocal": "가나공화국",
+    "countryEnName": "Ghana",
+    "countryName": "가나",
+    "id": "390",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=FILE_000000000010504&file_sn=1",
+    "lastUpdated": "2014-08-04"
+  },
+  {
+    "moreInfo": [
+      "위치: 남태평양 남위 19°, 서경 169°, 뉴질랜드 북쪽 2,400km, 사모아 동남쪽 560km",
+      "면적: 260㎢",
+      "민족구성: 니우에인(폴리네시아계)",
+      "종교: 기독교(67%)"
+    ],
+    "language": [
+      "영어",
+      "나우에어"
+    ],
+    "capitalLocal": "알로피",
+    "continent": "중동/아프리카",
+    "fullName": "Niue",
+    "fullNameLocal": "니우에",
+    "countryEnName": "Niue",
+    "countryName": "니우에",
+    "id": "380",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=FILE_000000000008142&file_sn=1",
+    "lastUpdated": "2013-12-16"
+  },
+  {
+    "moreInfo": [
+      "위치: 중국 광동지역의 주강 삼각주에 위치, 위도 22°, 북위14°, 경위 113°, 동쪽 35° 마카오 반도와 두 개의 섬으로 구성",
+      "면적: 29.7㎢",
+      "인종: 중국(94%), 포르투갈인, 유럽인, 타지역인(6%)",
+      "통화: 공식화폐는 파타카(pataca)이며, 종종 MOP로 표기됩니다. 홍콩달러가 자유롭게 통용되며, 미화 1달러는 8 파타카에 거래됩니다."
+    ],
+    "language": [
+      "중국어(일반적으로 광동어)",
+      "포르투갈어"
+    ],
+    "capitalLocal": "마카오",
+    "continent": "아시아/태평양",
+    "fullName": "The Macao Special Administrative(Region of the Peoples Republic of China: MACAO SAR)",
+    "fullNameLocal": "중화인민공화국 마카오특별행정구(中華人民共和國澳門特別行政區)",
+    "countryEnName": "Macau",
+    "countryName": "마카오(중국)",
+    "id": "378",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=FILE_000000000006873&file_sn=1",
+    "lastUpdated": "2013-08-05"
+  },
+  {
+    "moreInfo": [
+      "위치: 중국 남동부 해안에 위치, 중국 광주에서 약 144㎞, 마카오에서 약 64㎞",
+      "면적: 1,104㎢, 홍콩섬 81㎢, 구룡반도 47㎢, 신계 및 도서 976㎢",
+      "기후: 아열대성 기후 (연평균 기온 22~33℃)",
+      "역사: 1842년 아편전쟁 후 남경조약으로 홍콩섬, 1860년 북경조약으로 구룡반도, 1898년 구룡조약으로 신계 및 235개 섬이 영국령으로 각기 편입되었다가, 1997.7.1 중국으로 반환"
+    ],
+    "language": [
+      "중국어(광동어)",
+      "영어"
+    ],
+    "capitalLocal": "홍콩",
+    "continent": "아시아/태평양",
+    "fullName": "Hong Kong Administrative(Region of the Peoples Republic of China)",
+    "fullNameLocal": "중화인민공화국 홍콩특별행정구(中華人民共和國香港特別行政區)",
+    "countryEnName": "Hong Kong",
+    "countryName": "홍콩(중국)",
+    "id": "377",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=FILE_000000000006687&file_sn=1",
+    "lastUpdated": "2013-07-11"
+  },
+  {
+    "moreInfo": [
+      "면적: 176만㎢ (한반도의 8배)",
+      "인종: 아랍인(48%), 베르베르족(20%), 투아레그족(12%), 소수민족(20%)",
+      "종교: 이슬람교(수니)"
+    ],
+    "language": [
+      "아랍어"
+    ],
+    "capitalLocal": "트리폴리",
+    "continent": "중동/아프리카",
+    "fullName": "Libya",
+    "fullNameLocal": "리비아",
+    "countryEnName": "Libya",
+    "countryName": "리비아",
+    "id": "375",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=FILE_000000000002230&file_sn=1",
+    "lastUpdated": "2011-12-07"
+  },
+  {
+    "moreInfo": [
+      "위치: 남미 대륙 서북부에 위치, 태평양과 카리브해에 접함",
+      "수도인구: 800만 명, 고도 2,640m",
+      "면적: 1,141,748㎢ (우리나라의 12배)",
+      "인종: 메소티조(백인+인디안, 58%), 백인(20%), 뮬라토(백인+흑인, 14%), 흑인(7%), 인디언(1%)",
+      "종교: 카톨릭(국교, 95%), 기타(5%)",
+      "기후: 열대지역이나 고도에 따라 기후가 다양"
+    ],
+    "language": [
+      "스페인어",
+      "기타(200여 토착 인디언 언어)"
+    ],
+    "capitalLocal": "보고타",
+    "continent": "미주",
+    "fullName": "Republica de Colombia",
+    "fullNameLocal": "콜롬비아 공화국",
+    "countryEnName": "Colombia",
+    "countryName": "콜롬비아",
+    "id": "213",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_213&file_sn=1",
+    "lastUpdated": "2011-09-19"
+  },
+  {
+    "moreInfo": [
+      "면적: 186,475㎢ (14개 주)",
+      "종교: 이슬람교(순니파 74%), 시아파 이슬람/드루즈(16%), 기독교(10%)"
+    ],
+    "language": [
+      "아랍어",
+      "영어",
+      "불어",
+      "쿠르드어",
+      "아르메니아어"
+    ],
+    "capitalLocal": "다마스커스",
+    "continent": "중동/아프리카",
+    "fullName": "Syria",
+    "fullNameLocal": "시리아",
+    "countryEnName": "Syria",
+    "countryName": "시리아",
+    "id": "131",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_131&file_sn=1",
+    "lastUpdated": "2011-08-30"
+  },
+  {
+    "moreInfo": [
+      "위치: 남태평양에 있는 제도로 뉴질랜드에서 북동쪽으로 3,000㎞ 떨어진 곳에 위치하고 있으며, 15개의 섬으로 이루어져 있음",
+      "통화: 뉴질랜드와 자유연합협정을 체결한 자치정부로 뉴질랜드 통화를 사용",
+      "면적: 240㎢ (Rarotonga섬 67㎢, Mangaia섬 51㎢), 15개의 섬으로 구성",
+      "민족구성: 폴레네시아인",
+      "종교: 쿡제도기독교회(69%), 로마카톨릭(15%), 제7일안식일교(17%)"
+    ],
+    "language": [
+      "영어",
+      "폴리네시아어"
+    ],
+    "capitalLocal": "아바루아",
+    "continent": "아시아/태평양",
+    "fullName": "Cook Island",
+    "fullNameLocal": "쿡제도",
+    "countryEnName": "Cook Island",
+    "countryName": "쿡제도",
+    "id": "330",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_330&file_sn=1",
+    "lastUpdated": "2011-08-12"
+  },
+  {
+    "moreInfo": [
+      "위치: 북위 4°~14°, 동경 3°~14°",
+      "면적: 923.768㎡(세계 32위, 한반도 면적의 약 4.25배)",
+      "종교: 이슬람교(45%), 기독교(35%), 토착종교"
+    ],
+    "language": [
+      "영어(공용어)",
+      "하우사어",
+      "플라니어",
+      "요루바어",
+      "이보어",
+      "이조어",
+      "기타(250여 토착 언어)"
+    ],
+    "capitalLocal": "아부자",
+    "continent": "중동/아프리카",
+    "fullName": "Nigeria",
+    "fullNameLocal": "나이지리아",
+    "countryEnName": "Nigeria",
+    "countryName": "나이지리아",
+    "id": "18",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_18&file_sn=1",
+    "lastUpdated": "2011-08-09"
+  },
+  {
+    "moreInfo": [
+      "면적: 637,661㎢",
+      "민족구성: 소말리아계(85%), 헴족, 기타 인도인, 아랍인, 반투인 등",
+      "종교: 이슬람교(수니파)",
+      "기후: 고온 건조"
+    ],
+    "language": [
+      "소말리아어",
+      "아랍어",
+      "이탈리아어(남부)",
+      "영어(소말리랜드 지역)"
+    ],
+    "capitalLocal": "모가디슈",
+    "continent": "중동/아프리카",
+    "fullName": "Federal Republic of Somalia",
+    "fullNameLocal": "소말리아 연방공화국",
+    "countryEnName": "Somalia",
+    "countryName": "소말리아",
+    "id": "120",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_120&file_sn=1",
+    "lastUpdated": "2011-08-08"
+  },
+  {
+    "moreInfo": [
+      "[주의] 이라크는 여행금지 국가로 지정되어 우리 정부의 예외적 여권사용 허가를 발급받지 않고는 입국 및 체류가 불가능합니다.",
+      "2015년 ISIL과의 교전과 폭탄 테러 빈발 등 열악한 치안으로 인해 입국 및 체류 우리 국민은 전원 공무 또는 현지 진출 우리 기업 관련 인사와 근로자이며,",
+      "철저한 경호/경비대책과 신변안전대책을 강구하고 입증한 경우에 한해 예외적 여권사용 허가가 발급됩니다. 예외적 여권사용 허가 없이 불법적으로 이라크에 입국",
+      "또는 체류할 경우, 여권법 위반으로 1년 이하의 징역이나 1,000만 원 이하의 벌금형에 처해질 수 있습니다.",
+      "또한, 모든 우리 국민은 이라크 출입국시 여권법 및 관련 규정에 의거 해당 지역 공관 영사과에 반드시 신고토록 의무화되어 있사오니, 이라크 입출국시 반드시",
+      "아래 연락처로 신고하여 주시기 바랍니다.",
+      "ㅇ 주이라크 한국대사관 영사과 (바그다드)",
+      "- 핸드폰 +964-(0)77-0725-2006 또는 이메일(kembiraq@mofa.go.kr)",
+      "ㅇ 주이라크 한국대사관 아르빌 분관 영사과 (아르빌)",
+      "- 핸드폰 +964-(0)75-0790-1678 또는 이메일(erbil@mofa.go.kr / erbil@gmail.com)",
+      "위치: 바그다드 기준 북위 33°, 동경 44°",
+      "면적: 437,072㎢",
+      "인종: 아랍계 82%, 쿠르드계 13%, 기타 5%(페르시아, 투르크만, 아시리아, 아르메니아 등)",
+      "종교: 이슬람교(97%: 시아파 60%, 아랍계 수니파 20%, 쿠르드계 수니파 15%, 기타 등), 기독교/기타(3%)"
+    ],
+    "language": [
+      "아랍어(공용어)",
+      "쿠르드어(쿠르드 지역 전용)"
+    ],
+    "capitalLocal": "바그다드",
+    "continent": "중동/아프리카",
+    "fullName": "Iraq",
+    "fullNameLocal": "이라크",
+    "countryEnName": "Iraq",
+    "countryName": "이라크",
+    "id": "174",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_174&file_sn=1",
+    "lastUpdated": "2011-08-08"
+  },
+  {
+    "moreInfo": [
+      "수도위치: 해발고도 2,300m 위치",
+      "주요도시: Sana'a, Aden, Taiz, Hodeidah, Ibb, Mukalla",
+      "인구: 약 2,510만 명으로서 매우 높은 인구증가율을 보이고 있으며, 수도 사나(Sana‘a), 남부 타이즈(Taiz)와 아덴(Aden), 서부 항구도시 호데이다(Hodeida) 등 주요 도시를 중심으로 인구가 밀집",
+      "면적: 약 527,968㎢ (한반도의 약 2.4배)",
+      "- 국경선: 1,746㎞ (오만 388㎞, 사우디 1,458㎞)",
+      "- 해안선: 1,906㎞ (남북거리: 565㎞, 동서거리: 1,100㎞)",
+      "기후: 북부 및 중앙고원 지역은 한냉서온, Tihama 및 남부해안지역은 고온다습, 동부고원 및 사막은 고온건조 사막기후"
+    ],
+    "language": [
+      "남아라비아어",
+      "소코트라어",
+      "아랍어"
+    ],
+    "capitalLocal": "사나",
+    "continent": "중동/아프리카",
+    "fullName": "Republic of Yemen",
+    "fullNameLocal": "예멘 공화국",
+    "countryEnName": "Yemen",
+    "countryName": "예멘",
+    "id": "294",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_294&file_sn=1",
+    "lastUpdated": "2011-08-08"
+  },
+  {
+    "moreInfo": [
+      "위치: 서남아시아 동경 65°, 북위 33°",
+      "면적: 652,000km(한반도의 3배)",
+      "인종: 파슈툰족(42%), 타지크족(27%), 하자라족(9%), 우즈베크족(9%)",
+      "종교: 이슬람교"
+    ],
+    "language": [
+      "다리어",
+      "파슈토어"
+    ],
+    "capitalLocal": "카불",
+    "continent": "아시아/태평양",
+    "fullName": "Afghanistan",
+    "fullNameLocal": "아프가니스탄",
+    "countryEnName": "Afghanistan",
+    "countryName": "아프가니스탄",
+    "id": "284",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_284&file_sn=1",
+    "lastUpdated": "2011-08-08"
+  },
+  {
+    "moreInfo": [
+      "위치: 카스피해 연안에 위치, 러시아조지아, 아르메니아 이란 터키와 접경",
+      "면적: 약 86,600킬로미터.",
+      "종교: 이슬람교(95.2%) 러시아정교(2.5%) 등"
+    ],
+    "language": [
+      "아제르바이잔어(공용어)",
+      "러시아어(부분적으로 사용)",
+      "기타(레즈긴어, 탈리시어, 아바르어, 조지아어, 차후르어, 쿠르드어, 타트어, 우디어)"
+    ],
+    "capitalLocal": "바쿠",
+    "continent": "유럽",
+    "fullName": "Azerbaijan",
+    "fullNameLocal": "아제르바이잔",
+    "countryEnName": "Azerbaijan",
+    "countryName": "아제르바이잔",
+    "id": "335",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_335&file_sn=1",
+    "lastUpdated": "2011-08-08"
+  },
+  {
+    "moreInfo": [
+      "면적: 111.369㎡"
+    ],
+    "language": [
+      "영어(공용어)"
+    ],
+    "capitalLocal": "몬로비아",
+    "continent": "중동/아프리카",
+    "fullName": "Liberia",
+    "fullNameLocal": "라이베리아",
+    "countryEnName": "Liberia",
+    "countryName": "라이베리아",
+    "id": "37",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_37&file_sn=1",
+    "lastUpdated": "2011-08-05"
+  },
+  {
+    "moreInfo": [
+      "면적: 26,338㎢ (남한의 약 1/4)",
+      "기후: 열대성 기후(연평균 20.5℃)",
+      "종교: 개신교(50.2%), 가톨릭(44.3%), 이슬람(2%), 기타(0.9%), 무교(2.5%)",
+      "인구: 1,208만 명 (르완다 통계청, 2018)"
+    ],
+    "language": [
+      "키냐르완다어어",
+      "불어",
+      "영어"
+    ],
+    "capitalLocal": "키갈리",
+    "continent": "중동/아프리카",
+    "fullName": "Rwanda",
+    "fullNameLocal": "르완다",
+    "countryEnName": "Rwanda",
+    "countryName": "르완다",
+    "id": "45",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_45&file_sn=1",
+    "lastUpdated": "2011-08-05"
+  },
+  {
+    "moreInfo": [
+      "인구: 2,010만 7,509명 (2017년 CIA)",
+      "면적: 274,200㎢ (한반도의 1.2배)",
+      "종족: 모시(52%), 풀라니(8.4%) 등",
+      "종교: 이슬람(61.5%), 가톨릭(23.3%), 애니미즘(7.8%), 개신교(6.5%)",
+      "GDP: 131.8억불 (2017년 IMF)",
+      "1인당 GDP: 696불 (2017년 IMF)",
+      "경제성장률(GDP): 6.4% (2017년 IMF)"
+    ],
+    "language": [
+      "프랑스어(공용어)",
+      "기타 토착어"
+    ],
+    "capitalLocal": "와가두구",
+    "continent": "중동/아프리카",
+    "fullName": "Burkina Faso",
+    "fullNameLocal": "부르키나파소",
+    "countryEnName": "Burkina Faso",
+    "countryName": "부르키나파소",
+    "id": "94",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_94&file_sn=1",
+    "lastUpdated": "2011-08-05"
+  },
+  {
+    "moreInfo": [
+      "면적: 188만㎢ (한반도의 8.6배)",
+      "인종: 아랍계(70%), 흑인계(베자, 누바(Beja, Nuba), 30%)",
+      "종교: 이슬람교, 토착종교, 기독교"
+    ],
+    "language": [
+      "아랍어"
+    ],
+    "capitalLocal": "카르툼",
+    "continent": "중동/아프리카",
+    "fullName": "Sudan",
+    "fullNameLocal": "수단",
+    "countryEnName": "Sudan",
+    "countryName": "수단",
+    "id": "122",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_122&file_sn=1",
+    "lastUpdated": "2011-08-05"
+  },
+  {
+    "moreInfo": [
+      "면적: 765.3㎢ (본섬+36개 도서로 구성), 서울의 약 1.2배",
+      "종교: 이슬람교(83%(수니파 약 40%, 시아파 60%)), 기타(기독교/힌두교 등 17%)"
+    ],
+    "language": [
+      "아랍어(공용어)",
+      "영어"
+    ],
+    "capitalLocal": "마나마",
+    "continent": "중동/아프리카",
+    "fullName": "Kingdom of Bahrain",
+    "fullNameLocal": "바레인",
+    "countryEnName": "Bahrain",
+    "countryName": "바레인",
+    "id": "288",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_288&file_sn=1",
+    "lastUpdated": "2011-08-05"
+  },
+  {
+    "moreInfo": [
+      "면적: 121,320㎢ (한반도의 1/2)",
+      "민족구성: Tigrinya족, Tigre족, Kunama족 등",
+      "종교: 에리트레아정교(50%), 이슬람교(48%), 기타종교(2%)",
+      "기후: 건조기후, 열대기후, 고산기후",
+      "- 연평균 기온: 내륙고지대 17℃, 해안저지대 30℃",
+      "- 연평균 강우량: 450-550mm",
+      "- 건기: 10~3월, 우기: 6~9월"
+    ],
+    "language": [
+      "티그리냐어",
+      "아랍어",
+      "영어"
+    ],
+    "capitalLocal": "아스마라",
+    "continent": "중동/아프리카",
+    "fullName": "The State of Eritrea",
+    "fullNameLocal": "에리트레아 국",
+    "countryEnName": "Eritrea",
+    "countryName": "에리트레아",
+    "id": "338",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_338&file_sn=1",
+    "lastUpdated": "2011-08-05"
+  },
+  {
+    "moreInfo": [
+      "위치: 주바(Juba) 기준 북위 8°, 동경 30°",
+      "면적: 644.329㎢ (한반도의 3.8배)",
+      "인종: 아프리카 흑인, 최대 부족으로 딩카(Dinka)외에 카크와(Kakwa), 바리(Bari), 아잔드(Azande), 쿠쿠(Kuku) 등 다수 부족이 혼재",
+      "종교: 그리스도교, 애니미즘"
+    ],
+    "language": [
+      "영어(공용어)",
+      "아랍어",
+      "기타(각 부족 고유 언어)"
+    ],
+    "capitalLocal": "주바",
+    "continent": "중동/아프리카",
+    "fullName": "The Republic of South Sudan",
+    "fullNameLocal": "남수단 공화국",
+    "countryEnName": "Republic of South Sudan",
+    "countryName": "남수단",
+    "id": "373",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_373&file_sn=1",
+    "lastUpdated": "2011-08-05"
+  },
+  {
+    "moreInfo": [
+      "위치: 동경 92-102°, 북위 10-28° (인도차이나반도 북서쪽에 위치)",
+      "- 남쪽으로는 안다만해, 남서쪽으로는 벵갈만을 접하고, 동쪽으로는 태국(1,800㎞), 라오스(235㎞), 북쪽으로는 중국(2,185㎞), 서쪽으로는 인도(1,463㎞) 및 방글라데시(193㎞)와 접경(총 5,876㎞)",
+      "면적: 676,577㎢ (한반도의 약 3배, 국토 66%가 산림지대)",
+      "인종: 버마족(70%), 소수족(25%(카친, 카렌, 친, 샨, 꺼야, 몬, 라카인)), 기타(5%(중국/인도계 등))",
+      "종교: 불교(87.9%), 기독교(6.2%), 이슬람교(4.3%), 토속신앙(0.8%), 힌두교(0.5%) 등"
+    ],
+    "language": [
+      "미얀마어(공용어)",
+      "영어(양곤 일부)",
+      "중국어(만달레이, 중국 접경 지역)",
+      "태국어(태국 접경 일부 지역)"
+    ],
+    "capitalLocal": "네피도",
+    "continent": "아시아/태평양",
+    "fullName": "The Republic of the Union of Myanmar",
+    "fullNameLocal": "미얀마 연방공화국",
+    "countryEnName": "Myanmar",
+    "countryName": "미얀마",
+    "id": "75",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_75&file_sn=1",
+    "lastUpdated": "2011-08-05"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 약 1,500만 명",
+      "면적: 147,570㎢ (한반도의 약 2/3)",
+      "민족구성: 벵갈인(98%)",
+      "종교: 회교(89.1%, 국교), 힌두교(10%), 기타(불교/기독교 등 0.9%)"
+    ],
+    "language": [
+      "벵갈어(90%, 공용어)"
+    ],
+    "capitalLocal": "다카",
+    "continent": "아시아/태평양",
+    "fullName": "Bangladesh",
+    "fullNameLocal": "방글라데시",
+    "countryEnName": "Bangladesh",
+    "countryName": "방글라데시",
+    "id": "82",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_82&file_sn=1",
+    "lastUpdated": "2011-08-05"
+  },
+  {
+    "moreInfo": [
+      "기후: 대륙성 기후",
+      "면적: 198,500㎢ (한반도: 220,000㎢)",
+      "주요민족: 다민족 국가(80여개 민족)",
+      "- 키르기즈人(72%), 우즈벡人(14.5%), 러시아人(6.4%)과 둔간. 타직, 카자흐, 위구르, 터어키 민족 등",
+      "- 고려인 2만여명 거주(전체인구의 0.3%)",
+      "종교: 이슬람교(75%), 러시아 정교(20%), 개신교 등, 기타(5%)",
+      "위치: 북위 39°-43° 중앙아 중앙에 위치",
+      "지형: 내륙국으로서 카자흐스탄, 타지키스탄, 우즈베키스탄 및 중국과 접경"
+    ],
+    "language": [
+      "키르기즈어(공식어)",
+      "러시아어(공용어)"
+    ],
+    "capitalLocal": "비쉬켁",
+    "continent": "아시아/태평양",
+    "fullName": "Kyrgyzstan",
+    "fullNameLocal": "키르기스스탄",
+    "countryEnName": "Kyrgyzstan",
+    "countryName": "키르기스스탄",
+    "id": "301",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_301&file_sn=1",
+    "lastUpdated": "2011-08-05"
+  },
+  {
+    "moreInfo": [
+      "위치: 두샨베기준 북위 38°, 동경 68°",
+      "면적: 14만 3,100㎢ (한반도의 2/3크기)",
+      "인종: 타직족(80%), 우즈벡족(15%)",
+      "종교: 이슬람교(99.4%)"
+    ],
+    "language": [
+      "타직어(공식어)",
+      "러시아어(통용어)"
+    ],
+    "capitalLocal": "두샨베",
+    "continent": "아시아/태평양",
+    "fullName": "Tajikistan",
+    "fullNameLocal": "타지키스탄",
+    "countryEnName": "Tajikistan",
+    "countryName": "타지키스탄",
+    "id": "302",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_302&file_sn=1",
+    "lastUpdated": "2011-08-05"
+  },
+  {
+    "moreInfo": [
+      "민족: 알바니아인(88%), 세르비아인(7%), 기타(보스니아인/고라니인(슬라브족의 일종)/터키인/집시 등 5%)",
+      "면적: 10,887㎢ (세르비아 공화국 영토의 15%)",
+      "화폐단위: 유로화 (유럽통화연합에 속하지 않으나 외화를 받아들여 사용)",
+      "국경일: 11월28일(국기의 날) 2월17일(독립 기념일) 소바이람, 대바이람, 12월 25일 (성탄절) 부활절, 5월 1일(노동자의 날) 1월 1일 (신년), 1월 6일 정교 성탄절"
+    ],
+    "language": [
+      "세르비아어(공용어)",
+      "알바니아어"
+    ],
+    "capitalLocal": "프리쉬티나",
+    "continent": "유럽",
+    "fullName": "Republic of Kosovo",
+    "fullNameLocal": "코소보 공화국",
+    "countryEnName": "Kosovo",
+    "countryName": "코소보",
+    "id": "367",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_367&file_sn=1",
+    "lastUpdated": "2011-08-05"
+  },
+  {
+    "moreInfo": [
+      "위치: 아프리카 동남부(케냐, 우간다, 르완다, 부룬디, 잠비아, 말라위,콩고민주공화국, 모잠비크와 접경)",
+      "지리: 본토 및 잔지바르섬, Kilimanjaro산(해발 5,895m, 아프리카최고봉), Victoria호(세계 제2의 호수), Tanganika호, 세렝게티평원(경상북도 면적) 등",
+      "면적: 945,087㎢ (한반도 4.3배)",
+      "종교: 기독교(38%), 이슬람교(37%), 토속종교(20%) 등"
+    ],
+    "language": [
+      "스와힐리어",
+      "영어"
+    ],
+    "capitalLocal": "다레살람(경제수도), 도도마(정치수도/의회소재지)",
+    "continent": "중동/아프리카",
+    "fullName": "Tanzania, United Republic of",
+    "fullNameLocal": "탄자니아 연합공화국",
+    "countryEnName": "Tanzania",
+    "countryName": "탄자니아",
+    "id": "225",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_225&file_sn=1",
+    "lastUpdated": "2011-08-04"
+  },
+  {
+    "moreInfo": [
+      "위치: 위도상 북위 5.6°- 20.7°, 경도상 동경 97.3°- 105.7° (방콕: 북위 13.5°, 동경 100.5°)",
+      "기후: 고온다습한 열대성 기후이며, 3계절로 크게 나눔(3∼5월 고온, 6∼10월 우기, 11∼2월 비교적 저온, 단 푸켓 등 남부는 12월이 우기)",
+      "- 연평균 기온: 28℃(평균최고 32.5℃, 평균최저 23.7℃)",
+      "- 연평균 강우량: 1,600 mm",
+      "- 연평균 습도: 79%(최고 94%, 최저 60%)",
+      "면적: 51.4만㎢ (한반도의 2.3배)",
+      "수도인구: 약 570만 명, 방콕 및 인근지역 약 1,200만 명",
+      "민족: 타이족(85%), 화교(12%), 말레이족(2%), 기타(1%)",
+      "종교: 불교(94.6%), 이슬람교(4.6%), 기독교(천주교 포함, 0.7%), 기타(0.1%)"
+    ],
+    "language": [
+      "타이어(공용어)"
+    ],
+    "capitalLocal": "방콕",
+    "continent": "아시아/태평양",
+    "fullName": "Kingdom of Thailand",
+    "fullNameLocal": "타이 왕국",
+    "countryEnName": "Thailand",
+    "countryName": "태국",
+    "id": "260",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_260&file_sn=1",
+    "lastUpdated": "2011-08-04"
+  },
+  {
+    "moreInfo": [
+      "현지국명: 사카르트벨로(Sakartvelo)",
+      "위치: 러시아 남부 코카서스지방 남부, 흑해 동안에 위치, 터키(252km, 서), 러시아(723km, 북), 아제르바이잔(322km, 동), 아르메니아(164km, 남)와 각각 접경(북위 42°, 동경 43°)",
+      "면적: 69,700㎢ (한반도의 1/3)",
+      "국경: 1,461km (해안선 310km)",
+      "주요민족: 조지아인(83.8%), 아제르인(6.5%), 아르메니아인(5.7%), 러시아인(1.5%)",
+      "종교: 조지아 정교(83.9%), 이슬람교(9.9%), 카톨릭(0.8%)"
+    ],
+    "language": [
+      "조지아어"
+    ],
+    "capitalLocal": "트빌리시",
+    "continent": "유럽",
+    "fullName": "Georgia",
+    "fullNameLocal": "조지아",
+    "countryEnName": "Georgia",
+    "countryName": "조지아",
+    "id": "332",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_332&file_sn=1",
+    "lastUpdated": "2011-08-04"
+  },
+  {
+    "moreInfo": [
+      "면적: 약 963만㎢ (세계 3위, 한반도의 44배)",
+      "민족: 한족과 55개 소수민족으로 구성",
+      "- 중국은 통일된 다민족 국가로 한족, 만족, 몽고족, 회족, 장(티베트)족, 위구르족, 묘족, 이족, 좡족, 부이족, 조선족, 둥족 등 56개 민족으로 구성되어 있습니다. 그 중 한족 인구가 가장 많아 총 인구의 약 92%를 차지하고 있으며, 55개의 소수민족 수는 약 1억 1,400여만 명으로 총 인구의 약 8%를 차지하고 있습니다. 그 중 조선족 수는 약 183만여 명으로 소수민족의 약 2%를 차지하고 있습니다.",
+      "종교: 불교, 도교, 이슬람교, 기독교, 천주교 등",
+      "행정구역: 4개 직할시, 23개 성, 5개 자치구, 2개 특별행정구로 구분",
+      "- 직할시: 베이징(北京), 상하이(上海), 톈진(天津), 충칭(重慶)",
+      "- 성: 간쑤성(甘肃省), 장시성(江西省), 장수성(江苏省), 광둥성(广东省), 구이저우성(贵州省), 지린성(吉林省), 랴오닝성(辽宁省), 푸젠성(福建省), 쓰촨성(四川省), 산동성(山东省), 산시성(山西省), 산시성(陕西省), 안휘성(安徽省), 윈난성(云南省), 저장성(浙江省), 칭하이성(青海省), 허난성(河南省), 허베이성(河北省), 하이난성(海南省), 후난성(湖南省), 후베이성(湖北省), 헤이롱장성(黑龙江省), 타이완성(台湾省)",
+      "※ 중국은 타이완을 23번째 성으로 간주",
+      "- 자치구: 광시장족자치구(广西壮族自治区), 네이멍구자치구(内蒙古自治区), 닝샤회족자치구(宁夏回族自治区), 시장자치구(西藏自治区), 신장위구르자치구(新疆维吾尔自治区)",
+      "- 특별 행정구: 홍콩(香港), 마카오(澳门)"
+    ],
+    "language": [
+      "중국어(北京語, 북방어(北方語), 공용어)",
+      "진어(晉語, 산시성(山西省)에서 사용)",
+      "푸젠어(閩語, 민난어(閩南語)/민중어(閩中語)/민베이어(閩北語)/민둥어(閩東語)/보선어(莆仙語), 푸젠성(福建省)과 중화민국에서 5000만 명)",
+      "간어(贛語, 장시성(江西省)에서 2000만 명)",
+      "하카어(客家語, 광둥성 북부와 여러 나라의 화교 집단 3500만 명)",
+      "샹어(湘語, 후난성(湖南省)에서 3500만 명)",
+      "우어(吳語, 중국 동부에서 9000만 명)",
+      "월어(粵語, 혹은 광둥어(廣東話), 홍콩/마카오/광둥성/광시 좡족 자치구의 일부 및 해외 중국인 8000만 명)",
+      "둥간어(東干語, 중앙아시아, 키르기스스탄, 둥간족)",
+      "핑어(平語, 좡족)",
+      "후이어(徽語, 우어 혹은 간어의 일부, 안후이성(安徽省)에서 사용)"
+    ],
+    "capitalLocal": "베이징(北京）",
+    "continent": "아시아/태평양",
+    "fullName": "People's Republic of China",
+    "fullNameLocal": "중화인민공화국(中華人民共和國)",
+    "countryEnName": "China",
+    "countryName": "중국",
+    "id": "189",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_189&file_sn=1",
+    "lastUpdated": "2011-07-12"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 약 35,000명",
+      "위치: 윈드워드 군도(The Windward Islands: 서인도제도의 동남부)의 최남단에 세 개의 섬으로 이루어진 나라",
+      "면적: 334㎢ (서울의 1/2, 한반도의 1/643)",
+      "지리: Grenada와 소규모 두개의 섬, Carriacou와 Petit Martinique, 이 세 개의 섬이 남에서 북으로 이어져 있는 형태",
+      "기후: 열대 기후 (북동 무역풍의 영향권)로 기온 분포는 평균 24~30℃ (최저 기온은 11~2월 사이), 건기는 1~5월, 우기는 6~12월"
+    ],
+    "language": [
+      "영어",
+      "불어(방언)"
+    ],
+    "capitalLocal": "세인트 죠지스",
+    "continent": "미주",
+    "fullName": "Grenada",
+    "fullNameLocal": "그레나다",
+    "countryEnName": "Grenada",
+    "countryName": "그레나다",
+    "id": "316",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_316&file_sn=1",
+    "lastUpdated": "2011-07-08"
+  },
+  {
+    "moreInfo": [
+      "위치: 마닐라 기준 북위 13°, 동경 122°",
+      "면적: 약 300,000㎢ (한반도의 1.3배)",
+      "- 7,107개의 도서로 구성, 전체의 65%가 산악지대, 루손(104,688㎢)과 민다나오 (101,999㎢)가 총면적의 65% 차지",
+      "인종 :말레이계가 주종이며 중국, 미국, 스페인계 혼혈 다수",
+      "종교: 가톨릭(83%), 개신교(9%), 이슬람교(5%), 기타(불교 등 3%)"
+    ],
+    "language": [
+      "영어",
+      "따갈로그어(공용어)"
+    ],
+    "capitalLocal": "마닐라",
+    "continent": "아시아/태평양",
+    "fullName": "Philippines",
+    "fullNameLocal": "필리핀",
+    "countryEnName": "Philippines",
+    "countryName": "필리핀",
+    "id": "252",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_252&file_sn=1",
+    "lastUpdated": "2011-07-01"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 약 36만 명",
+      "※ 경제수도: 아비장(Abidjan)(약 470만 명)",
+      "인구: 2,448만 명 (2017년, 코트디부아르통계청)",
+      "면적: 322,463㎢ (한반도의 1.4배)",
+      "민족: Akan(28.8%), Gur(16.1%), Krou(8.5%)",
+      "종교: 이슬람교(42.9%),기독교(33.9%), 토착신앙(3.6%)",
+      "GDP: 403.9억불('17,세계은행)",
+      "1인당 GDP: 1,662불('17,세계은행)",
+      "경제성장률: 8.0%('17,AfDB)"
+    ],
+    "language": [
+      "프랑스어(공용어)",
+      "기타(종족 언어)"
+    ],
+    "capitalLocal": "야무수크로",
+    "continent": "중동/아프리카",
+    "fullName": "Republic of Cote d’Ivoire",
+    "fullNameLocal": "코트디부아르 공화국",
+    "countryEnName": "Cote d’Ivoire",
+    "countryName": "코트디부아르",
+    "id": "212",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_212&file_sn=1",
+    "lastUpdated": "2011-06-30"
+  },
+  {
+    "moreInfo": [
+      "면적: 377,914㎢",
+      "행정구역: 1都1道2府43縣"
+    ],
+    "language": [
+      "일본어"
+    ],
+    "capitalLocal": "도쿄(東京)",
+    "continent": "아시아/태평양",
+    "fullName": "Japan",
+    "fullNameLocal": "일본",
+    "countryEnName": "Japan",
+    "countryName": "일본",
+    "id": "183",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_183&file_sn=1",
+    "lastUpdated": "2011-06-20"
+  },
+  {
+    "moreInfo": [
+      "위치: 모스크바 기준 북위 55°, 동경 37°",
+      "면적: 1,708만㎢ (한반도의 78배)",
+      "민족구성: 러시아인(80%), 타타르인(4%), 우크라이나인(2%), 기타(140여 개 소수민족)",
+      "종교: 러시아 정교(75%), 이슬람교(5%), 기타(유태교/가톨릭 등)"
+    ],
+    "language": [
+      "러시아어"
+    ],
+    "capitalLocal": "모스크바",
+    "continent": "유럽",
+    "fullName": "Russia",
+    "fullNameLocal": "러시아",
+    "countryEnName": "Russia",
+    "countryName": "러시아",
+    "id": "39",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_39&file_sn=1",
+    "lastUpdated": "2011-05-31"
+  },
+  {
+    "moreInfo": [
+      "위치: 북위 24.28°, 동경 4.25°",
+      "면적: 82,880㎢",
+      "인종: 아랍인, 외국인(주로 인도, 파키스탄 계열)",
+      "종교: 이슬람(96%), 기독교/힌두교(4%)"
+    ],
+    "language": [
+      "아랍어",
+      "영어",
+      "기타(이란어, 힌디어, 우르드어)"
+    ],
+    "capitalLocal": "아부다비",
+    "continent": "중동/아프리카",
+    "fullName": "United Arab Emirates",
+    "fullNameLocal": "아랍에미리트",
+    "countryEnName": "United Arab Emirates",
+    "countryName": "아랍에미리트",
+    "id": "135",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_135&file_sn=1",
+    "lastUpdated": "2011-05-18"
+  },
+  {
+    "moreInfo": [
+      "면적: 22,966㎢ (한반도 1/10 정도)",
+      "지리: 북위 17° 15분, 서경 88° 45분",
+      "- 북쪽은 멕시코(250Km), 서쪽과 남쪽은 과테말라(266Km)와 접경, 동쪽은 카리브해(해안선 길이 386Km)",
+      "기후: 덥고 습한 아열대 기후",
+      "- 연평균 10~35℃, 평균강우량 1,295㎜~4,445㎜",
+      "종교: 카톨릭(62%), 개신교(30%), 기타(8%)",
+      "※ 경제 중심지는 전 수도인 벨리즈시티(Belize City)",
+      "인종: 메스티족(48.7%), 크리올족(24.9%), 마야족(10.6%) 등"
+    ],
+    "language": [
+      "영어",
+      "스페인"
+    ],
+    "capitalLocal": "벨모판",
+    "continent": "미주",
+    "fullName": "Belize",
+    "fullNameLocal": "벨리즈",
+    "countryEnName": "Belize",
+    "countryName": "벨리즈",
+    "id": "319",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_319&file_sn=1",
+    "lastUpdated": "2011-05-13"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 약 214만 명",
+      "면적: 110,860㎢ (한반도의 1/2)",
+      "인종: 백인(65.1%), 혼혈인(24.8%) 등",
+      "종교: 카톨릭(85%) 등"
+    ],
+    "language": [
+      "서반아어"
+    ],
+    "capitalLocal": "아바나",
+    "continent": "미주",
+    "fullName": "Republic of Cuba",
+    "fullNameLocal": "쿠바 공화국",
+    "countryEnName": "Cuba",
+    "countryName": "쿠바",
+    "id": "327",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_327&file_sn=1",
+    "lastUpdated": "2011-05-13"
+  },
+  {
+    "moreInfo": [
+      "면 적: 181,035㎢ (남한의 약 1.8배)",
+      "- 남북 450㎞, 동서 580㎞, 해안선 340㎞",
+      "위 치: 인도차이나반도 동남부, 동경 103-107°, 북위 10-14° (베트남, 라오스, 태국과 접경)",
+      "인 종: 크메르족(90%), 소수민족(베트남, 중국, 참족, 고산족)",
+      "종 교: 불교(95%), 기타(5%)"
+    ],
+    "language": [
+      "크메르어",
+      "기타(불어(50대 이상), 영어(청장년층))"
+    ],
+    "capitalLocal": "프놈펜",
+    "continent": "아시아/태평양",
+    "fullName": "Kingdom of Cambodia",
+    "fullNameLocal": "캄보디아 왕국",
+    "countryEnName": "Cambodia",
+    "countryName": "캄보디아",
+    "id": "259",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_259&file_sn=1",
+    "lastUpdated": "2011-05-04"
+  },
+  {
+    "moreInfo": [
+      "위치: 북유럽",
+      "면적: 65,300㎢ (한반도의 약 1/3)",
+      "언어: 리투아니아어",
+      "인종: 리투아니아인(83%), 기타(폴란드인/벨로루시인 등)",
+      "종교: 로마 카톨릭(79%), 기타(러시아 정교/개신교 등)"
+    ],
+    "language": [
+      "리투아니아어"
+    ],
+    "capitalLocal": "빌뉴스",
+    "continent": "유럽",
+    "fullName": "Lithuania",
+    "fullNameLocal": "리투아니아",
+    "countryEnName": "Lithuania",
+    "countryName": "리투아니아",
+    "id": "345",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_345&file_sn=1",
+    "lastUpdated": "2011-04-21"
+  },
+  {
+    "moreInfo": [
+      "위치: 36.95°S 71.5°W",
+      "면적: 약76만㎢ (한반도의 3.5배)",
+      "인종: 메스티조(66%), 백인계(29%), 원주민(5%)",
+      "종교: 카톨릭(74%), 기독교(15%), 기타(4%)"
+    ],
+    "language": [
+      "스페인어"
+    ],
+    "capitalLocal": "산티아고",
+    "continent": "미주",
+    "fullName": "Chile",
+    "fullNameLocal": "칠레",
+    "countryEnName": "Chile",
+    "countryName": "칠레",
+    "id": "197",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_197&file_sn=1",
+    "lastUpdated": "2011-04-06"
+  },
+  {
+    "moreInfo": [
+      "면적: 2,381,741㎢ (한반도의 10.7배)",
+      "기후: 지중해성(북부), 초원성(연안 평야), 사막성(남부)",
+      "위치: 튀니지(東), 리비아(西) 모로코, 모리타니아(南) 말리, 니제르(北) 지중해",
+      "수도인구: 약 3백만 명, 면적 363㎢, 서울의 1/2배"
+    ],
+    "language": [
+      "아랍어(국어)",
+      "베르베르어(공용어)",
+      "프랑스어(상용어)"
+    ],
+    "capitalLocal": "알제",
+    "continent": "중동/아프리카",
+    "fullName": "People's Democratic Republic of Algeria(République algérienne démocratique et populaire)",
+    "fullNameLocal": "알제리 인민민주 공화국",
+    "countryEnName": "Algeria",
+    "countryName": "알제리",
+    "id": "150",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_150&file_sn=1",
+    "lastUpdated": "2011-04-04"
+  },
+  {
+    "moreInfo": [
+      "면적: 1,219,090㎢",
+      "종교: 자유 종교이나 80%가 기독교"
+    ],
+    "language": [
+      "영어",
+      "아프리칸스어",
+      "기타(줄루어 등 11개 공용어)"
+    ],
+    "capitalLocal": "프리토리아(행정), 케이프타운(입법), 블름폰테인(사법)",
+    "continent": "중동/아프리카",
+    "fullName": "Republic of South Africa",
+    "fullNameLocal": "남아프리카 공화국",
+    "countryEnName": "Republic of South Africa",
+    "countryName": "남아프리카 공화국",
+    "id": "20",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_20&file_sn=1",
+    "lastUpdated": "2011-03-24"
+  },
+  {
+    "moreInfo": [
+      "위치: 프라하 기준 북위 49.8°, 동경 15.5°",
+      "면적: 78,864㎢",
+      "인종: 체코인(94.7%), 슬로바키아인(3.1%), 폴란드(0.6%), 독일(0.5%) 등",
+      "종교: 가톨릭(39.2%), 무교(40%), 개신교(6.2%), 기타(11.2%)"
+    ],
+    "language": [
+      "체코어"
+    ],
+    "capitalLocal": "프라하",
+    "continent": "유럽",
+    "fullName": "Czech Republic",
+    "fullNameLocal": "체코",
+    "countryEnName": "Czech Republic",
+    "countryName": "체코",
+    "id": "195",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_195&file_sn=1",
+    "lastUpdated": "2011-02-28"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 약 1,675만 명",
+      "면적: 3,287,782㎢ (한반도의 15배, 세계 7위)",
+      "종교: 힌두교(80.5%), 이슬람교(13.4%), 기독교(2.3%), 시크교 (1.9%), 불교(0.8%), 자이나교(0.4%), 기타(0.7%)"
+    ],
+    "language": [
+      "힌디어(공용어)",
+      "영어(입법/행정/사법부 및 사회 각 분야에서 폭넓게 사용)",
+      "기타(법정 인정 22개 공용어(힌디어 포함))"
+    ],
+    "capitalLocal": "뉴델리",
+    "continent": "아시아/태평양",
+    "fullName": "India",
+    "fullNameLocal": "인도",
+    "countryEnName": "India",
+    "countryName": "인도",
+    "id": "285",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_285&file_sn=1",
+    "lastUpdated": "2011-02-21"
+  },
+  {
+    "moreInfo": [
+      "위치: 북위 28~33°, 동경 35~39°에 위치한 국가로서 중동의 중심부에 있으며, 서쪽으로는 이스라엘, 북쪽으로는 시리아, 동쪽으로는 이라크, 남쪽으로는 사우디아라비아와 접경",
+      "기후: 반 건조성, 지중해성 기후(하계: 고온 건조, 동계: 추움), 1월(섭씨 0~12도), 8월(섭씨 18~41도)",
+      "면적: 89,342㎢ (한국과 비슷한 크기)",
+      "주요 도시: 자르카(Zarqa), 이르비드(Irbid)",
+      "민족 구성: 아랍인(팔레스타인계 포함, 98%), 체르케스계(1%), 아르메니아계(1%)",
+      "종교: 이슬람교(순니파, 92%(국교: 이슬람(순니)), 기독교(6%), 기타(2%)"
+    ],
+    "language": [
+      "아랍어",
+      "영어"
+    ],
+    "capitalLocal": "암만",
+    "continent": "중동/아프리카",
+    "fullName": "The Hashiemite Kingdom of Jordan",
+    "fullNameLocal": "요르단 왕국",
+    "countryEnName": "Jordan",
+    "countryName": "요르단",
+    "id": "165",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_165&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "인구: 88만4천명('18.7 잠정, CIA)",
+      "면적: 23,200㎢ (한반도의 1/10)",
+      "민족: 소말리족(60%), 아파르족(35%)",
+      "종교: 이슬람교(국교, 94%), 기독교(6%)",
+      "기후: 열대성 사막기후"
+    ],
+    "language": [
+      "불어",
+      "아랍어"
+    ],
+    "capitalLocal": "지부티",
+    "continent": "중동/아프리카",
+    "fullName": "Republic o fDjibouti",
+    "fullNameLocal": "지부티 공화국",
+    "countryEnName": "Djibouti",
+    "countryName": "지부티",
+    "id": "191",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_191&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "면적: 9,826,675㎢",
+      "인종: 백인 61%, 히스패닉 18%, 아시안 6%",
+      "종교: 인구의 절반가량이 개신교이며, 약 1/5이 가톨릭, 나머지는 유대교, 이슬람교 등",
+      "[괌]",
+      "수도: 하갓냐(Hagatna)",
+      "면적: 약 544㎢ (우리나라 제주도의 1/3 크기)",
+      "인종: 차모로인(37%), 필리핀인(26%), 미국계 백인(7%), 아시아인(6.3%)",
+      "종교: 카톨릭(76%), 기독교(11%), 기타(민속종교/불교/무교 등)",
+      "[북마리아나제도(사이판)]",
+      "면적: 약 122㎢ (울릉도의 1.7배)",
+      "인종: 차모로인(39%), 필리핀인(33%), 인근 남태평양군도인(12%), 기타(한국/중국/일본/백인)",
+      "종교: 카톨릭(64%), 기독교(16%), 불교(10%), 기타(민속종교/무교 등)"
+    ],
+    "language": [
+      "영어",
+      "차모로어",
+      "스페인어(일부 관공서 등에서 사용)"
+    ],
+    "capitalLocal": "워싱턴 DC",
+    "continent": "미주",
+    "fullName": "United States of America",
+    "fullNameLocal": "미국",
+    "countryEnName": "United States of America",
+    "countryName": "미국",
+    "id": "69",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_69&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "면적: 21,041㎢ (한반도의 약 1/10)",
+      "지방조직: 14개 주 262개 시",
+      "인종: 메스티조(86%), 백인(13%), 원주민(인디오 0.2%), 흑인(0.1%), 기타(0.6%)"
+    ],
+    "language": [
+      "스페인어"
+    ],
+    "capitalLocal": "산살바도르",
+    "continent": "미주",
+    "fullName": "Republic of El Salvador",
+    "fullNameLocal": "엘살바도르 공화국",
+    "countryEnName": "El Salvador",
+    "countryName": "엘살바도르",
+    "id": "157",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_157&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "위치: 미주대륙 북부",
+      "면적: 9,970,610㎢ (한반도의 45배)",
+      "기후: 대부분 한냉기후, 토론토 지역은 미국 접경지역으로 온대기후이나 서울보다 봄ㆍ가을이 짮고 겨울(11월-4월)이 긴 편, 태평양 연안은 다습 온화, 서부산악 및 내륙평원은 대륙성 기후, 기온차 극심",
+      "인종: 영국계, 불란서계, 독일계, 이태리계, 중국계, 기타",
+      "종교: 카톨릭(38.7%), 신교(19.2%), 기타"
+    ],
+    "language": [
+      "영어/불어(이중 공용어)"
+    ],
+    "capitalLocal": "오타와",
+    "continent": "미주",
+    "fullName": "Canada",
+    "fullNameLocal": "캐나다",
+    "countryEnName": "Canada",
+    "countryName": "캐나다",
+    "id": "204",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_204&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "위치: 동경 79.40°~81.55°, 북위 5.55°~9.55° 사이의 인도 동남부 인도양 상에 위치",
+      "면적: 65,610㎢ (한반도의 1/3)",
+      "기후: 열대 몬순기후",
+      "- 연평균 기온 27도(가장 더운 5월은 평균 26~31도, 가장 시원한 12월은 평균 22~29도)",
+      "※ 상기 기온은 평균 온도이며, 지역과 일시에 따라 더울 경우에는 35도를 넘어가는 경우도 있음",
+      "민족: 싱할라족(75%), 타밀족(15%), 무어족(9%)",
+      "종교: 불교(70%), 힌두교(12%), 이슬람교(9.7%), 기독교(7.4%)"
+    ],
+    "language": [
+      "싱할라어",
+      "타밀어",
+      "영어"
+    ],
+    "capitalLocal": "콜롬보(상업수도), 스리 자야와르데네푸라 코테(행정수도)",
+    "continent": "아시아/태평양",
+    "fullName": "Democratic Socialist Republic of Sri Lanka",
+    "fullNameLocal": "스리랑카 민주사회주의 공화국",
+    "countryEnName": "Sri Lanka",
+    "countryName": "스리랑카",
+    "id": "124",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_124&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "면적: 18,333㎢",
+      "기후: 열대해양성",
+      "섬머타임: 대개 10월-익년 1월"
+    ],
+    "language": [
+      "영어",
+      "피지어",
+      "힌두어",
+      "토투만어"
+    ],
+    "capitalLocal": "수바",
+    "continent": "아시아/태평양",
+    "fullName": "Fiji",
+    "fullNameLocal": "피지",
+    "countryEnName": "Fiji",
+    "countryName": "피지",
+    "id": "249",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_249&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "수도의미: 캔버라(Canberra)는 원주민어로 \"만남의 장소\"라는 뜻",
+      "섬머타임: 10월 마지막 일요일-3월 마지막 일요일 중",
+      "면적: 7,686,850㎢ (대한민국의 약 78배)",
+      "인종: 백인(95%), 원주민(2%), 아시아(1.3%), 기타(1.5%)",
+      "종교: 국교가 없으며 주요 종교는 오스트레일리아 성공회와 로마 카톨릭"
+    ],
+    "language": [
+      "영어"
+    ],
+    "capitalLocal": "캔버라",
+    "continent": "아시아/태평양",
+    "fullName": "Australia",
+    "fullNameLocal": "호주",
+    "countryEnName": "Australia",
+    "countryName": "호주",
+    "id": "255",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_255&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "면적: 21㎢",
+      "인종: 나우루인",
+      "종교: 기독교",
+      "기후: 열대해양성"
+    ],
+    "language": [
+      "나우루어(공식 언어)",
+      "영어"
+    ],
+    "capitalLocal": "야렌",
+    "continent": "아시아/태평양",
+    "fullName": "Nauru",
+    "fullNameLocal": "나우루",
+    "countryEnName": "Nauru",
+    "countryName": "나우루",
+    "id": "306",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_306&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "면적: 182㎢",
+      "인종: 마샬인",
+      "종교: 기독교",
+      "기후: 열대해양성"
+    ],
+    "language": [
+      "영어",
+      "마샬어"
+    ],
+    "capitalLocal": "마주로",
+    "continent": "아시아/태평양",
+    "fullName": "Marshall Islands",
+    "fullNameLocal": "마셜 제도",
+    "countryEnName": "Marshall Islands",
+    "countryName": "마셜 제도",
+    "id": "307",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_307&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "면적: 705㎢",
+      "인종: 마이크로네시아인",
+      "종교: 기독교",
+      "기후: 열대해양성"
+    ],
+    "language": [
+      "영어",
+      "토착어"
+    ],
+    "capitalLocal": "팔리키르",
+    "continent": "아시아/태평양",
+    "fullName": "Micronesia",
+    "fullNameLocal": "미크로네시아",
+    "countryEnName": "Micronesia",
+    "countryName": "미크로네시아",
+    "id": "308",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_308&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "면적: 298㎢ (한반도의 1/700)",
+      "기후: 열대 몬순 (연중 비슷한 기온, 최저 26℃, 최고 31℃)",
+      "종족: 싱할라(Sinhalese)계, 드라비다계, 아랍/아프리카계",
+      "종교: 수니파 이슬람(국교)"
+    ],
+    "language": [
+      "몰디브어(인도 아리안계)"
+    ],
+    "capitalLocal": "말레",
+    "continent": "아시아/태평양",
+    "fullName": "Maldives",
+    "fullNameLocal": "몰디브",
+    "countryEnName": "Maldives",
+    "countryName": "몰디브",
+    "id": "309",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_309&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "독립: 1979.7.12",
+      "면적: 811㎢",
+      "인종: 키리바시인",
+      "종교: 카톨릭(52%), 개신교(40%), 몰몬교 등 기타(8%)",
+      "기후: 열대해양성"
+    ],
+    "language": [
+      "영어",
+      "길버트어"
+    ],
+    "capitalLocal": "타라와",
+    "continent": "아시아/태평양",
+    "fullName": "Kiribati",
+    "fullNameLocal": "키리바시",
+    "countryEnName": "Kiribati",
+    "countryName": "키리바시",
+    "id": "312",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_312&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "면적: 26㎢",
+      "인종: 투발루인",
+      "종교: 개신교",
+      "기후: 열대해양성"
+    ],
+    "language": [
+      "영어(공용어)",
+      "투발루어",
+      "길버트어"
+    ],
+    "capitalLocal": "푸나푸티",
+    "continent": "아시아/태평양",
+    "fullName": "Tuvalu",
+    "fullNameLocal": "투발루",
+    "countryEnName": "Tuvalu",
+    "countryName": "투발루",
+    "id": "313",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_313&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "위치: 북위 54~57°, 동경 8~15°에 위치하는 유틀란드 반도 및 406개 섬",
+      "면적: 42,925㎢",
+      "※ 그린란드 2,166,000㎢, 페로제도 1,393㎢",
+      "인구: 578만 5,000명 (2018.5월 기준) (인구밀도 약 134.7명/㎢)",
+      "민족: 아리안계의 덴족, 고트족 (전체 인구의 90%가 북게르만계의 덴족)",
+      "교육: 9년간 의무교육(7~16세)",
+      "종교: 덴마크 루터복음교 (기독교 국경일을 공휴일로 지정하고 있으며, 의무교육 과정에서 기독교에 대해 배우기 시작)"
+    ],
+    "language": [
+      "덴마크어"
+    ],
+    "capitalLocal": "코펜하겐",
+    "continent": "유럽",
+    "fullName": "Kingdom of Denmark(Kongeriet Danmark)",
+    "fullNameLocal": "덴마크 왕국",
+    "countryEnName": "Denmark",
+    "countryName": "덴마크",
+    "id": "31",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_31&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 약 287만 명",
+      "- 로마 주변을 포함한 \"로마\"도(Provincia di Roma) 인구는 약 435만 명",
+      "면적: 302,072㎢ (한반도의 1.36배)",
+      "민족: 이탈리아인",
+      "- 북부에 프랑스/오스트리아/슬라브계, 남부에 알바니아/그리스계 등 소수 거주",
+      "종교: 가톨릭(85.7%), 정교회(2.2%), 이슬람(2%), 개신교(1.2%), 기타(8.9%)"
+    ],
+    "language": [
+      "이탈리아어"
+    ],
+    "capitalLocal": "로마",
+    "continent": "유럽",
+    "fullName": "The Italian Republic(La Republica Italiana)",
+    "fullNameLocal": "이탈리아 공화국",
+    "countryEnName": "Italy",
+    "countryName": "이탈리아",
+    "id": "179",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_179&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "위치: 이탈리아 시칠리아 섬 남방 93㎞, 남아프리카 북방 288㎞의 지중해상에 위치",
+      "수도인구: 9,200명",
+      "면적: 316㎢ (제주도의 1/6)",
+      "- Malta(246㎢), Gozo(67㎢) 및 Comino(3㎢) 등 6개 도서로 구성",
+      "종교: 카톨릭(98%)"
+    ],
+    "language": [
+      "몰타어(아랍어와 유사)",
+      "영어",
+      "기타(이탈리아어 통용)"
+    ],
+    "capitalLocal": "발레타",
+    "continent": "유럽",
+    "fullName": "The Republic of Malta",
+    "fullNameLocal": "몰타 공화국",
+    "countryEnName": "Malta",
+    "countryName": "몰타",
+    "id": "297",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_297&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "면적: 61㎢",
+      "위치: 유럽 남부, 이탈리아 중부 내륙"
+    ],
+    "language": [
+      "이탈리아어"
+    ],
+    "capitalLocal": "산마리노",
+    "continent": "유럽",
+    "fullName": "Republic of San Marino",
+    "fullNameLocal": "산마리노 공화국",
+    "countryEnName": "San Marino",
+    "countryName": "산마리노",
+    "id": "299",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_299&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "위치: 유럽 동부의 폴란드와 러시아의 중간지대에 위치한 국가로, 폴란드(서), 우크라이나(남), 러시아(북동), 리투아니아(북서), 라트비아(북)와 인접한 내륙 국가",
+      "- 북위 53°, 동경 28°",
+      "- 행정구역: 민스크, 고멜, 모길레프, 비텝스크, 그로드나, 브레스트 (총 6개 주)",
+      "면적: 20만 7,600㎢ (한반도 면적과 유사)",
+      "인종: 벨라루스인(81.2%), 러시아인(11.4%), 폴란드인(3.9%), 우크라이나인(2.4%), 기타(1.1%)",
+      "기후: 대륙성 기후",
+      "종교: 러시아정교(80%), 가톨릭(15%), 개신교(2%), 기타(3%)"
+    ],
+    "language": [
+      "벨라루스어(국어)",
+      "러시아어(공용어)"
+    ],
+    "capitalLocal": "민스크",
+    "continent": "유럽",
+    "fullName": "Belarus",
+    "fullNameLocal": "벨라루스",
+    "countryEnName": "Belarus",
+    "countryName": "벨라루스",
+    "id": "333",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_333&file_sn=1",
+    "lastUpdated": "2011-02-18"
+  },
+  {
+    "moreInfo": [
+      "위치: 남아메리카 대륙 (북위 0°01‘48”, 남위 18°21’03”, 동경 68°39‘27“, 서경 81’34.5” 사이에 위치)",
+      "- 태평양 연안국가로 에콰도르, 콜롬비아, 브라질, 볼리비아, 칠레 등 5개국과 국경을 접함",
+      "면적: 1,285,215㎢ (한반도의 약 6배, 세계 20위, 남미 3위)",
+      "- 해안지대 10%, 안데스산맥 산악지대 27%, 아마존 등 정글지대 63% 분포",
+      "기후: 위도상으로 열대와 아열대권으로 구분. 지리적으로 해안지대 (la costa, 사막성 온난 다습), 산악지대(la sierra, 우기와 건기로 구분), 산림지대(la selva, 열대성 기후) 등 크게 3가지 기후대로 분류함",
+      "[리마 지역 기후]",
+      "- 연평균 기온 22℃ (여름최고 30℃, 겨울최저 11℃)",
+      "- 편의상 여름(12~5월) 및 겨울(6월-11월)로 구분",
+      "- 겨울 6개월(6월~11월)간 짙은 안개에 뒤덮여 햇빛을 볼 수 없으며, 습도가 높음(‘14.12월 중순부터 ’15.1월 중순까지 평균 85% 정도)",
+      "주요 도시: 아레끼빠 (Arequipa: 남부 고산도시, 인구 86만), 뜨루히요(Trujillo: 북부 해안도시, 인구 78만), 이끼또스 (Iquitos: 정글지역, 인구 43만), 꾸스꼬(Cusco: 잉카제국 수도, 인구 42만)",
+      "인종: 원주민(인디오, 45%), 혼혈계(메스티소, 37%), 백인(15%), 흑인/동양인(3%)",
+      "종교: 가톨릭교(81.3%), 기독교(12.5%), 무교/기타(6.2%)"
+    ],
+    "language": [
+      "스페인어(84%가 모국어로 사용)",
+      "께추아어(13%가 모국어로 사용)",
+      "아이마라어(1.7%가 모국어로 사용)",
+      "기타(아샤닌까어 등 다양한 소수 민족 일부 사용)"
+    ],
+    "capitalLocal": "리마",
+    "continent": "미주",
+    "fullName": "Republic of Peru(República del Perú)",
+    "fullNameLocal": "페루 공화국",
+    "countryEnName": "Peru",
+    "countryName": "페루",
+    "id": "243",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_243&file_sn=1",
+    "lastUpdated": "2011-02-17"
+  },
+  {
+    "moreInfo": [
+      "위치: 인도대륙 북서부위치 동경 61°~76°, 북위 23°~37°",
+      "면적: 약 796,095㎢ (한반도 면적의 3.6배)",
+      "종교: 회교(97%, 수니파:80-85%, 시아파:15-20%), 기독교(2%), 힌두교(1%), 기타(1%)",
+      "[현지관습 및 치안법령]",
+      "신분증 휴대: 파키스탄은 테러가 빈발하게 발생하므로 시.내외 이동시 경찰 등 관계자가 외국인 신분증명서(여권 등) 제시를 요구합니다. 따라서 파키스탄내에서 외국인은 여권, 체류허가증 등의 신분증명서를 상시 휴대해야 합니다.",
+      "군시설 및 현지 여성 촬영 금지: 항만, 다리, 철도, 공항, 군시설등의 사진 촬영은 보안상의 사유로 금지되어 있습니다. 외국인 관광객이 라왈핀디에서 군사시설 부근을 사진 촬영하다가 현지 경찰에 발견되어 구속되기도 하였으며, 파키스탄 여성에 대해 사진 촬영은 종교적 이유로 허용되지 않습니다.",
+      "또한 파키스탄인들이 한국 국적을 취득하기 위해 한국인 여성과 결혼을 빙자로 접근하여 파키스탄으로 유도 후 납치 감금한 사례도 있었는 바, 각별한 주의가 요망됩니다.",
+      "북서변경주는 파키스탄내에서 가장 종교적으로 엄한곳으로 버스 촬영이 목적이었더라도 동시에 여성을 촬영하게 되는 경우, 해당 부족지역인들이 여행객의 카메라등을 몰수한 경우도 있었습니다. 최근에는 외국인 저널리스트가 현지 여성을 촬영하려다가 부족인들로부터 기습을 받고, 차량, 카메라,여권등을 빼앗기는 사건도 발생하였습니다.",
+      "마약류, 골동품, 총기류 등: 파키스탄 정부는 마약류 소지에 엄격한바, 마약류 판매등에 관여된 범죄자에게는 벌금과 함께 최저 2년의 금고형부터 종신형, 사형도 구형 할 수 있으며 외국인도 당연히 이 법률에 적용됩니다.",
+      "- 불상등 골동품의 국외 불법 반출은 법률로 금하고 있음. 골동품을 국외불법 반출할 경우 해당 물품을 압수 또는 동물품가의 2배 이하의 액수로 벌금을 부과합니다.",
+      "- 총기류의 불법소지는 금지되어 있음. 총기류를 불법 소지하는 경우 7년 이상의 징역과 벌금이 부과되며 최근 외국인 여행자가 권총을 불법으로 소지하다가 현지 경찰에 현행범으로 구속된 경우가 있었습니다.",
+      "이슬람문화: 파키스탄 각지에 있는 모스크(이슬람사원)내를 참관할 경우 신을 벗고 경건한 자세를 취해야 하며, 여성 여행자의 단독 행동은 가능한 피하고, 외출시 노출이 심한 복장의 착용은 금해야 합니다.",
+      "- 파키스탄에서는 주재국 국민에 대하여 선교 및 포교활동이 금지되어 있으며, 위반시 출입국법 위반혐의로 처벌 받게됩니다.",
+      "- 음주행위는 금지되어 있고 일반 상점에서 판매하지 않으며, 파키스탄내 주류 반입도 금지되어 있습니다."
+    ],
+    "language": [
+      "우루두어(공용어)",
+      "영어(상용어)"
+    ],
+    "capitalLocal": "이슬라마바드",
+    "continent": "아시아/태평양",
+    "fullName": "Pakistan",
+    "fullNameLocal": "파키스탄",
+    "countryEnName": "Pakistan",
+    "countryName": "파키스탄",
+    "id": "239",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_239&file_sn=1",
+    "lastUpdated": "2011-02-17"
+  },
+  {
+    "moreInfo": [
+      "위치: 북위 7.30°, 동경 134.30°",
+      "면적: 459㎢",
+      "인종: 여러 민족간의 혼혈, 마이크로네시안(70%), 필리피노(15%)",
+      "종교: 가톨릭(41%), 신교(23%), 토속종교(9%)"
+    ],
+    "language": [
+      "영어",
+      "팔라우어",
+      "기타(일부 일본어)"
+    ],
+    "capitalLocal": "멜레케오크",
+    "continent": "아시아/태평양",
+    "fullName": "Palau",
+    "fullNameLocal": "팔라우",
+    "countryEnName": "Palau",
+    "countryName": "팔라우",
+    "id": "314",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_314&file_sn=1",
+    "lastUpdated": "2011-02-17"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 약 170만 명",
+      "면적: 312,685㎢ (한반도의1.4배)",
+      "인종: 폴란드인(98.7%), 독일인/벨라루스인/우크라인/유태인 등(1.3%)",
+      "종교: 카톨릭(95%), 기타(신교/러시아정교 등 5%)"
+    ],
+    "language": [
+      "폴란드어"
+    ],
+    "capitalLocal": "바르샤바",
+    "continent": "유럽",
+    "fullName": "Poland",
+    "fullNameLocal": "폴란드",
+    "countryEnName": "Poland",
+    "countryName": "폴란드",
+    "id": "246",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_246&file_sn=1",
+    "lastUpdated": "2011-02-17"
+  },
+  {
+    "moreInfo": [
+      "위치: 예레반 기준 북위 40°, 동경 44°",
+      "면적: 29,800k㎡ (한반도의 13.5%)",
+      "민족구성: 아르메니아인(98%), 쿠르드인(1.3%), 러시아인(0.5%)",
+      "종교: 아르메니아 정교(95%), 기독교(4%)",
+      "평균 고도: 1,800m"
+    ],
+    "language": [
+      "아르메니아어",
+      "러시아어"
+    ],
+    "capitalLocal": "예레반",
+    "continent": "유럽",
+    "fullName": "Armenia",
+    "fullNameLocal": "아르메니아",
+    "countryEnName": "Armenia",
+    "countryName": "아르메니아",
+    "id": "334",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_334&file_sn=1",
+    "lastUpdated": "2011-02-16"
+  },
+  {
+    "moreInfo": [
+      "면적: 1,648,000㎢ (한반도의 7.5배)",
+      "종교: 이슬람교(시아파(89%), 순니파(9%))"
+    ],
+    "language": [
+      "이란어(58%)",
+      "튀르크어(26%)",
+      "쿠르드어(9%)"
+    ],
+    "capitalLocal": "테헤란",
+    "continent": "중동/아프리카",
+    "fullName": "Iran, Islamic Republic of",
+    "fullNameLocal": "이란 이슬람 공화국",
+    "countryEnName": "Iran",
+    "countryName": "이란",
+    "id": "176",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_176&file_sn=1",
+    "lastUpdated": "2011-02-08"
+  },
+  {
+    "moreInfo": [
+      "종교: 유대교(75%), 이슬람교(17.7%), 기독교(2.0%), 드루즈(1.6%), 기타(3.9%)",
+      "※ 이스라엘-팔레스타인 문제 관련, 유엔 안보리 결의는 서안 지역(West Bank) 및 가자 지구(Gaza Strip)를 점령지역으로 간주하고 있으며, 국제사회가 지지하는 '두국가 해법'은 이스라엘과 팔레스타인이 정치적 협상을 통하여 두 개의 국가로 평화공존하는 상태를 목표로 함",
+      "- 우리 정부는 현재 팔레스타인에 대해 국가승인을 하지 않은 상태이나, 2006년 서안지역내 라말라(Ramallah)에 대표사무소 설립"
+    ],
+    "language": [
+      "히브리어",
+      "아랍어",
+      "영어"
+    ],
+    "capitalLocal": "예루살렘",
+    "continent": "중동/아프리카",
+    "fullName": "Israel",
+    "fullNameLocal": "이스라엘",
+    "countryEnName": "Israel",
+    "countryName": "이스라엘",
+    "id": "177",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_177&file_sn=1",
+    "lastUpdated": "2011-02-08"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 96만 명",
+      "인구: 818만 명 (2018년)",
+      "면적: 56,785㎢ (한반도의 1/4)",
+      "종교: 기독교(29%), 이슬람교(20%), 토속 종교(51%)"
+    ],
+    "language": [
+      "프랑스어(공용어)",
+      "에웨어(남부에서 사용)",
+      "카비예(북부에서 사용)"
+    ],
+    "capitalLocal": "로메",
+    "continent": "중동/아프리카",
+    "fullName": "Togolese Republic",
+    "fullNameLocal": "토고 공화국",
+    "countryEnName": "Togo",
+    "countryName": "토고",
+    "id": "296",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_296&file_sn=1",
+    "lastUpdated": "2011-02-08"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 약 250만 명",
+      "면적: 48,442㎢ (남한의 약 1/2 크기)",
+      "인종: 물라토(73%), 백인(16%), 흑인(11%)"
+    ],
+    "language": [
+      "스페인어"
+    ],
+    "capitalLocal": "산토도밍고",
+    "continent": "미주",
+    "fullName": "Dominican Republic(República Dominicana)",
+    "fullNameLocal": "도미니카 공화국",
+    "countryEnName": "Dominican Republic",
+    "countryName": "도미니카 공화국",
+    "id": "33",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_33&file_sn=1",
+    "lastUpdated": "2011-02-08"
+  },
+  {
+    "moreInfo": [
+      "위치: 산호세 기준(북위 10°, 동경 84°)",
+      "면적: 51,100㎢ (한반도의 1/4)",
+      "인종: 백인/메스티소(83.6%), 물라토/흑인(7.8%), 인디언(2.4%), 중국계(0.2%) 등",
+      "종교: 카톨릭(69%), 개신교(13%) 등"
+    ],
+    "language": [
+      "스페인어"
+    ],
+    "capitalLocal": "산호세",
+    "continent": "미주",
+    "fullName": "CostaRica",
+    "fullNameLocal": "코스타리카",
+    "countryEnName": "CostaRica",
+    "countryName": "코스타리카",
+    "id": "209",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_209&file_sn=1",
+    "lastUpdated": "2011-02-08"
+  },
+  {
+    "moreInfo": [
+      "위치: 브라질, 아르헨티나, 볼리비아와 접경하고 있는 남미 내륙국",
+      "국토면적: 406,752㎢ (남한의 4배, 한반도의 1.8배)",
+      "종교: 국교는 없으며 종교의 자유 인정, 전 인구의 90% 카톨릭 신자"
+    ],
+    "language": [
+      "스페인어",
+      "과라니어",
+      "모헤뇨어(원주민 사용)"
+    ],
+    "capitalLocal": "아순시온",
+    "continent": "미주",
+    "fullName": "Republic of Paraguay(República del Paraguay)",
+    "fullNameLocal": "파라과이 공화국",
+    "countryEnName": "Paraguay",
+    "countryName": "파라과이",
+    "id": "237",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_237&file_sn=1",
+    "lastUpdated": "2011-02-08"
+  },
+  {
+    "moreInfo": [
+      "면적: 261㎢ (세인트키츠섬 169㎢, 네비스섬 93㎢)",
+      "수도인구: 13,000명"
+    ],
+    "language": [
+      "영어"
+    ],
+    "capitalLocal": "바스테르",
+    "continent": "미주",
+    "fullName": "Saint Kitts and Nevis",
+    "fullNameLocal": "세인트키츠네비스",
+    "countryEnName": "Saint Kitts and Nevis",
+    "countryName": "세인트키츠네비스",
+    "id": "320",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_320&file_sn=1",
+    "lastUpdated": "2011-02-08"
+  },
+  {
+    "moreInfo": [
+      "면적: 27,750㎢",
+      "인종: 흑인(95%), 물라토/백인(5%)",
+      "종교: 카톨릭교(80%), 개신교(16%), 기타(4%)",
+      "※ 국민의 절반 가량이 Voodoo교 혼합 신봉",
+      "기후: 아열대성",
+      "- 연평균기온: 27℃",
+      "- 연평균강수량: 1,750mm",
+      "위치: 안티레스 제도의 일부로 카리브해 중앙에 위치",
+      "- 북쪽은 대서양, 남쪽은 카리브해와 연함",
+      "- La Hispaola 섬의 서쪽 1/3점유 (동쪽 2/3은 도미니카공화국)"
+    ],
+    "language": [
+      "프랑스어",
+      "크리올어"
+    ],
+    "capitalLocal": "포르토프랭스",
+    "continent": "미주",
+    "fullName": "Republic of Haiti",
+    "fullNameLocal": "아이티 공화국",
+    "countryEnName": "Haiti",
+    "countryName": "아이티",
+    "id": "324",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_324&file_sn=1",
+    "lastUpdated": "2011-02-08"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 약 36,000명",
+      "면적: 443㎢",
+      "인종: 대부분 아프리카계 흑인, 기타 유럽 및 레바논, 시리아계 소수"
+    ],
+    "language": [
+      "영어(공용어)",
+      "기타(지방방언)"
+    ],
+    "capitalLocal": "세인트 존스",
+    "continent": "미주",
+    "fullName": "Antigua and Barbuda",
+    "fullNameLocal": "앤티가바부다",
+    "countryEnName": "Antigua and Barbuda",
+    "countryName": "앤티가바부다",
+    "id": "325",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_325&file_sn=1",
+    "lastUpdated": "2011-02-08"
+  },
+  {
+    "moreInfo": [
+      "면적: 754㎢",
+      "수도인구: 약 14,000명"
+    ],
+    "language": [
+      "영어(공용어)",
+      "크리올어(10%의 아이티인들이 사용)",
+      "기타(파토이어는 프랑스어 방언으로 일상 생활어로 통용)"
+    ],
+    "capitalLocal": "로조",
+    "continent": "미주",
+    "fullName": "Commonwealth of Dominica",
+    "fullNameLocal": "도미니카 연방",
+    "countryEnName": "Dominica",
+    "countryName": "도미니카 연방",
+    "id": "369",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_369&file_sn=1",
+    "lastUpdated": "2011-02-08"
+  },
+  {
+    "moreInfo": [
+      "위치: 태평양과 인도양이 만나는 부분 적도상에 위치",
+      "면적: 190만㎢ (한반도의 약 9배)",
+      "인구: 약 2억 6,058만 명 (세계 4위)",
+      "기후: 열대성 몬순기후, 고온다습 (자카르타 평균기온: 32℃ ~ 33℃)",
+      "민족: 자바족(45%), 순다족(13.6%), 기타(마두라족/바딱족/아체족/발리족 등)",
+      "종교: 이슬람교(87%), 기독교(6%), 가톨릭교(3%), 힌두교(2%), 불교(1%)"
+    ],
+    "language": [
+      "바하사 인도네시아어(총 600여 종의 지방어 및 사투리)"
+    ],
+    "capitalLocal": "자카르타",
+    "continent": "아시아/태평양",
+    "fullName": "Republic of Indonesia",
+    "fullNameLocal": "인도네시아 공화국",
+    "countryEnName": "Indonesia",
+    "countryName": "인도네시아",
+    "id": "181",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_181&file_sn=1",
+    "lastUpdated": "2011-02-08"
+  },
+  {
+    "moreInfo": [
+      "위치: 북위 37.58°, 동경 58.20°",
+      "면적: 491,210㎢",
+      "인종: 투르크(85%), 우즈벡(5%), 러시아(4%)",
+      "종교: 이슬람교"
+    ],
+    "language": [
+      "투르크어(공용어)",
+      "러시아어(통용어)"
+    ],
+    "capitalLocal": "아슈하바트",
+    "continent": "아시아/태평양",
+    "fullName": "Turkmenistan",
+    "fullNameLocal": "투르크메니스탄",
+    "countryEnName": "Turkmenistan",
+    "countryName": "투르크메니스탄",
+    "id": "366",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_366&file_sn=1",
+    "lastUpdated": "2011-02-08"
+  },
+  {
+    "moreInfo": [
+      "기후: 열대성 기후",
+      "면적: 1,246,700㎢ (한반도의 5.6배)",
+      "수도인구: 650만, 남위 8° 동경 13°",
+      "주요 도시: Huambo(67만), Lubango(73만), Lobito(31만), Benguela(51만)",
+      "주요 민족: 오빙분두(37%), 킴분두(25%), 기타 아프리카(21%), 바콩고(13%), 혼혈(2%) 백인(1%), 중국(1%)",
+      "종교: 가톨릭(55%), 토속종교(25%), 개신교(10%), 무교(9.4%), 이슬람교(0.4%), 유태교(0.2%)"
+    ],
+    "language": [
+      "포르투갈어(공용어)"
+    ],
+    "capitalLocal": "루안다",
+    "continent": "중동/아프리카",
+    "fullName": "Angola",
+    "fullNameLocal": "앙골라",
+    "countryEnName": "Angola",
+    "countryName": "앙골라",
+    "id": "151",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_151&file_sn=1",
+    "lastUpdated": "2011-02-07"
+  },
+  {
+    "moreInfo": [
+      "위치: 북위 28~30° (한국과 대만 중간), 동경 46~48° (우랄산맥과 중앙아시아의 카자흐스탄 중간)",
+      "면적: 17,818㎢ (경상북도 크기)",
+      "기후: 열대성 사막기후 (연평균기온 26℃)",
+      "- 쿠웨이트인 140만 명 (30%) 및 외국인 326만 명 (70%)",
+      "- 대부분 인구가 쿠웨이트시 및 인근 지역에 집중 거주",
+      "종교: 이슬람교(수니파 70%, 시아파 30%)"
+    ],
+    "language": [
+      "아랍어",
+      "영어(일반적으로 통용)"
+    ],
+    "capitalLocal": "쿠웨이트 시",
+    "continent": "중동/아프리카",
+    "fullName": "State of Kuwait",
+    "fullNameLocal": "쿠웨이트 국",
+    "countryEnName": "Kuwait",
+    "countryName": "쿠웨이트",
+    "id": "216",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_216&file_sn=1",
+    "lastUpdated": "2011-02-07"
+  },
+  {
+    "moreInfo": [
+      "면적: 176,220㎢ (한반도의 4/5)",
+      "인종: 백인(스페인/이태리계, 88%), 메스티소(8%), 흑인(4%)",
+      "종교: 천주교(47.1%), 개신교(11.1%), 유대교(0.3%), 초교파(23.2%), 무교(17.2%), 기타(1.1%)"
+    ],
+    "language": [
+      "스페인어"
+    ],
+    "capitalLocal": "몬테비데오",
+    "continent": "미주",
+    "fullName": "Uruguay",
+    "fullNameLocal": "우루과이",
+    "countryEnName": "Uruguay",
+    "countryName": "우루과이",
+    "id": "167",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_167&file_sn=1",
+    "lastUpdated": "2011-02-07"
+  },
+  {
+    "moreInfo": [
+      "위치: 북위 37~46°, 동경 56~74°",
+      "면적: 44만 7,400㎢ (한반도의 약 2배)",
+      "인종: 우즈벡인(80%), 러시아인(5.5%), 타직인(5%), 카자흐인(5%), 고려인(0.9%), 유태인(0.3%)",
+      "종교: 이슬람교(수니파)"
+    ],
+    "language": [
+      "우즈벡어(공용어 74.3%)",
+      "러시아어(통용어 14.2%)",
+      "기타(타직어/카자흐어/투르크멘어 4.4%)"
+    ],
+    "capitalLocal": "타슈켄트",
+    "continent": "아시아/태평양",
+    "fullName": "Uzbekistan",
+    "fullNameLocal": "우즈베키스탄",
+    "countryEnName": "Uzbekistan",
+    "countryName": "우즈베키스탄",
+    "id": "168",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_168&file_sn=1",
+    "lastUpdated": "2011-02-07"
+  },
+  {
+    "moreInfo": [
+      "위치: 베를린 기준 북위 52°, 동경 13°",
+      "면적: 357,121㎢",
+      "인종: 게르만족",
+      "종교: 신교(33%), 구교(33%), 이슬람교(4%), 무교/기타(30%)"
+    ],
+    "language": [
+      "독일어"
+    ],
+    "capitalLocal": "베를린",
+    "continent": "유럽",
+    "fullName": "Germany",
+    "fullNameLocal": "독일",
+    "countryEnName": "Germany",
+    "countryName": "독일",
+    "id": "34",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_34&file_sn=1",
+    "lastUpdated": "2011-02-07"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 280만 명",
+      "위치: 중유럽 아드리아해 동북부",
+      "- 접경국가: 오스트리아(330km), 이태리(280km), 헝가리(102km), 크로아티아(670km)",
+      "총면적: 20.273㎢ (한반도의 1/11)",
+      "종교: 인구의 대부분이 천주교",
+      "평균기온: 7월(21℃), 1월(0℃)"
+    ],
+    "language": [
+      "슬로베니아어"
+    ],
+    "capitalLocal": "류블랴나",
+    "continent": "유럽",
+    "fullName": "Slovenia",
+    "fullNameLocal": "슬로베니아",
+    "countryEnName": "Slovenia",
+    "countryName": "슬로베니아",
+    "id": "130",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_130&file_sn=1",
+    "lastUpdated": "2011-02-07"
+  },
+  {
+    "moreInfo": [
+      "면적: 83.871,99㎢ (한반도의 약 2/5)"
+    ],
+    "language": [
+      "독일어(95.5%)"
+    ],
+    "capitalLocal": "비엔나",
+    "continent": "유럽",
+    "fullName": "Republic of Austria(Republik Österreich)",
+    "fullNameLocal": "오스트리아 공화국",
+    "countryEnName": "Austria",
+    "countryName": "오스트리아",
+    "id": "163",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_163&file_sn=1",
+    "lastUpdated": "2011-02-07"
+  },
+  {
+    "moreInfo": [
+      "면적: 28,748㎢ (한반도의 약 1/8)",
+      "민족구성: 알바니아계(95%), 그리스계(3%), 기타(2%)",
+      "종교: 이슬람교(56.7%), 로마카톨릭(10%), 동방정교(6.8%), 기타(26.5%)"
+    ],
+    "language": [
+      "알바니아어"
+    ],
+    "capitalLocal": "티라나",
+    "continent": "유럽",
+    "fullName": "Republic of Albania",
+    "fullNameLocal": "알바니아 공화국",
+    "countryEnName": "Albania",
+    "countryName": "알바니아",
+    "id": "300",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_300&file_sn=1",
+    "lastUpdated": "2011-02-07"
+  },
+  {
+    "moreInfo": [
+      "위치: 북위 42.30°, 동경 1.31°",
+      "면적: 468㎢ (서울시의 약 3/4)",
+      "인구: 85,708명(2018)",
+      "민족: 안도라인(46%), 스페인인(27%), 포르투갈인(13%), 프랑스인(5%) 등",
+      "종교: 가톨릭(88%)",
+      "기후",
+      "- 지중해성 산악기후로 태양이 강하고 건조하며, 강우량은 많지 않은 편",
+      "- 평균 기온: 최저 –2℃, 최고 24℃"
+    ],
+    "language": [
+      "카탈루냐어",
+      "스페인어(카스티야어)",
+      "포르투갈어(상용어)",
+      "프랑스어(상용어)"
+    ],
+    "capitalLocal": "안도라라베야",
+    "continent": "유럽",
+    "fullName": "Andorra",
+    "fullNameLocal": "안도라",
+    "countryEnName": "Andorra",
+    "countryName": "안도라",
+    "id": "340",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_340&file_sn=1",
+    "lastUpdated": "2011-02-07"
+  },
+  {
+    "moreInfo": [
+      "인구: 209만 명 ('18.7, CIA)",
+      "면적: 11,295㎢ (한반도의 약 1/20)",
+      "민족구성: Mandinka, Peul, Wolof 등",
+      "종교: 회교(90%), 기독교(9%) 등",
+      "독립: 1965.2.18.(영국에서 독립)"
+    ],
+    "language": [
+      "영어(공용어)",
+      "월로프어"
+    ],
+    "capitalLocal": "반줄",
+    "continent": "중동/아프리카",
+    "fullName": "Gambia",
+    "fullNameLocal": "감비아",
+    "countryEnName": "Gambia",
+    "countryName": "감비아",
+    "id": "5",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_5&file_sn=1",
+    "lastUpdated": "2011-01-31"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 49만 명",
+      "인구: 179만 명 (‘17.7 잠정, CIA)",
+      "면적: 36,125㎢ (한반도의 1/7배)",
+      "민족구성: Balantes, Fulas, Manjaca 등",
+      "종교: 토속신앙(65%), 회교(30%), 기독교(5%)",
+      "독립: 1973.9.24.(포르투갈로부터 독립)"
+    ],
+    "language": [
+      "포르투갈어(공용어)"
+    ],
+    "capitalLocal": "비사우",
+    "continent": "중동/아프리카",
+    "fullName": "Guinea-Bissau",
+    "fullNameLocal": "기니비사우",
+    "countryEnName": "Guinea-Bissau",
+    "countryName": "기니비사우",
+    "id": "14",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_14&file_sn=1",
+    "lastUpdated": "2011-01-31"
+  },
+  {
+    "moreInfo": [
+      "`모로코’는 아랍어로 ‘Al Maghrib (알 마그립)’임",
+      "면적: 710,850㎢ (서사하라 포함, 한반도의 3.2배)",
+      "- 서사하라 면적은 264,300㎢로 서하라하 이외 모로코 면적의 약 60%",
+      "민족: 아랍-베르베르족(99%), 기타(1%)",
+      "- 아랍족은 주로 도시지역, 베르베르족은 주로 농촌지방이나 산간지대에서 주로 거주, 오랜 역사 기간동안 상호 융화되어 명확히 구분되지 않은 편",
+      "종교: 이슬람교(수니파 99%), 기타(1%)"
+    ],
+    "language": [
+      "아랍어(공용어)",
+      "베르베르어(공용어)",
+      "데리자어(85% 모로코인들이 사용하는 아랍어 방언)",
+      "프랑스어(상용어, 공문서/외교문서 등에서 사용)",
+      "스페인어"
+    ],
+    "capitalLocal": "라바트",
+    "continent": "중동/아프리카",
+    "fullName": "Kingdom of Morocco(Royaume du Maroc/Al Mamiakah Al Maghribiah)",
+    "fullNameLocal": "모로코 왕국(루와욤 뒤 마록/알 마미아카 알 마그리비야)",
+    "countryEnName": "Morocco",
+    "countryName": "모로코",
+    "id": "60",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_60&file_sn=1",
+    "lastUpdated": "2011-01-31"
+  },
+  {
+    "moreInfo": [
+      "아랍어국명: Al Jumhuriya Al Islamiya Al Muritaniya (알 줌후리야 알 이슬라미야 알 무리타니야)",
+      "수도인구: 96만 명 (2015 추계)",
+      "- 국토의 대부분(80%)이 사하라 사막으로 주요도시는 대서양 해안선 및 세네갈 강을 따라서 분포",
+      "면적: 1,030,700㎢ (남한의 10배)",
+      "민족: 백인계 무어족(30%: 아랍-베르베르족, 집권세력), 흑인계 무어족(40%)/아프리카계 흑인(30%)",
+      "종교: 회교(수니파 100%)"
+    ],
+    "language": [
+      "아랍어(국어)",
+      "불어(상용어)",
+      "기타(아프리카어, 핫사니야어(스페인어의 영향을 받은 아랍어))"
+    ],
+    "capitalLocal": "누악쇼트",
+    "continent": "중동/아프리카",
+    "fullName": "Islamic Republic of Mauritania(République Islamique de Mauritanie)",
+    "fullNameLocal": "모리타니아 회교 공화국",
+    "countryEnName": "Mauritania",
+    "countryName": "모리타니아",
+    "id": "62",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_62&file_sn=1",
+    "lastUpdated": "2011-01-31"
+  },
+  {
+    "moreInfo": [
+      "위치: 아프리카 동남부(탄자니아, 케냐, 우간다, 르완다, 잠비아, 말라위, 콩고민주공화국, 모잠비크와 접경)",
+      "면적: 27.834㎢ (한국의 약 1/4)",
+      "민족구성: 후투(85%), 투치(14%), 트와(1%)",
+      "종교: 가톨릭(61%), 기독교(21%), 이슬람(3%), 재림교(2%), 기타(13%)",
+      "기후: 열대성 기후"
+    ],
+    "language": [
+      "프랑스어",
+      "키룬디어"
+    ],
+    "capitalLocal": "부줌부라",
+    "continent": "중동/아프리카",
+    "fullName": "Republic of Burundi(La Rpublique du Burundi)",
+    "fullNameLocal": "부룬디 공화국",
+    "countryEnName": "Burundi",
+    "countryName": "부룬디",
+    "id": "93",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_93&file_sn=1",
+    "lastUpdated": "2011-01-31"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 240만 명",
+      "인 구: 1,541만 명 (2018년)",
+      "면 적: 196,722㎢ (한반도 면적과 비슷)",
+      "민족구성: Wolof(40%), Peul(26%), Sereres(15%)",
+      "종 교: 회교(95%), 카톨릭(5%)",
+      "독 립: 1960.4.4 (프랑스로부터 독립)"
+    ],
+    "language": [
+      "불어(공용어)",
+      "월로프어"
+    ],
+    "capitalLocal": "다카르",
+    "continent": "중동/아프리카",
+    "fullName": "Senegal",
+    "fullNameLocal": "세네갈",
+    "countryEnName": "Senegal",
+    "countryName": "세네갈",
+    "id": "114",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_114&file_sn=1",
+    "lastUpdated": "2011-01-31"
+  },
+  {
+    "moreInfo": [
+      "면적: 1,104,300㎢ (한반도의 5배, 한국의 11배)",
+      "지형: 해저 116m~125m(Danakil Depression)에서 해발 4,550m(Ras Dashen)까지 분포, 중부고원지대는 평균 해발 2,000m~3,000m",
+      "기후: 고원지대는 Afro-Alpine 고산기후로 연중 기온변화가 적은 편(평균 16℃~22℃)이나, 저지대는 열대기후로 고온다습",
+      "인구: 약 9,946만 명 (2015년, CIA 추정)",
+      "종족: 셈족(Semites)계와 햄족(Hamitic)계 후예로서 오로모족(35%), 암하라족(27%), 티그레이족(6%) 등 약 80여 종족",
+      "종교: 에티오피아 정교(Orthodox 43.5%), 이슬람교(34%), 기타(토착교)"
+    ],
+    "language": [
+      "암하라어(공용어)",
+      "영어"
+    ],
+    "capitalLocal": "아디스아바바",
+    "continent": "중동/아프리카",
+    "fullName": "The Federal Democratic Republic of Ethiopia",
+    "fullNameLocal": "에티오피아 연방민주공화국",
+    "countryEnName": "Ethiopia",
+    "countryName": "에티오피아",
+    "id": "156",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_156&file_sn=1",
+    "lastUpdated": "2011-01-31"
+  },
+  {
+    "moreInfo": [
+      "위치: 동북 아프리카 지중해 및 홍해 연안에 위치, 북위 20~30°, 동경 30°",
+      "수도인구: 2,200만 명",
+      "면적: 100.1만㎢ (한반도의 약 5배, 전국토의 95% 사막)",
+      "종교: 이슬람교(순니파 90%), 콥틱교(7~10%)",
+      "기후: 고온 건조, 온화한 겨울",
+      "공휴일: 금, 토(토요일 비 휴무 직종 다수 있음)"
+    ],
+    "language": [
+      "아랍어(공용어)",
+      "영어",
+      "불어(지식층)"
+    ],
+    "capitalLocal": "카이로",
+    "continent": "중동/아프리카",
+    "fullName": "Arab Republic of Egypt",
+    "fullNameLocal": "이집트 아랍공화국",
+    "countryEnName": "Egypt",
+    "countryName": "이집트",
+    "id": "178",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_178&file_sn=1",
+    "lastUpdated": "2011-01-31"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 27만 명 (경제수도인구: 68만 명)",
+      "인구: 1,134만 명 (2018년)",
+      "면적: 112,622㎢ (한반도의 1/2)",
+      "종교: 기독교(49%), 회교(28%), 부두교(12%), 기타(11%)"
+    ],
+    "language": [
+      "불어(공용어)",
+      "기타(폰어(남부에서 사용), 토착어(북부에서 사용))"
+    ],
+    "capitalLocal": "포르토노보, 코토누(경제수도)",
+    "continent": "중동/아프리카",
+    "fullName": "Republic of Benin",
+    "fullNameLocal": "베냉 공화국",
+    "countryEnName": "Benin",
+    "countryName": "베냉",
+    "id": "289",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_289&file_sn=1",
+    "lastUpdated": "2011-01-31"
+  },
+  {
+    "moreInfo": [
+      "위치: 인도 동북부에 위치하며, 북쪽으로는 중국(티벳), 기타 방면은 인도로 둘러싸인 내륙국",
+      "면적: 38,394㎢ (한반도의 약 1/5)",
+      "종교: 대승불교(라마교 75%), 힌두교/회교/기타(25%)",
+      "화폐단위: 부탄 달러, 눌트룸(Ngultrum), 인도화폐(Rupee) 병용"
+    ],
+    "language": [
+      "종카어(공식어)",
+      "네팔어",
+      "영어"
+    ],
+    "capitalLocal": "팀푸",
+    "continent": "아시아/태평양",
+    "fullName": "Bhutan",
+    "fullNameLocal": "부탄",
+    "countryEnName": "Bhutan",
+    "countryName": "부탄",
+    "id": "329",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_329&file_sn=1",
+    "lastUpdated": "2011-01-31"
+  },
+  {
+    "moreInfo": [
+      "면적: 9,251㎢ (남한의 10%)",
+      "종교: 그리스정교(89.1%), 로마카톨릭(2.9%), 개신교∙영국성공회(2%), 이슬람교(1.8%)",
+      "[남북 사이프러스 분단]",
+      "사이프러스는 1974년 터키군의 북사이프러스 점령 이후 남북 사이프러스로 분단되었으며, 이후 유엔 중재로 통일 협상이 진행 및 중단을 반복하고 있음",
+      "북사이프러스는 ‘북사이프러스 터키공화국(Turkish Republic of Northern Cyprus)’으로 1983년 독립을 선언하였으나, UN 안보리는 결의 541과 550을 통해 북사이프러스를 불법정부로 규정하고, 세계 각국에 북사이프러스를 승인하지 않도록 권고했음. 이에, 우리정부는 남사이프러스(사이프러스 공화국)만을 인정하고 있으며, 북사이프러스를 국가로 승인하지 않고 있음 "
+    ],
+    "language": [
+      "그리스어",
+      "터키어",
+      "영어"
+    ],
+    "capitalLocal": "니코시아",
+    "continent": "유럽",
+    "fullName": "Republic of Cyprus",
+    "fullNameLocal": "사이프러스 공화국",
+    "countryEnName": "Cyprus",
+    "countryName": "사이프러스",
+    "id": "258",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_258&file_sn=1",
+    "lastUpdated": "2011-01-31"
+  },
+  {
+    "moreInfo": [
+      "위치: 남동 유럽 발칸반도 중앙",
+      "면적: 77,591㎢ (한반도의 35%)",
+      "인종: 세르비아인(83%), 헝가리인(4%), 보스니아인(2%), 기타(11%)",
+      "종교: 정교(84.6&amp;%), 가톨릭(5%), 이슬람(3%), 기타(7.6%)"
+    ],
+    "language": [
+      "세르비아어"
+    ],
+    "capitalLocal": "베오그라드",
+    "continent": "유럽",
+    "fullName": "Serbia",
+    "fullNameLocal": "세르비아",
+    "countryEnName": "Serbia",
+    "countryName": "세르비아",
+    "id": "287",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_287&file_sn=1",
+    "lastUpdated": "2011-01-31"
+  },
+  {
+    "moreInfo": [
+      "위치: 남·동 유럽 발칸반도 아드리아 해 연안",
+      "면적: 13,938㎢",
+      "인종: 몬테네그로인(45%), 세르비아인(29%), 보스니아인(9%), 알바니아인(5%), 기타(12%)",
+      "종교: 정교(70%), 이슬람(21%), 가톨릭(4%), 기독교(2%), 기타(3%)"
+    ],
+    "language": [
+      "몬테네그로어(세르비아어)"
+    ],
+    "capitalLocal": "포드고리짜",
+    "continent": "유럽",
+    "fullName": "Montenegro",
+    "fullNameLocal": "몬테네그로",
+    "countryEnName": "Montenegro",
+    "countryName": "몬테네그로",
+    "id": "290",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_290&file_sn=1",
+    "lastUpdated": "2011-01-31"
+  },
+  {
+    "moreInfo": [
+      "인 구: 1,239만 명 ('17)",
+      "면 적: 24만6천㎢ (한반도 크기)",
+      "민족구성: Peul(34%), Malinké(31%), Soussou(19%) 등",
+      "종 교: 회교(86%), 기독교(9%), 토착종교(4%)",
+      "독 립: 1958.10.2(프랑스에서 독립)"
+    ],
+    "language": [
+      "프랑스어(공용어)"
+    ],
+    "capitalLocal": "코나크리",
+    "continent": "중동/아프리카",
+    "fullName": "Guinea",
+    "fullNameLocal": "기니",
+    "countryEnName": "Guinea",
+    "countryName": "기니",
+    "id": "13",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_13&file_sn=1",
+    "lastUpdated": "2011-01-28"
+  },
+  {
+    "moreInfo": [
+      "기후: 반건조 기후",
+      "면적: 825,418㎢",
+      "수도인구: 약 30만",
+      "위치: 남위 22° 동경 17°",
+      "주요 도시: Walvis Bay, Swakopmund, Luderitz, Katima Mulilo, Ongwediva 등",
+      "종교: 개신교(90%), 기타(토착신앙)"
+    ],
+    "language": [
+      "영어(공용어)",
+      "독일어(지역 사회 수준의 공식 언어)"
+    ],
+    "capitalLocal": "빈트후크",
+    "continent": "중동/아프리카",
+    "fullName": "Namibia",
+    "fullNameLocal": "나미비아",
+    "countryEnName": "Namibia",
+    "countryName": "나미비아",
+    "id": "15",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_15&file_sn=1",
+    "lastUpdated": "2011-01-28"
+  },
+  {
+    "moreInfo": [
+      "면적: 10,400㎢ (남한의 1/10 크기)",
+      "인구증가율: 9.37%, 인구밀도: 566명/㎢ (중동 최고 인구밀도)",
+      "종교: 기독교(마론파 가톨릭, 아르메니아 정교 및 그리스 정교 등), 이슬람(순니파/시아파 등), 드루즈(시아의 분파) 등"
+    ],
+    "language": [
+      "아랍어(공용어)",
+      "프랑스어"
+    ],
+    "capitalLocal": "베이루트",
+    "continent": "중동/아프리카",
+    "fullName": "The Republic of Lebanon",
+    "fullNameLocal": "레바논 공화국",
+    "countryEnName": "Lebanon",
+    "countryName": "레바논",
+    "id": "40",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_40&file_sn=1",
+    "lastUpdated": "2011-01-28"
+  },
+  {
+    "moreInfo": [
+      "인구: 57만 명 ('18)",
+      "면적: 4,033㎢ (제주도의 2배)",
+      "민족구성: 크리올인(71%), 아프리카인(28%)",
+      "종교: 카톨릭(77.3%)",
+      "독립: 1975.7.5. (포르투갈에서 독립)"
+    ],
+    "language": [
+      "포르투갈어(공용어)",
+      "크리올어"
+    ],
+    "capitalLocal": "프라이아",
+    "continent": "중동/아프리카",
+    "fullName": "Republic of Cape Verde(República de Cabo Verde)",
+    "fullNameLocal": "카보베르데 공화국",
+    "countryEnName": "Cape Verde",
+    "countryName": "카보베르데",
+    "id": "200",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_200&file_sn=1",
+    "lastUpdated": "2011-01-28"
+  },
+  {
+    "moreInfo": [
+      "위치: 중미(멕시코, 엘살바도르, 온두라스, 벨리즈와 국경지대 접함)",
+      "기후: 고원지대 온대성기후(15~25도), 해안지대 열대성기후(25~35도), 건기(11월~4월), 우기(5월~10월)",
+      "면적: 108,889㎢ (한반도의 약 1/2)",
+      "수도인구: 230만 명 (고도 1500m~2000m)"
+    ],
+    "language": [
+      "스페인어(공용어)",
+      "기타(23개 인디안 부족어)"
+    ],
+    "capitalLocal": "과테말라 시",
+    "continent": "미주",
+    "fullName": "Guatemala",
+    "fullNameLocal": "과테말라",
+    "countryEnName": "Guatemala",
+    "countryName": "과테말라",
+    "id": "7",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_7&file_sn=1",
+    "lastUpdated": "2011-01-28"
+  },
+  {
+    "moreInfo": [
+      "1975년 12월 2일 공화국 수립",
+      "위치: 동남아시아, 태국의 북동부, 베트남의 서쪽",
+      "종족 구성: 라오족(55%), 크모족(11%), 몽족(8%), 기타(26%)",
+      "종교: 불교(67%), 기독교(1.5%), 기타(31.5%)"
+    ],
+    "language": [
+      "라오어"
+    ],
+    "capitalLocal": "비엔티안",
+    "continent": "아시아/태평양",
+    "fullName": "Lao People`s Democratic Republic",
+    "fullNameLocal": "라오 인민민주공화국",
+    "countryEnName": "Lao People's Democratic Republic",
+    "countryName": "라오스",
+    "id": "36",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_36&file_sn=1",
+    "lastUpdated": "2011-01-28"
+  },
+  {
+    "moreInfo": [
+      "면적: 329,750㎢ (한반도의 1.5배)",
+      "민족구성: 말레이계(62%), 중국계(22%), 인도(7%), 기타(1%), 외국인(8%)",
+      "종교: 이슬람교가 국교이나 종교의 자유 보장. 이슬람교(국교), 불교, 힌두교"
+    ],
+    "language": [
+      "말레이어(공식어)",
+      "영어(통용)",
+      "중국어"
+    ],
+    "capitalLocal": "쿠알라룸푸르",
+    "continent": "아시아/태평양",
+    "fullName": "Malaysia",
+    "fullNameLocal": "말레이시아",
+    "countryEnName": "Malaysia",
+    "countryName": "말레이시아",
+    "id": "56",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_56&file_sn=1",
+    "lastUpdated": "2011-01-28"
+  },
+  {
+    "moreInfo": [
+      "※ Negara는 국가(country), Darussalam은 '평화가 깃든 곳(Abode of Peace)'을 의미",
+      "면적: 5,765㎢ (경기도의 약 1/2)",
+      "위치: 보르네오섬 북부 연안에 위치하며, 동부 말레이시아의 사라왁(Sarawak)주에 의해 양분 (북위4°2′- 5°3′, 동경 114°4′-115°2′)",
+      "기후: 고온 다습한 열대성 기후",
+      "- 연평균 최고기온 34도, 연평균 최저기온 22도, 연평균 강우량 3,300 ㎜",
+      "인구: 421,300명(2017년 기준)",
+      "인종: 말레이계(65%), 중국계(11%), 기타(24%)",
+      "종교: 이슬람교가 국교 (기타 신앙의 자유는 인정하나 포교는 금지)",
+      "화폐: 브루나이 달러는 싱가포르 달러와 1:1 등가 교환",
+      "행정구역: Brunei-Muara, Tutong, Belait, Temburong의 4개 District로 구분"
+    ],
+    "language": [
+      "말레이어(공용어)",
+      "영어",
+      "중국어",
+      "기타(토속어)"
+    ],
+    "capitalLocal": "반다르세리베가완",
+    "continent": "아시아/태평양",
+    "fullName": "Negara Brunei Darussalam",
+    "fullNameLocal": "네가라 브루나이 다루살람",
+    "countryEnName": "Brunei Darussalam",
+    "countryName": "브루나이",
+    "id": "105",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_105&file_sn=1",
+    "lastUpdated": "2011-01-28"
+  },
+  {
+    "moreInfo": [
+      "위치: 자카르타 동방 2,200km, 발리섬 동남방 1,200km, 호주 북부 다윈에서 북서방향 700km 지점에 위치한 티모르섬의 동부, 남방 9°, 동경 126°",
+      "면적: 15,007㎢ (우리나라 강원도 면적)",
+      "계절: 우기(11월~5월), 건기(6월~10월)",
+      "종교: 카톨릭(90%), 개신교, 이슬람교, 힌두교"
+    ],
+    "language": [
+      "포르투갈어(공용어)",
+      "인도네시아어",
+      "영어(실용어)",
+      "테툼어"
+    ],
+    "capitalLocal": "딜리",
+    "continent": "아시아/태평양",
+    "fullName": "Democratic Republic of Timor-Leste",
+    "fullNameLocal": "동티모르 민주공화국",
+    "countryEnName": "Timor-Leste",
+    "countryName": "동티모르",
+    "id": "304",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_304&file_sn=1",
+    "lastUpdated": "2011-01-28"
+  },
+  {
+    "moreInfo": [
+      "위치: 동유럽, 폴란드와 러시아 중간 (국경 인접국: 몰도바, 루마니아, 헝가리, 슬로바키아, 폴란드, 벨라루스, 러시아)",
+      "면적: 603,500㎢",
+      "기후: 대륙성",
+      "수도인구: 292만 명 (2017년 04월 기준)",
+      "민족: 우크라이나인(77.8%), 러시아인(17.3%), 기타 소수민족(4.9%)",
+      "종교: 우크라이나정교, 러시아정교, 우니아트교, 가톨릭교",
+      "국토: 우크라이나는 유럽의 동남부지역에 위치하고 있으며, 동쪽으로 러시아, 북쪽으로 러시아와 벨라루스, 서쪽으로 폴란드, 체코, 헝가리, 루마니아, 몰도바, 남쪽으로 흑해와 아조프해에 접해 있다. 크림반도를 포함한 우크라이나의 국토면적은 603,500㎢으로 남한의 약 6배. 하지만 현재 크림반도는 러시아에 합병된 상태",
+      "우크라이나의 광활한 토지는 소위 흑토라고 불리는 기름진 땅이며, 서쪽에 있는 카르파티아 산맥 지대와 크림반도를 제외하고는 산이 거의 없는 평지로 이루어져 있음. 전 국토의 81%가 경작 가능지역이며, 이 중 60%가 비옥한 흑토 지대. 국토의 56%가 경작지로 이용되고 있으며, 30%는 도시가 차지하고 있고, 나머지 14%는 야산 및 목초지. 우크라이나 서쪽의 루마니아, 몰도바와의 국경부근에 있는 카르파티아 산맥지대 및 크림반도의 남단에 있는 산맥을 제외하고는 높은 산이 없으며, 끝없는 평원으로 이루어진 자연경관을 갖고 있음"
+    ],
+    "language": [
+      "우크라이나어(공용어)",
+      "러시아어(상용어)"
+    ],
+    "capitalLocal": "키예프",
+    "continent": "유럽",
+    "fullName": "Ukraine",
+    "fullNameLocal": "우크라이나",
+    "countryEnName": "Ukraine",
+    "countryName": "우크라이나",
+    "id": "169",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_169&file_sn=1",
+    "lastUpdated": "2011-01-28"
+  },
+  {
+    "moreInfo": [
+      "면적: 92,225.61 k㎡(한반도의 약2/5)",
+      "수도인구: 시내 50만 명, 수도권내 283만 명",
+      "민족: 이베리아족, 켈트족, 라틴족, 게르만족, 무어족 등 혼혈",
+      "종교: 카톨릭(전체 인구의 약 90%, 국교는 아님)",
+      "기후: 대서양, 지중해 및 대륙성 혼합기후이며, 건기(5-10월)와 우기(11~4월)로 구분됨"
+    ],
+    "language": [
+      "포르투갈어"
+    ],
+    "capitalLocal": "리스본",
+    "continent": "유럽",
+    "fullName": "The Portuguese Republic",
+    "fullNameLocal": "포르투갈 공화국",
+    "countryEnName": "Portugal",
+    "countryName": "포르투갈",
+    "id": "244",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_244&file_sn=1",
+    "lastUpdated": "2011-01-28"
+  },
+  {
+    "moreInfo": [
+      "위치: 룩셈부르크 기준 북위 49°, 동경 6°",
+      "면적: 2,586㎦",
+      "인종: 룩셈부르크인, 독일인, 프랑스인",
+      "종교: 가톨릭(87%), 기타(13%)"
+    ],
+    "language": [
+      "룩셈부르크어",
+      "불어",
+      "독일어"
+    ],
+    "capitalLocal": "룩셈부르크",
+    "continent": "유럽",
+    "fullName": "Luxembourg",
+    "fullNameLocal": "룩셈부르크",
+    "countryEnName": "Luxembourg",
+    "countryName": "룩셈부르크",
+    "id": "337",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_337&file_sn=1",
+    "lastUpdated": "2011-01-28"
+  },
+  {
+    "moreInfo": [
+      "인구: 1,843만('18.7, CIA)",
+      "면적: 1,240,192㎢ (한반도의 5배)",
+      "민족구성: Bambara, Peul, Voltaic, Songhai 등",
+      "종교: 회교(90%), 토속신앙(9%)",
+      "독립: 1960.9.22.(프랑스에서 독립)"
+    ],
+    "language": [
+      "프랑스어(공용어)",
+      "밤바라어"
+    ],
+    "capitalLocal": "바마코",
+    "continent": "중동/아프리카",
+    "fullName": "Mali",
+    "fullNameLocal": "말리",
+    "countryEnName": "Mali",
+    "countryName": "말리",
+    "id": "57",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_57&file_sn=1",
+    "lastUpdated": "2011-01-27"
+  },
+  {
+    "moreInfo": [
+      "위치: 남아메리카 중앙부",
+      "면적: 1,098,581㎢",
+      "종교: 볼리비아는 가톨릭을 국교로 하였으나 2009년 헌법 개정시 국교를 없애고 종교의 자유를 완전히 인정하여 개인의 종교 자유를 보장하며, 외국인들의 종교활동(예배)에 특별한 제한은 없으며, 외국인이 많이 거주하는 지역에는 성당, 개신교회 등이 있어 종교활동 (예배)에 큰 불편은 없습니다.",
+      "인종: 메스티소(69%), 케추아족(13%), 아이마라(12%), 기타(6%)"
+    ],
+    "language": [
+      "스페인어",
+      "아이마라어",
+      "케추아어",
+      "기타(헌법상 37개 공식 언어)"
+    ],
+    "capitalLocal": "라파스(행정수도), 수크레(사법수도)",
+    "continent": "미주",
+    "fullName": "Bolivia",
+    "fullNameLocal": "볼리비아",
+    "countryEnName": "Bolivia",
+    "countryName": "볼리비아",
+    "id": "92",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_92&file_sn=1",
+    "lastUpdated": "2011-01-27"
+  },
+  {
+    "moreInfo": [
+      "위치: 북위 21°53'50\"~25°18'20\", 동경 120°01'00\"~121°59'15\"",
+      "면적: 36,000㎢",
+      "종교: 도교, 불교, 유교, 기독교, 천주교"
+    ],
+    "language": [
+      "중국어(만다린, 공용어)",
+      "민남어(閩南語, 현지 언어)"
+    ],
+    "capitalLocal": "타이베이(臺北)",
+    "continent": "아시아/태평양",
+    "fullName": "Taiwan",
+    "fullNameLocal": "대만",
+    "countryEnName": "Taiwan, Province of China",
+    "countryName": "대만",
+    "id": "372",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_372&file_sn=1",
+    "lastUpdated": "2011-01-27"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 188만 명",
+      "면적: 238,391㎢ (한반도의 1.1배)",
+      "민족: 루마니아인(88.6%), 헝가리인(6.5%), 기타(4.9%) 등",
+      "종교: 루마니아 정교(86%), 가톨릭(4.7%), 개신교(3.2%)"
+    ],
+    "language": [
+      "루마니아어"
+    ],
+    "capitalLocal": "부카레스트",
+    "continent": "유럽",
+    "fullName": "Romania",
+    "fullNameLocal": "루마니아",
+    "countryEnName": "Romania",
+    "countryName": "루마니아",
+    "id": "43",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_43&file_sn=1",
+    "lastUpdated": "2011-01-27"
+  },
+  {
+    "moreInfo": [
+      "위치: 북위 40.26°, 서경 3.42°",
+      "면적: 505,990㎢ (한반도의 약 2.3배)",
+      "인구: 4,673만 명 (2018)",
+      "민족: 스페인인(86%), 모로코인(2%), 루마니아인(1%) 등",
+      "종교: 가톨릭(74% 이상)",
+      "기후",
+      "- 대부분의 지역에서 4계절이 뚜렷하고 동남부 해안 지역은 지중해성 기후, 북서부 해안 지역은 해양성 기후, 내륙고원 지역은 대륙성 기후를 보이며, 카나리아 군도는 아열대성 기후로 연중 온난건조",
+      "- 봄·가을: 8~21℃, 여름: 25~45℃, 겨울: 0~12℃ / 카나리아 군도: 22℃ (연평균)",
+      "- 강수량: 300mm 이하(알메리아주, 무르시아주)~800mm 이상(바스크주, 갈리시아주)"
+    ],
+    "language": [
+      "스페인어(카스티야어)",
+      "기타(지역별 카탈루냐어, 바스크어, 갈리시아어를 공용어로 사용)"
+    ],
+    "capitalLocal": "마드리드",
+    "continent": "유럽",
+    "fullName": "Spain",
+    "fullNameLocal": "스페인",
+    "countryEnName": "Spain",
+    "countryName": "스페인",
+    "id": "128",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_128&file_sn=1",
+    "lastUpdated": "2011-01-27"
+  },
+  {
+    "moreInfo": [
+      "민족: 마자르족(90%), 집시(5%), 독일계(2%)",
+      "종교: 카톨릭(74.4%), 개신교(20%), 유대교 등",
+      "면적: 93,030㎢ (한반도의 2/5, 한국의 0.94배)",
+      "서머타임: 3월 마지막 주 일요일~10월 마지막 주 일요일"
+    ],
+    "language": [
+      "마자르어(헝가리어)"
+    ],
+    "capitalLocal": "부다페스트",
+    "continent": "유럽",
+    "fullName": "Hungary",
+    "fullNameLocal": "헝가리",
+    "countryEnName": "Hungary",
+    "countryName": "헝가리",
+    "id": "254",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_254&file_sn=1",
+    "lastUpdated": "2011-01-27"
+  },
+  {
+    "moreInfo": [
+      "위치: 멕시코시티 기준 북위 19°, 동경 99°",
+      "면적: 196만㎢ (한반도의 9배)",
+      "인구: 약 1억 2,010만 명 ('15년)",
+      "인종: 메스티소(60%), 인디언(30%), 백인(9%)",
+      "종교: 가톨릭(89%), 기독교(65), 기타(5%)",
+      "GDP: 1조 1,687억 불"
+    ],
+    "language": [
+      "스페인어"
+    ],
+    "capitalLocal": "멕시코시티",
+    "continent": "미주",
+    "fullName": "Mexico",
+    "fullNameLocal": "멕시코",
+    "countryEnName": "Mexico",
+    "countryName": "멕시코",
+    "id": "58",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_58&file_sn=1",
+    "lastUpdated": "2011-01-26"
+  },
+  {
+    "moreInfo": [
+      "면적: 8,514,876.599㎢",
+      "종교: 천주교(73.8%), 개신교(15.4%), 기타(토속종교(Umbanda)) 등",
+      "기후: 열대, 아열대, 온대 기후가 폭넓게 분포",
+      "- 브라질리아: 19℃-28℃ 의 아열대성 기후(해발 약 1,170미터)",
+      "- 상파울루: 하계 21℃, 동계 14℃(해발 약 700미터)",
+      "- 리우데자네이루: 연평균 22.7℃ 시차",
+      "- 마나우스 등 서쪽에 위치한 지역과 동부지역 간에는 1시간의 시차가 있으며, 북동부 일부 주는 일광절약시간제를 실시하지 않음",
+      "서머타임: 10월 중순~익년 2월 중순"
+    ],
+    "language": [
+      "포르투갈어"
+    ],
+    "capitalLocal": "브라질리아",
+    "continent": "미주",
+    "fullName": "Federative Republic of Brasil(República Federativa do Brazil)",
+    "fullNameLocal": "브라질 연방공화국",
+    "countryEnName": "Brazil",
+    "countryName": "브라질",
+    "id": "104",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_104&file_sn=1",
+    "lastUpdated": "2011-01-26"
+  },
+  {
+    "moreInfo": [
+      "면적: 131,957㎢ (본토 81%, 도서 19%, 한반도의 2/3배)",
+      "서머타임: 3월 마지막 일요일~10월 마지막 일요일"
+    ],
+    "language": [
+      "그리스어"
+    ],
+    "capitalLocal": "아테네",
+    "continent": "유럽",
+    "fullName": "The Hellenic Republic",
+    "fullNameLocal": "엘라다 공화국 (그리스)",
+    "countryEnName": "Greece",
+    "countryName": "그리스",
+    "id": "11",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_11&file_sn=1",
+    "lastUpdated": "2011-01-26"
+  },
+  {
+    "moreInfo": [
+      "위치: 브뤼셀 기준 북위 51°, 동경 5°",
+      "면적: 30,528㎢",
+      "인종: 프랑망족(56%), 왈롱족(41%), 기타(3%)",
+      "[치안상황]",
+      "벨기에는 대체적으로 안전한 유럽 국가중의 하나로 알려져 있었으나, 2016.3브뤼셀 공항 및 브뤼셀시내 지하철 역 폭탄테러가 발생한 이후 주재국 정부는",
+      "벨기에 전역에 대해 테러위협 경보(최고 4단계)를 3단계(심각)로 유지하였다가 2018년 1월 2단계(낮음)로 하향 유지하고 있습니다.",
+      "브뤼셀을 포함한 브뤼헤(Brugge), 겐트(Gent), 안트워프(Antwerp) 등 주요 관광지에서는 소매치기나 가방탈취 사고가 빈번히 발생하고 있으므로,",
+      "항상 소지품 관리에 유의 하여야 합니다.",
+      "[출입국시 유의 사항]",
+      "벨기에는 쉥겐협약 가입국으로, 쉥겐국가 출국 당일 기준으로 과거 180일 내에 연속하여 최장 90일 또는 여러 번 방문 시 누적 일수 총 90일을 초과하지 않는",
+      "기간을 단기 방문이라고 정의하고 있습니다.",
+      "벨기에 입국 시 여행자의 여권은 최소한 6개월 이상의 유효 기간이 남아 있는 상태가 좋습니다.",
+      "벨기에를 여행 또는 단기 방문하는 우리 국민은 하기 사항을 항상 유의하여야 합니다.",
+      "- 유효기간이 충분한 여권을 항상 소지하여야 함",
+      "- 방문 목적 및 이를 입증할 수 있는 서류를 제공할 수 있어야 함",
+      "- 호텔 예약 또는 체류지 및 방문자 관련 정보, 귀국 항공권, 방문",
+      "- 목적을 충족하는 재정상태",
+      "- 벨기에 법과 질서를 준수하여야 함"
+    ],
+    "language": [
+      "화란어",
+      "불어",
+      "독일어"
+    ],
+    "capitalLocal": "브뤼셀",
+    "continent": "유럽",
+    "fullName": "Belgium",
+    "fullNameLocal": "벨기에",
+    "countryEnName": "Belgium",
+    "countryName": "벨기에",
+    "id": "87",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_87&file_sn=1",
+    "lastUpdated": "2011-01-26"
+  },
+  {
+    "moreInfo": [
+      "면적: 783,562㎢ (한반도의 3.5배)",
+      "- 아나톨리아(Anatolia, 아시아): 755,688㎢ (97%)",
+      "- 트레이스(Trace, 유럽): 23,764㎢ (3%)",
+      "위치: 북위 35°~42°, 동경 25°~45°에 위치",
+      "- 아시아대륙의 서부에 위치, 유럽대륙의 동남부와 연결",
+      "- 흑해, 마르마라해, 에게해를 연결하는 보스포러스와 다다넬즈 해협에 의하여 트레이스 반도(유럽 부분)와 아나톨리아 반도(아시아 부분)로 구분",
+      "- 북쪽은 흑해, 동쪽은 조지아, 아르메니아, 남쪽은 이라크, 시리아 및 지중해, 서쪽 유럽 부분 영토는 그리스 및 불가리아와 접경",
+      "민족구성: 터키인, 쿠르드인(약 1,200-1,400만 명으로 추정), 아랍인(50만 명), 아르메니아인(5만 명), 기타 그리스인, 유태인 등",
+      "기후: 내륙지방은 대륙성 기후이며 해안지방은 해양성 기후",
+      "- 지중해 및 에게해 연안은 전형적인 지중해성 기후로서 여름은 대체로 고온 건조하며, 겨울은 온화하고 다습함(연평균 기온 18℃-20℃)",
+      "- 흑해연안은 온화한 해양성 기후로서 연중 고른 분포의 강우량(연평균 2,500㎜)을 기록하고 있으며, 기온의 월교차가 거의 없음(연평균 22℃-24℃)",
+      "- 북동부 및 아나톨리아 고원지대는 대륙성 기후를 보이고 있어서 여름에는 고온 건조하며, 겨울에는 눈이 많이 내림. 1-2월이 가장 추우며, 겨울철 평균기온은 0℃-10℃임",
+      "- 봄, 가을이 짧으며, 4월 11월, 12월이 우기에 해당",
+      "- 평균 고도: 902m",
+      "- 평균 기온: 11.8℃(최저: -24.9℃, 최고: 40.0℃)",
+      "- 평균 습도: 60%",
+      "- 연평균 강우량: 367㎜",
+      "- 특기사항: 건조하고 일교차가 심함",
+      "- 주요도시: Istanbul, Izmir, Antalya 등",
+      "종교: 전국민의 99%가 이슬람교도(수니파 다수, 시아파 소수)이며, 그밖에 기독교, 유태교, 그리스정교 등"
+    ],
+    "language": [
+      "터키어"
+    ],
+    "capitalLocal": "앙카라",
+    "continent": "유럽",
+    "fullName": "Republic of Turkey",
+    "fullNameLocal": "터키 공화국",
+    "countryEnName": "Turkey",
+    "countryName": "터키",
+    "id": "228",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_228&file_sn=1",
+    "lastUpdated": "2011-01-26"
+  },
+  {
+    "moreInfo": [
+      "기후: 대부분의 지역이 서안해양성 기후이나, 동부지역은 대륙성 기후, 남부지역은 지중해성 기후를 보임",
+      "면적: 543,965㎢ (한반도의 2.5배)",
+      "주요도시: 파리, 리옹, 마르세유",
+      "종교: 가톨릭, 신교, 유태교, 이슬람교",
+      "전화: 직접 카드를 넣는 주입식 또는 코드번호를 누르는 비주입식 카드 사용",
+      "주요공휴일: 신정(1.1), 부활절(4.22), 노동절(5.1), 승전기념일(5.8), 예수승천일(5.30), 성신강림일(6.10), 혁명기념일(7.14), 성모승천일(8.15), 만성절(11.1), 휴전기념일(11.11), 성탄절(12.25)",
+      "[파리]",
+      "면적: 105.4㎢ (서울의 1/6)",
+      "구역: 20개 구(Arrondissement)"
+    ],
+    "language": [
+      "프랑스어"
+    ],
+    "capitalLocal": "파리",
+    "continent": "유럽",
+    "fullName": "France",
+    "fullNameLocal": "프랑스",
+    "countryEnName": "France",
+    "countryName": "프랑스",
+    "id": "248",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_248&file_sn=1",
+    "lastUpdated": "2011-01-26"
+  },
+  {
+    "moreInfo": [
+      "면적: 33,851㎢",
+      "GDP: 61억 불(2016)",
+      "종교: 러시아정교"
+    ],
+    "language": [
+      "루마니아어"
+    ],
+    "capitalLocal": "키시나우",
+    "continent": "유럽",
+    "fullName": "Republic of Moldova",
+    "fullNameLocal": "몰도바 공화국",
+    "countryEnName": "Moldova",
+    "countryName": "몰도바",
+    "id": "65",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_65&file_sn=1",
+    "lastUpdated": "2011-01-25"
+  },
+  {
+    "moreInfo": [
+      "위치: 아프리카대륙에 위치",
+      "- 서쪽으로 알제리, 남동쪽으로 리비아, 북쪽으로는 지중해와 인접",
+      "면적: 162,155㎢ (한반도의 3/4)",
+      "기후",
+      "- 북부/해안: 지중해성 기후(하계 고온건조, 동계 다습)",
+      "- 내륙 및 남부: 반건조 및 사막성 기후",
+      "- 겨울 평균기온(12월): 11.4℃",
+      "- 여름 평균기온(7월): 29.3℃",
+      "인구: 1,166만 명 (‘18.10, IMF)",
+      "수도인구: 약 107만 명",
+      "민족: 아랍인(98%), 베르베르인(1%), 기타(1%)",
+      "종교: 이슬람교(99%), 기타"
+    ],
+    "language": [
+      "아랍어(국어)",
+      "프랑스어(통용어)"
+    ],
+    "capitalLocal": "튀니스",
+    "continent": "중동/아프리카",
+    "fullName": "Tunisia",
+    "fullNameLocal": "튀니지",
+    "countryEnName": "Tunisia",
+    "countryName": "튀니지",
+    "id": "233",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_233&file_sn=1",
+    "lastUpdated": "2011-01-18"
+  },
+  {
+    "moreInfo": [
+      "면적: 39만㎢ (한반도의 약 1.7배)",
+      "민족: Shona족(74%), Ndebele족(20%) 등",
+      "종교: 기독교 계통(83%), 토착신앙(14%)",
+      "기후: 아열대 기후"
+    ],
+    "language": [
+      "영어(공용어)",
+      "기타(토착어)"
+    ],
+    "capitalLocal": "하라레",
+    "continent": "중동/아프리카",
+    "fullName": "Zimbabwe",
+    "fullNameLocal": "짐바브웨",
+    "countryEnName": "Zimbabwe",
+    "countryName": "짐바브웨",
+    "id": "193",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_193&file_sn=1",
+    "lastUpdated": "2010-12-21"
+  },
+  {
+    "moreInfo": [
+      "인구: 약 544만 명",
+      "면적: 49,035㎢ (한반도의 1/4)",
+      "민족: 슬로바키아인(80.7%), 헝가리인(8.5%), 로마인(집시, 2%), 기타(8.8%)",
+      "종교: 가톨릭(65.85%), 개신교(8.33%), 동방 정교(0.91%), 무교(13.44%), 기타(11.47%)"
+    ],
+    "language": [
+      "슬로바키아어"
+    ],
+    "capitalLocal": "브라티슬라바",
+    "continent": "유럽",
+    "fullName": "Slovakia",
+    "fullNameLocal": "슬로바키아",
+    "countryEnName": "Slovakia",
+    "countryName": "슬로바키아",
+    "id": "129",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_129&file_sn=1",
+    "lastUpdated": "2010-10-19"
+  },
+  {
+    "moreInfo": [
+      "인구: 1,987만 명 (2018)",
+      "면적: 126만7천㎢ (한반도의 6배)",
+      "종족: 아우사(53.4%), 제르마-송가이(21.2%), 투아레그(11%) 등",
+      "종교: 이슬람교(80%), 토착신앙"
+    ],
+    "language": [
+      "프랑스어(공용어)",
+      "기타(토착어)"
+    ],
+    "capitalLocal": "니아메",
+    "continent": "중동/아프리카",
+    "fullName": "Republic of Niger",
+    "fullNameLocal": "니제르 공화국",
+    "countryEnName": "Niger",
+    "countryName": "니제르",
+    "id": "27",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_27&file_sn=1",
+    "lastUpdated": "2010-10-04"
+  },
+  {
+    "moreInfo": [
+      "위치: 인도차이나 반도 중부에 위치하며, 중국, 라오스, 캄보디아와 접경",
+      "면적: 33만 341㎢ (한반도의 약 1.5배)",
+      "기후: 북부는 아열대성, 남부는 열대몬순(연평균 기온 24.1도, 습도 월평균 83%, 연평균 강우량은 한국의 약 2.4배)",
+      "민족: 베트남족(89%), 기타(53개 소수민족), 화교(약 100만 명)"
+    ],
+    "language": [
+      "베트남어(공용어)"
+    ],
+    "capitalLocal": "하노이",
+    "continent": "아시아/태평양",
+    "fullName": "Socialist Republic of Viet Nam",
+    "fullNameLocal": "베트남 사회주의 공화국",
+    "countryEnName": "Viet Nam",
+    "countryName": "베트남",
+    "id": "86",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_86&file_sn=1",
+    "lastUpdated": "2010-10-04"
+  },
+  {
+    "moreInfo": [
+      "면적: 57만㎢ (남한의 약 6배)",
+      "민족구성: Kikuyu(23%), Luhya(14%), Luo(13%), Kalenjin(11%), Kamba(10%), Kisii(8%), Meru(8%) 등 약 44개 부족",
+      "종교: 기독교(80%, 카톨릭포함), 이슬람(10%), 기타(10%)"
+    ],
+    "language": [
+      "영어(공용어)",
+      "스와힐리어(통용어)"
+    ],
+    "capitalLocal": "나이로비",
+    "continent": "중동/아프리카",
+    "fullName": "Kenya",
+    "fullNameLocal": "케냐",
+    "countryEnName": "Kenya",
+    "countryName": "케냐",
+    "id": "206",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_206&file_sn=1",
+    "lastUpdated": "2010-09-07"
+  },
+  {
+    "moreInfo": [
+      "위치: 아라비아반도 중심(리야드 기준 북위 24°, 동경 46°)에 위치",
+      "면적: 약 215만㎢ (한반도의 약 10배)",
+      "인종: 아랍족(베두인족 27%, 기타 아랍 정착민 73%)",
+      "종교: 이슬람교(수니파 90%, 시아파 10%)",
+      "기후: 고온 건조한 대륙성기후 (연평균 섭씨 32~34℃, 최고 54도, 최저 0도)"
+    ],
+    "language": [
+      "아랍어(88.8%)",
+      "기타(11.2%)"
+    ],
+    "capitalLocal": "리야드",
+    "continent": "중동/아프리카",
+    "fullName": "Kingdom of Saudi Arabia",
+    "fullNameLocal": "사우디아라비아 왕국",
+    "countryEnName": "Saudi Arabia",
+    "countryName": "사우디아라비아",
+    "id": "107",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_107&file_sn=1",
+    "lastUpdated": "2010-08-10"
+  },
+  {
+    "moreInfo": [
+      "면적: 12,200㎢ (80개 이상의 부속 섬이 있으나, 65개는 무인도)",
+      "인구: 약 28만 명 (2015)",
+      "민족구성: Ni-Vanuatu인(94%), 유럽인(4%), 기타(6%)",
+      "종교: 기독교(82.5%), 기타(토속신앙 등 17.5%)"
+    ],
+    "language": [
+      "피진어(23.1%, 공용어)",
+      "현지 지방 언어(70.6%, 100개 이상 언어)",
+      "불어(2%)",
+      "영어(1.9%)"
+    ],
+    "capitalLocal": "포트 빌라",
+    "continent": "아시아/태평양",
+    "fullName": "Vanuatu",
+    "fullNameLocal": "바누아투",
+    "countryEnName": "Vanuatu",
+    "countryName": "바누아투",
+    "id": "310",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_310&file_sn=1",
+    "lastUpdated": "2010-08-05"
+  },
+  {
+    "moreInfo": [
+      "면적: 431㎢",
+      "인종: 흑인(90%), 백인(4%), 혼혈(6%)",
+      "종교: 기독교(67%), 카톨릭(4%), 무교(17%), 기타(12%)"
+    ],
+    "language": [
+      "영어"
+    ],
+    "capitalLocal": "브릿지타운",
+    "continent": "미주",
+    "fullName": "Barbados",
+    "fullNameLocal": "바베이도스",
+    "countryEnName": "Barbados",
+    "countryName": "바베이도스",
+    "id": "318",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_318&file_sn=1",
+    "lastUpdated": "2010-07-26"
+  },
+  {
+    "moreInfo": [
+      "면적: 241,139㎢",
+      "1인당 GDP: 615 불(‘16, World Bank)"
+    ],
+    "language": [
+      "반투어",
+      "닐로틱어",
+      "중앙 수단어"
+    ],
+    "capitalLocal": "캄팔라",
+    "continent": "중동/아프리카",
+    "fullName": "Uganda",
+    "fullNameLocal": "우간다",
+    "countryEnName": "Uganda",
+    "countryName": "우간다",
+    "id": "166",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_166&file_sn=1",
+    "lastUpdated": "2010-07-23"
+  },
+  {
+    "moreInfo": [
+      "위치: 서인도 제도, 카리브해 위치(쿠바 남쪽 145km 지점, 아이티 서쪽 161km)",
+      "면적: 10,991㎢ (남한 면적의 1/9, 제주도의 6배 크기)",
+      "인종: 흑인계(91%), 기타(백인계/인도계/중국계)",
+      "종교: 신교(56.1%), 카톨릭(5%), 기타(라스타파리안 등 38.9%)"
+    ],
+    "language": [
+      "영어",
+      "파투아어"
+    ],
+    "capitalLocal": "킹스턴",
+    "continent": "미주",
+    "fullName": "Jamaica",
+    "fullNameLocal": "자메이카",
+    "countryEnName": "Jamaica",
+    "countryName": "자메이카",
+    "id": "326",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_326&file_sn=1",
+    "lastUpdated": "2010-05-26"
+  },
+  {
+    "moreInfo": [
+      "위치: 북위 10°40′00″ 서경 61°31′00″",
+      "수도인구: 46만 명",
+      "면적: 5,128㎢ (트리니다드 섬: 4,828㎢, 토바고 섬: 300㎢)",
+      "민족: 아프리카계 흑인(37%), 인도계(36%), 이 외에 미국이나 유럽계 백인 뿐만 아니라 아시아계열도 있음",
+      "종교: 가톨릭(30%), 힌두교(24%), 성공회(11%), 회교(6%)",
+      "기후: 기후는 열대성 기후로 연평균기온 28℃이고 연강수량은 2,000mm를 넘지만, 토바고섬은 서쪽으로부터의 해풍의 영향을 받아 주민 생활에 알맞다. 우기는 6~12월, 건기는 1~5월이다."
+    ],
+    "language": [
+      "영어"
+    ],
+    "capitalLocal": "포트 오브 스페인",
+    "continent": "미주",
+    "fullName": "Republic of Trinidad and Tobago",
+    "fullNameLocal": "트리니다드토바고 공화국",
+    "countryEnName": "Trinidad and Tobago",
+    "countryName": "트리니다드토바고",
+    "id": "328",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_328&file_sn=1",
+    "lastUpdated": "2010-05-07"
+  },
+  {
+    "moreInfo": [
+      "면적: 71,740㎡",
+      "종교: 이슬람교(60%), 기독교(10%), 토착종교(30%)"
+    ],
+    "language": [
+      "영어(공용어)"
+    ],
+    "capitalLocal": "프리타운",
+    "continent": "중동/아프리카",
+    "fullName": "Sierra Leone",
+    "fullNameLocal": "시에라리온",
+    "countryEnName": "Sierra Leone",
+    "countryName": "시에라리온",
+    "id": "292",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_292&file_sn=1",
+    "lastUpdated": "2010-04-02"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 5만 명",
+      "위치: 앤틸러스 제도의 섬나라, 카리브해에 위치",
+      "면적: 616㎢",
+      "지리: 화산섬, 섬의 남서부지역에 화산, 남서부는 산악 지형, 북부는 고원으로 구성",
+      "기후: 열대 해양성 기후, 연중 기온: 18~34℃로 비교적 변화가 심함, 연중 강우량: 해안지방 1,300mm, 내륙지방 3,810mm",
+      "인종: 흑인(85.3%), 혼혈(10.9%), 동인도인(2.2%), 기타(1.6%)",
+      "종교: 카톨릭(61.5%), 개신교(25.5%), 라스타파리안(1.9%), 무교(6%)"
+    ],
+    "language": [
+      "영어(공용어)",
+      "파투아어(프랑스 방언, 일상 생활어로 통용)"
+    ],
+    "capitalLocal": "카스트리즈",
+    "continent": "미주",
+    "fullName": "Saint Lucia",
+    "fullNameLocal": "세인트루시아",
+    "countryEnName": "Saint Lucia",
+    "countryName": "세인트루시아",
+    "id": "321",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_321&file_sn=1",
+    "lastUpdated": "2010-04-02"
+  },
+  {
+    "moreInfo": [
+      "면적: 389㎢ (한반도의 1/569배, 세인트빈센트 섬과 32개 부속도서로 구성)",
+      "인종: 흑인(66%), 혼혈(19%), 동인도계(6%), 기타(95%)",
+      "종교: 성공회(47%), 카톨릭(13%), 감리교(28%), 기타(12%)"
+    ],
+    "language": [
+      "영어(공용어)",
+      "파투아어(프랑스 방언, 일상 생활어로 통용)"
+    ],
+    "capitalLocal": "킹스타운",
+    "continent": "미주",
+    "fullName": "Saint Vincent and the Grenadines",
+    "fullNameLocal": "세인트빈센트그레나딘",
+    "countryEnName": "Saint Vincent and the Grenadines",
+    "countryName": "세인트빈센트그레나딘",
+    "id": "322",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_322&file_sn=1",
+    "lastUpdated": "2010-04-02"
+  },
+  {
+    "moreInfo": [
+      "위치: 중앙 아시아의 북부",
+      "면적: 2,724,900㎢ (세계9위, 한반도의 12배)",
+      "종교: 이슬람교(70%), 러시아정교(23%), 개신교(2%), 기타(5%)",
+      "행정구역: 2개특별시(Astana, Almaty), 14개주"
+    ],
+    "language": [
+      "카자흐어",
+      "러시아어(공용어)"
+    ],
+    "capitalLocal": "아스타나",
+    "continent": "유럽",
+    "fullName": "Kazakhstan",
+    "fullNameLocal": "카자흐스탄",
+    "countryEnName": "Kazakhstan",
+    "countryName": "카자흐스탄",
+    "id": "201",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_201&file_sn=1",
+    "lastUpdated": "2010-04-02"
+  },
+  {
+    "moreInfo": [
+      "위치: 수도 기준 북위 3°52', 동경 11°31'",
+      "면적: 약 47만㎢",
+      "인종: 반투(팡, 바츠사, 마카)계족, 세미반투(바밀레케)계족, 햄(풀라니)계족",
+      "종교: 기독교(70%), 이슬람교(10%), 전통신앙(10%)"
+    ],
+    "language": [
+      "프랑스어(80%)",
+      "영어(20%)"
+    ],
+    "capitalLocal": "야운데",
+    "continent": "중동/아프리카",
+    "fullName": "Cameroon",
+    "fullNameLocal": "카메룬",
+    "countryEnName": "Cameroon",
+    "countryName": "카메룬",
+    "id": "199",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_199&file_sn=1",
+    "lastUpdated": "2010-03-26"
+  },
+  {
+    "moreInfo": [
+      "위치: 수도 기준 동경 21°00, 북위 7°00",
+      "면적: 622,984㎢ (한반도의 약 2.8배)",
+      "인종: 바야족(33%), 반다족(27%), 만디아족(13%), 사라족(10%) 등 80여 부족",
+      "종교: 토착종교(35%), 개신교(25%), 로마가톨릭교(25%), 이슬람교(15%)"
+    ],
+    "language": [
+      "프랑스어"
+    ],
+    "capitalLocal": "방기",
+    "continent": "중동/아프리카",
+    "fullName": "Central African Republic",
+    "fullNameLocal": "중앙아프리카 공화국",
+    "countryEnName": "Central African Republic",
+    "countryName": "중앙아프리카 공화국",
+    "id": "190",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_190&file_sn=1",
+    "lastUpdated": "2010-03-25"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 약 248,000명",
+      "면적: 13,880㎢ (한반도의 1/16)",
+      "인종: 흑인(85%), 백인(12%), 아시아/히스패닉계(3%)"
+    ],
+    "language": [
+      "영어(공식어)",
+      "크리올어(아이티 이주자가 사용)"
+    ],
+    "capitalLocal": "낫소",
+    "continent": "미주",
+    "fullName": "Commonwealth of The Bahamas",
+    "fullNameLocal": "바하마 연방",
+    "countryEnName": "Bahamas",
+    "countryName": "바하마",
+    "id": "339",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_339&file_sn=1",
+    "lastUpdated": "2010-03-25"
+  },
+  {
+    "moreInfo": [
+      "위치: 카트만두 기준 북위 27°42´, 동경°85°20´",
+      "면적: 147,200㎢ (한반도의 2/3)",
+      "인종: 아리안족(80%), 티베트/몽골족(17%), 기타 소수민족(3%)",
+      "종교: 힌두교(81.3%), 불교(9.0%), 이슬람교(4.4%), 전통 무속 신앙(3.0%), 기독교(1.42%), 기타(0.9%)"
+    ],
+    "language": [
+      "네팔어"
+    ],
+    "capitalLocal": "카트만두",
+    "continent": "아시아/태평양",
+    "fullName": "Nepal",
+    "fullNameLocal": "네팔",
+    "countryEnName": "Nepal",
+    "countryName": "네팔",
+    "id": "22",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_22&file_sn=1",
+    "lastUpdated": "2010-03-24"
+  },
+  {
+    "moreInfo": [
+      "위치: 유럽동남부, 발칸반도의 동부",
+      "기후: 대륙성기후",
+      "면적: 111,002㎢ (한반도의 1/2)",
+      "주요도시: 플로브디프(Plovdiv), 바르나(Varna), 루세(Ruse), 부르가스(Burgas)",
+      "주요민족: 불가리아인(76.9%), 터키인(8%), 집시(3.8%)",
+      "종교: 불가리아 정교(82.6%), 이슬람교(12.2%), 개신교(1.6%), 무교/기타(1.9%)"
+    ],
+    "language": [
+      "불가리아어(공용어)",
+      "터키어",
+      "마케도니아어(소수어)"
+    ],
+    "capitalLocal": "소피아",
+    "continent": "유럽",
+    "fullName": "Bulgaria",
+    "fullNameLocal": "불가리아",
+    "countryEnName": "Bulgaria",
+    "countryName": "불가리아",
+    "id": "98",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_98&file_sn=1",
+    "lastUpdated": "2010-03-24"
+  },
+  {
+    "moreInfo": [
+      "면적: 약 24.482만㎢ (한반도의 1.1배, 프랑스의 절반)",
+      "종교: 기독교(59.3%), 이슬람교(4.8%)"
+    ],
+    "language": [
+      "영어"
+    ],
+    "capitalLocal": "런던",
+    "continent": "유럽",
+    "fullName": "United Kingdom",
+    "fullNameLocal": "영국",
+    "countryEnName": "United Kingdom",
+    "countryName": "영국",
+    "id": "159",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_159&file_sn=1",
+    "lastUpdated": "2010-03-24"
+  },
+  {
+    "moreInfo": [
+      "위치: 발칸반도 북부",
+      "면적: 25,713㎢",
+      "수도인구: 58만 명",
+      "민족구성: 마케도니아계(64.2%), 알바니아계(25.2%), 터키계(4%), 집시계(2.7%), 세르비아계(1.8%), 기타(2.2%)"
+    ],
+    "language": [
+      "마케도니아어"
+    ],
+    "capitalLocal": "스코페",
+    "continent": "유럽",
+    "fullName": "Macedonia, the former Yugoslav Republic of",
+    "fullNameLocal": "북마케도니아 공화국",
+    "countryEnName": "Macedonia",
+    "countryName": "마케도니아",
+    "id": "368",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_368&file_sn=1",
+    "lastUpdated": "2010-03-24"
+  },
+  {
+    "moreInfo": [
+      "위치: 수도 기준 동경 19°00, 북위 15°00",
+      "면적: 128만4천㎢ (한반도의 6배)",
+      "인종: 사라족(27.7%), 아랍족(12.3%), 마요-케비족(11.5%) 등",
+      "종교: 이슬람교(51%), 기독교(35%), 토착종교(7%), 정령신앙(7%)"
+    ],
+    "language": [
+      "프랑스어",
+      "아랍어"
+    ],
+    "capitalLocal": "은자메나",
+    "continent": "중동/아프리카",
+    "fullName": "Chad",
+    "fullNameLocal": "차드",
+    "countryEnName": "Chad",
+    "countryName": "차드",
+    "id": "295",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_295&file_sn=1",
+    "lastUpdated": "2010-03-23"
+  },
+  {
+    "moreInfo": [
+      "면적: 1,862㎢ (Grande Comore, Moheli, Anjouan 등 3개의 섬으로 구성된 도서국가)",
+      "종교: Sunni Muslim(98%), Roman Catholic(2%)",
+      "기후: 열대해양성(9~4월 고온다습, 5~8월 저온건조)",
+      "민족구성: Antalote, Cafre, Makoa, Oimatsaha"
+    ],
+    "language": [
+      "불어",
+      "아랍어",
+      "코모로어(스와힐리어와 아랍어의 혼합)"
+    ],
+    "capitalLocal": "모로니",
+    "continent": "중동/아프리카",
+    "fullName": "The Union of Comoros",
+    "fullNameLocal": "코모로 연합",
+    "countryEnName": "Comoros",
+    "countryName": "코모로",
+    "id": "331",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_331&file_sn=1",
+    "lastUpdated": "2010-03-23"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 약 70만 명",
+      "면적: 64,589㎢ (한국의 약 2/3배)",
+      "인구: 약 200만 명",
+      "인종: 라트비아인(61.1%), 러시아인(26.2%) 등",
+      "종교: 루터교, 가톨릭교, 러시아정교"
+    ],
+    "language": [
+      "라트비아어(공용어)",
+      "러시아어",
+      "영어"
+    ],
+    "capitalLocal": "리가",
+    "continent": "유럽",
+    "fullName": "Republic of Latvia",
+    "fullNameLocal": "라트비아 공화국",
+    "countryEnName": "Latvia",
+    "countryName": "라트비아",
+    "id": "344",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_344&file_sn=1",
+    "lastUpdated": "2010-03-23"
+  },
+  {
+    "moreInfo": [
+      "위치: 도하 기준 북위 25°, 동경 51°",
+      "면적: 약 11,581㎢ (경기도 크기와 유사)",
+      "인종: 아랍족",
+      "종교: 이슬람교(대부분 수니파)"
+    ],
+    "language": [
+      "아랍어",
+      "영어(통용어)"
+    ],
+    "capitalLocal": "도하",
+    "continent": "중동/아프리카",
+    "fullName": "Qatar",
+    "fullNameLocal": "카타르",
+    "countryEnName": "Qatar",
+    "countryName": "카타르",
+    "id": "202",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_202&file_sn=1",
+    "lastUpdated": "2010-03-22"
+  },
+  {
+    "moreInfo": [
+      "면적: 2,040㎢ (모리셔스 섬, 로드리게스 섬 및 부속도서)",
+      "민족구성: 인도계(68%), 크리올족(27%), 중국계(3%)",
+      "종교: 힌두교(52%), 가톨릭(28.%), 이슬람교(17%)",
+      "기후: 열대 해양성"
+    ],
+    "language": [
+      "영어(공식어)",
+      "불어",
+      "크리올어",
+      "힌디어"
+    ],
+    "capitalLocal": "포트 루이스",
+    "continent": "중동/아프리카",
+    "fullName": "Republic of Mauritius",
+    "fullNameLocal": "모리셔스 공화국",
+    "countryEnName": "Mauritius",
+    "countryName": "모리셔스",
+    "id": "61",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_61&file_sn=1",
+    "lastUpdated": "2010-03-19"
+  },
+  {
+    "moreInfo": [
+      "면적: 455.3㎢ (155개 도서, 아프리카 최소면적)",
+      "민족구성: 유럽인, 아프리카인, 인도인, 중국인간의 혼혈족",
+      "종교: 카톨릭(82%), 영국성공회(6%)",
+      "기후: 고온다습, 연평균 30.3℃"
+    ],
+    "language": [
+      "영어(공용어)",
+      "불어(통용어)",
+      "크리올어"
+    ],
+    "capitalLocal": "빅토리아",
+    "continent": "중동/아프리카",
+    "fullName": "Republic of Seychelles",
+    "fullNameLocal": "세이셸 공화국",
+    "countryEnName": "Seychelles",
+    "countryName": "세이셸",
+    "id": "291",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_291&file_sn=1",
+    "lastUpdated": "2010-03-19"
+  },
+  {
+    "moreInfo": [
+      "위치: 영국 서부(북위 51.5°~55.5°, 서경 5.5°~10.5°)",
+      "주요도시: Cork, Galway, Limerick, Sligo",
+      "면적: 70,282㎢ (한반도의 약 1/3)",
+      "주요민족: 켈트족",
+      "종교: 가톨릭(93%), 개신교(3.4%), 성공회(2.8%)",
+      "서머타임: 3월 마지막 토요일~10월 마지막 토요일"
+    ],
+    "language": [
+      "영어",
+      "게일어"
+    ],
+    "capitalLocal": "더블린",
+    "continent": "유럽",
+    "fullName": "Ireland",
+    "fullNameLocal": "아일랜드",
+    "countryEnName": "Ireland",
+    "countryName": "아일랜드",
+    "id": "141",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_141&file_sn=1",
+    "lastUpdated": "2010-03-19"
+  },
+  {
+    "moreInfo": [
+      "면적: 2.02㎢ (교황청에 이어 세계에서 두 번째로 작은 국가)",
+      "주요민족: 프랑스계(47%), 모나코계(16%), 이탈리아계(16%), 기타(21%)",
+      "종교: 카톨릭(국교 90%), 기타(10%)"
+    ],
+    "language": [
+      "프랑스어(공식어)",
+      "영어",
+      "이탈리아어",
+      "모나코어"
+    ],
+    "capitalLocal": "모나코",
+    "continent": "유럽",
+    "fullName": "Principality of Monaco(Principauté de Monaco)",
+    "fullNameLocal": "모나코 공국",
+    "countryEnName": "Monaco",
+    "countryName": "모나코",
+    "id": "341",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_341&file_sn=1",
+    "lastUpdated": "2010-03-19"
+  },
+  {
+    "moreInfo": [
+      "위치: 스톡홀름 기준 북위 59°, 동경 18°",
+      "면적: 450,295㎢ (한반도의 약 2배)",
+      "교육: 9년제 의무교육",
+      "인종: Swedes, Sweden-Finns",
+      "종교: 루터교(87%)"
+    ],
+    "language": [
+      "스웨덴어"
+    ],
+    "capitalLocal": "스톡홀름",
+    "continent": "유럽",
+    "fullName": "Sweden",
+    "fullNameLocal": "스웨덴",
+    "countryEnName": "Sweden",
+    "countryName": "스웨덴",
+    "id": "126",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_126&file_sn=1",
+    "lastUpdated": "2010-03-18"
+  },
+  {
+    "moreInfo": [
+      "위치: 아라비아반도 동남단, 북위 16~26°와 동경 51~60° 사이",
+      "- 사우디(서), UAE(서북), 예멘(서남)과 접경",
+      "- 아라비아 해(남동)와 오만해(동북)에 면해 있음",
+      "기타 주요 도시: 살랄라, 소하르, 니즈와, 이브리",
+      "면적: 309,500㎢ (한반도의 1.4배)",
+      "기후: 사막성 기후",
+      "- 하계(4월-10월): 고온다습(해안), 고온 건조(내륙), 6월 평균 31-48℃",
+      "- 동계(11월-3월): 비교적 온화하나 낮 기온은 30℃ 이상, 1월 평균 20-25℃",
+      "인종: 아랍족",
+      "종교: 이슬람교"
+    ],
+    "language": [
+      "아랍어(공용어)",
+      "영어(통용어)"
+    ],
+    "capitalLocal": "무스카트",
+    "continent": "중동/아프리카",
+    "fullName": "Oman",
+    "fullNameLocal": "오만",
+    "countryEnName": "Oman",
+    "countryName": "오만",
+    "id": "162",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_162&file_sn=1",
+    "lastUpdated": "2010-03-17"
+  },
+  {
+    "moreInfo": [
+      "면적: 130,373㎢",
+      "인종: 메스티소(69%), 백인(17%), 흑인(9%), 원주민(5%)",
+      "종교: 가톨릭(70%), 기독교(22%)"
+    ],
+    "language": [
+      "스페인어(공용어)"
+    ],
+    "capitalLocal": "마나과",
+    "continent": "미주",
+    "fullName": "Republic of Nicaragua(Republica de Nicaragua)",
+    "fullNameLocal": "니카라과 공화국",
+    "countryEnName": "Nicaragua",
+    "countryName": "니카라과",
+    "id": "28",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_28&file_sn=1",
+    "lastUpdated": "2010-03-17"
+  },
+  {
+    "moreInfo": [
+      "면적: 716㎢",
+      "인구: 563만 명 (싱가포르 국적 347만 명)",
+      "인종: 중국계(76.2%), 말레이계(13.8%), 인도계(8.3%), 기타(1.7%)",
+      "종교: 불교·도교(51%), 이슬람교(14.9%), 기독교(14.6%), 힌두교(4%)"
+    ],
+    "language": [
+      "영어(통용어)",
+      "중국어",
+      "말레이어",
+      "타밀어"
+    ],
+    "capitalLocal": "싱가포르",
+    "continent": "아시아/태평양",
+    "fullName": "Singapore",
+    "fullNameLocal": "싱가포르",
+    "countryEnName": "Singapore",
+    "countryName": "싱가포르",
+    "id": "134",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_134&file_sn=1",
+    "lastUpdated": "2010-03-17"
+  },
+  {
+    "moreInfo": [
+      "위치: 암스테르담 기준 북위 52°22\", 동경 4°53\"",
+      "면적: 41,543㎢",
+      "인종: 게르만족"
+    ],
+    "language": [
+      "네덜란드어"
+    ],
+    "capitalLocal": "암스테르담",
+    "continent": "유럽",
+    "fullName": "Netherlands",
+    "fullNameLocal": "네덜란드",
+    "countryEnName": "Netherlands",
+    "countryName": "네덜란드",
+    "id": "21",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_21&file_sn=1",
+    "lastUpdated": "2010-03-17"
+  },
+  {
+    "moreInfo": [
+      "위치: 북위 45~48°, 동경 5~11° 북으로는 독일, 서로는 프랑스, 남으로는 이탈리아, 동으로는 오스트리아. 리히텐슈타인 등 총 5개국과 국경을 접하고 있음",
+      "면적: 41,285㎢ (한반도의 약 1/5)",
+      "인종: 독일계, 프랑스계, 이태리계",
+      "종교: 가톨릭(41.8%), 개신교(35.3%), 이슬람교(4.3%), 기타(3.2%)"
+    ],
+    "language": [
+      "독일어",
+      "프랑스어",
+      "이탈리아어",
+      "로망 슈어"
+    ],
+    "capitalLocal": "베른",
+    "continent": "유럽",
+    "fullName": "Switzerland",
+    "fullNameLocal": "스위스",
+    "countryEnName": "Switzerland",
+    "countryName": "스위스",
+    "id": "127",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_127&file_sn=1",
+    "lastUpdated": "2010-03-16"
+  },
+  {
+    "moreInfo": [
+      "면적: 912,050㎢ (한반도의 4.5배)",
+      "인종: 메스티조(69%), 백인(20%), 흑인(9%), 인디헤나(2%)",
+      "종교: 가톨릭(전 인구의 96%), 개신교(2%), 기타(2%)"
+    ],
+    "language": [
+      "스페인어"
+    ],
+    "capitalLocal": "카라카스",
+    "continent": "미주",
+    "fullName": "The Bolivarian Republic of Venezuela(Republica Bolivariana de Venezuela)",
+    "fullNameLocal": "베네수엘라볼리바르 공화국",
+    "countryEnName": "Venezuela",
+    "countryName": "베네수엘라",
+    "id": "85",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_85&file_sn=1",
+    "lastUpdated": "2010-03-05"
+  },
+  {
+    "moreInfo": [
+      "면적: 112,492㎢",
+      "인구분포: 도시(46%), 지방(54%)",
+      "인종: 혼혈(메스티조 90%), 원주민(인디오 7%), 흑인(2%), 백인(1%)",
+      "언어: 스페인어",
+      "종교: 카톨릭(85%), 기독교(10%), 기타(5%)"
+    ],
+    "language": [
+      "스페인어"
+    ],
+    "capitalLocal": "떼구시갈파",
+    "continent": "미주",
+    "fullName": "Repulica de Honduras",
+    "fullNameLocal": "온두라스 공화국",
+    "countryEnName": "Honduras",
+    "countryName": "온두라스",
+    "id": "164",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_164&file_sn=1",
+    "lastUpdated": "2010-03-05"
+  },
+  {
+    "moreInfo": [
+      "면적: 약 45,227㎢ (한반도의 1/5)",
+      "인종: 에스토니아인(69%), 러시아인(26%)",
+      "종교: 루터교, 러시아 정교"
+    ],
+    "language": [
+      "에스토니아어"
+    ],
+    "capitalLocal": "딸린",
+    "continent": "유럽",
+    "fullName": "Republic of Estonia",
+    "fullNameLocal": "에스토니아 공화국",
+    "countryEnName": "Estonia",
+    "countryName": "에스토니아",
+    "id": "154",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_154&file_sn=1",
+    "lastUpdated": "2010-02-22"
+  },
+  {
+    "moreInfo": [
+      "위치: 위도상 북위 60°~70°",
+      "면적: 338,145㎢ (한반도의 약 1.5배, 삼림 69%, 호수 10%)",
+      "인종: 핀란드인(93%), 스웨덴인(6%) 등",
+      "종교: 루터교, 정교 등",
+      "기후: 북극 온대성 기후",
+      "국경일: 12.6(독립기념일)"
+    ],
+    "language": [
+      "핀란드어(93%)",
+      "스웨덴어(6%)"
+    ],
+    "capitalLocal": "헬싱키",
+    "continent": "유럽",
+    "fullName": "Republic of Finland",
+    "fullNameLocal": "핀란드 공화국",
+    "countryEnName": "Finland",
+    "countryName": "핀란드",
+    "id": "251",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_251&file_sn=1",
+    "lastUpdated": "2010-02-22"
+  },
+  {
+    "moreInfo": [
+      "개황: 국토가 대부분 산악지대이며 남아공 국토에 둘러싸여져 있는 조그만 왕국임",
+      "종교: 기독교(80%), 기타 토속 종교(20%)",
+      "특기사항: 한국인 장기 거주자 없음"
+    ],
+    "language": [
+      "영어",
+      "레소토어"
+    ],
+    "capitalLocal": "마세루",
+    "continent": "중동/아프리카",
+    "fullName": "Lesotho",
+    "fullNameLocal": "레소토",
+    "countryEnName": "Lesotho",
+    "countryName": "레소토",
+    "id": "370",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_370&file_sn=1",
+    "lastUpdated": "2010-02-10"
+  },
+  {
+    "moreInfo": [
+      "위치: 아프리카중서부 적도 섬",
+      "기후: 열대성 기후, 연중 우기",
+      "면적: 964㎢",
+      "인종: Mestico, Angolares, Forros, Servicais, Tongas, Europeans(주로 포르투갈인)",
+      "종교: 카톨릭(70%), 신교(7%) 등"
+    ],
+    "language": [
+      "포르투칼어(공용어)"
+    ],
+    "capitalLocal": "상투메",
+    "continent": "중동/아프리카",
+    "fullName": "Sao Tome and Principe(São Tomé and Príncipe)",
+    "fullNameLocal": "상투메프린시페",
+    "countryEnName": "Sao Tome and Principe",
+    "countryName": "상투메프린시페",
+    "id": "371",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_371&file_sn=1",
+    "lastUpdated": "2010-02-10"
+  },
+  {
+    "moreInfo": [
+      "위치: 아프리카 중서부 적도",
+      "기후: 열대성 기후, 연중 고온다습",
+      "면적: 267,667㎢ (한반도의 1.2배)",
+      "인종: Fang(다수족), Echira, Punu, Kota, Teke 등 40여 종족",
+      "수도인구: 67만 명",
+      "주요도시: 뽀르장띠(Port-Gentil, 제2도시, 수출입항), 프랑스 빌(Franceville)",
+      "종교: 토속신앙(40%), 가톨릭(40%) 신교(10%), 회교(10%) "
+    ],
+    "language": [
+      "프랑스어(공용어)",
+      "기타(토착어)"
+    ],
+    "capitalLocal": "리브르빌",
+    "continent": "중동/아프리카",
+    "fullName": "The Gabonese Republic(République Gabonaise)",
+    "fullNameLocal": "가봉 공화국",
+    "countryEnName": "Gabon",
+    "countryName": "가봉",
+    "id": "2",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_2&file_sn=1",
+    "lastUpdated": "2010-02-03"
+  },
+  {
+    "moreInfo": [
+      "면적: 799,380㎢ (한반도 약 3.6배) 세계 35위, 해안선 2,470km",
+      "민족: Shangaan 족, Chokwe 족, Manyika 족, Sena 족, Makua 족 등 원주민(99.66%), EuroAfrians(0.2%), Indians(0.08%)",
+      "종교: 가톨릭(28.4%), 개신교(27.7%), 무슬림(17.9%), 기타(7.2%), 무교(18.7%)",
+      "독립: 1975.6.25(舊 포르투갈령)"
+    ],
+    "language": [
+      "포르투갈어(공용어)",
+      "반투제어(토속어)",
+      "스와힐리어(토속어)"
+    ],
+    "capitalLocal": "마푸토",
+    "continent": "중동/아프리카",
+    "fullName": "Mozambique",
+    "fullNameLocal": "모잠비크",
+    "countryEnName": "Mozambique",
+    "countryName": "모잠비크",
+    "id": "63",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_63&file_sn=1",
+    "lastUpdated": "2010-02-03"
+  },
+  {
+    "moreInfo": [
+      "위치: 동경 24.40°, 남위 25.55°",
+      "면적: 581,730㎢",
+      "종교: 기독교(50%), 토착신앙(50%)"
+    ],
+    "language": [
+      "츠와나어",
+      "영어"
+    ],
+    "capitalLocal": "가르보네",
+    "continent": "중동/아프리카",
+    "fullName": "Botswana",
+    "fullNameLocal": "보츠와나",
+    "countryEnName": "Botswana",
+    "countryName": "보츠와나",
+    "id": "91",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_91&file_sn=1",
+    "lastUpdated": "2010-02-03"
+  },
+  {
+    "moreInfo": [
+      "위치: 동경 31.08°, 남위 26.19°",
+      "면적: 17,364㎢",
+      "종교: 기독교(60%), 토착신앙(40%)"
+    ],
+    "language": [
+      "스와티어",
+      "영어"
+    ],
+    "capitalLocal": "음바바네",
+    "continent": "중동/아프리카",
+    "fullName": "Kingdom of Eswatini",
+    "fullNameLocal": "에스와티니 왕국",
+    "countryEnName": "Eswatini",
+    "countryName": "에스와티니",
+    "id": "125",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_125&file_sn=1",
+    "lastUpdated": "2010-02-03"
+  },
+  {
+    "moreInfo": [
+      "위치: 아프리카 중서부 적도",
+      "기후: 열대성 기후, 연중 고온다습",
+      "면적: 28,051㎢",
+      "인종: 팡족(80%), 부비족(10%), 쎄케족(2%), 크리울로족(1.8%), 은굼바족(1%), 바탕가족(1%), 은굼비족(0.8 %), 벤가족(0.66 %) 등",
+      "주요도시: 말라보(Malabo), 바타(Bata), 몽고모 프랑스빌(Franceville)",
+      "종교: 가톨릭(88%) 전통종교(animist 11.5%), 회교(0.5%)"
+    ],
+    "language": [
+      "스페인어(제1공용어)",
+      "프랑스어(제2공용어)",
+      "포르투갈어",
+      "기타(토착어)"
+    ],
+    "capitalLocal": "말라보",
+    "continent": "중동/아프리카",
+    "fullName": "Republic of Equatorial Guinea(República de Guinea Ecuatorial)",
+    "fullNameLocal": "적도 기니 공화국",
+    "countryEnName": "Equatorial Guinea",
+    "countryName": "적도 기니",
+    "id": "187",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_187&file_sn=1",
+    "lastUpdated": "2010-02-03"
+  },
+  {
+    "moreInfo": [
+      "경제중심지: 뽀엥트-느와르(Pointe-Noire)",
+      "면적: 342,000㎢",
+      "인종: 반투족(콩고족(48%), 상가족(20%), 테케족(17%), 음보치족(12%), 피그미족(소수민족))",
+      "종교: 기독교(50%), 토착신앙(48%), 이슬람교(2%)"
+    ],
+    "language": [
+      "프랑스어(공식어)",
+      "링갈라(현지어)",
+      "키투바(현지어)"
+    ],
+    "capitalLocal": "브라자빌",
+    "continent": "중동/아프리카",
+    "fullName": "Republic of Congo",
+    "fullNameLocal": "콩고 공화국",
+    "countryEnName": "Congo",
+    "countryName": "콩고 공화국",
+    "id": "214",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_214&file_sn=1",
+    "lastUpdated": "2010-02-03"
+  },
+  {
+    "moreInfo": [
+      "위치: 킨샤사 기준 남위 2.88°, 동경 23.656°",
+      "면적: 2,345,409㎢",
+      "인종: 반투족에 속하는 250여 종족과, 소수 종족으로 피그미족이 있음",
+      "종교: 가톨릭(50%), 개신교(20%), 킴방구이스트(10%), 이슬람교(10%)"
+    ],
+    "language": [
+      "프랑스어(공식어)",
+      "기타(링갈라어, 키콩고어, 치루바어, 스와힐리어)"
+    ],
+    "capitalLocal": "킨샤사",
+    "continent": "중동/아프리카",
+    "fullName": "Congo, Democratic Republic of the",
+    "fullNameLocal": "콩고 민주공화국",
+    "countryEnName": "Congo, Democratic Republic of the",
+    "countryName": "콩고 민주공화국",
+    "id": "215",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_215&file_sn=1",
+    "lastUpdated": "2010-02-03"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 약 62만 명",
+      "면적: 38.52만㎢ (한반도의 약 1.7배)",
+      "종교: 루터교(94%)"
+    ],
+    "language": [
+      "노르웨이어"
+    ],
+    "capitalLocal": "오슬로",
+    "continent": "유럽",
+    "fullName": "Norway",
+    "fullNameLocal": "노르웨이",
+    "countryEnName": "Norway",
+    "countryName": "노르웨이",
+    "id": "23",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_23&file_sn=1",
+    "lastUpdated": "2010-02-03"
+  },
+  {
+    "moreInfo": [
+      "위치: 남과 서쪽으로는 스위스, 북과 동쪽으로는 오스트리아와 국경을 접하고 있음(북위 47°, 동경 9°)",
+      "면적: 160㎢",
+      "인종: 독일계(86%), 이태리 및 터키 등(14%)",
+      "종교: 가톨릭(78%), 개신교(8.3%), 이슬람(4.8%), 기타(8.5%)"
+    ],
+    "language": [
+      "독일어"
+    ],
+    "capitalLocal": "파두츠",
+    "continent": "유럽",
+    "fullName": "Liechtenstein",
+    "fullNameLocal": "리히텐슈타인",
+    "countryEnName": "Liechtenstein",
+    "countryName": "리히텐슈타인",
+    "id": "48",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_48&file_sn=1",
+    "lastUpdated": "2010-02-03"
+  },
+  {
+    "moreInfo": [
+      "수도인구: 약 12만 명",
+      "면적: 10.3만㎢ (한반도의 약 절반)",
+      "종교: 루터교(81%), 가톨릭(2.5%), 기타(16.5%)",
+      "한국공관: 없음(주 노르웨이 대사관에서 겸임), 시내 환전소/은행/공항 등에서 미리 환전 필요"
+    ],
+    "language": [
+      "아이슬란드어"
+    ],
+    "capitalLocal": "레이캬비크",
+    "continent": "유럽",
+    "fullName": "Iceland",
+    "fullNameLocal": "아이슬란드",
+    "countryEnName": "Iceland",
+    "countryName": "아이슬란드",
+    "id": "139",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_139&file_sn=1",
+    "lastUpdated": "2010-02-03"
+  },
+  {
+    "moreInfo": [
+      "위치: 유럽 아드리아해 동부해안(알프스 산맥과 지중해 사이)",
+      "- 접경국: 슬로베니아, 헝가리, 보스니아-헤르체고비나, 세르비아, 몬테네그로",
+      "면적: 56,594㎢ (한반도의 약 1/4)",
+      "기후: 지중해성 기후(북동부 내륙지방은 대륙성 기후)",
+      "섬머타임: 4월~10월"
+    ],
+    "language": [
+      "크로아티아어(공용어)",
+      "기타(슬라브계 언어로 라틴문자 사용)"
+    ],
+    "capitalLocal": "자그레브",
+    "continent": "유럽",
+    "fullName": "Republic of Croatia",
+    "fullNameLocal": "크로아티아 공화국",
+    "countryEnName": "Croatia",
+    "countryName": "크로아티아",
+    "id": "218",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_218&file_sn=1",
+    "lastUpdated": "2010-02-03"
+  },
+  {
+    "moreInfo": [
+      "면적: 75,517㎢ (남한의 3/4)",
+      "종교: 가톨릭교(84%), 신교(15%), 기타(1%)",
+      "표준시간: 서울 기준 –14시간 차, 빠른 시간 계산법: 오전오후 바꾸고 +2시간, -1일"
+    ],
+    "language": [
+      "스페인어"
+    ],
+    "capitalLocal": "파나마",
+    "continent": "미주",
+    "fullName": "Panama",
+    "fullNameLocal": "파나마",
+    "countryEnName": "Panama",
+    "countryName": "파나마",
+    "id": "235",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_235&file_sn=1",
+    "lastUpdated": "2010-02-02"
+  },
+  {
+    "moreInfo": [
+      "위치: 서쪽으로 베네수엘라, 동쪽으로 수리남, 남쪽으로 브라질과 국경",
+      "면적: 214,970㎢ (한반도보다 조금 작음)",
+      "종교: 기독교(57%), 힌두교(33%), 회교(9%), 기타(1%)"
+    ],
+    "language": [
+      "영어"
+    ],
+    "capitalLocal": "조지타운",
+    "continent": "미주",
+    "fullName": "Co-operative Republic of Guyana",
+    "fullNameLocal": "가이아나 협동공화국",
+    "countryEnName": "Guyana",
+    "countryName": "가이아나 공화국",
+    "id": "315",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_315&file_sn=1",
+    "lastUpdated": "2010-02-02"
+  },
+  {
+    "moreInfo": [
+      "위치: 남쪽으로 브라질, 서쪽으로 프랑스령 가이아나 사이에 남미의 북부 해안에 위치",
+      "면적: 163.270㎢ (한반도의 약 3/4)",
+      "지리",
+      "- 동쪽의 마로니강과 서쪽의 코런타인강의 두 하구 사이",
+      "- 344㎞의 해안선을 따라 너비 16~80㎞의 비옥한 연안 평야가 펼쳐짐",
+      "- 그 내륙 쪽에는 너비 약 65㎞의 사바나 지대가 동서로 뻗어 있으며, 남쪽은 구릉성의 열대 우림이 우거져 있는데, 최고점은 해발고도 1.200m",
+      "기후",
+      "- 일년 내내 고온 다습한 열대성 기후이지만 동북쪽에서 무역풍이 불어옴",
+      "- 연평균 강수량은 열대 우림지대는 3.000㎜, 연안지역은 2.000㎜",
+      "인종: 인도계(37%), 크리올족(31%), 인도네시아계(15.3%), 흑인(10.3%)",
+      "종교: 힌두교(27%), 기독교(25%), 천주교(23%), 회교도(20%)"
+    ],
+    "language": [
+      "화란어(공용어)",
+      "영어",
+      "기타(토착어)"
+    ],
+    "capitalLocal": "파라마리보",
+    "continent": "미주",
+    "fullName": "Republic of Suriname",
+    "fullNameLocal": "수리남 공화국",
+    "countryEnName": "Suriname",
+    "countryName": "수리남",
+    "id": "323",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_323&file_sn=1",
+    "lastUpdated": "2010-02-02"
+  },
+  {
+    "moreInfo": [
+      "남태평양 사모아제도 남쪽에 위치해 있고 170여 개 섬으로 구성되어 있으나 36개 섬에만 주민이 거주함",
+      "수도인구: 약 3만 명 (Tougatapu 섬에 위치)",
+      "면적: 748㎦ (한반도의 1/300)",
+      "민족구성: 통가인(폴리네시아계), 기타 유럽인 약간",
+      "종교: 기독교(대부분 Wesleyan Church계)"
+    ],
+    "language": [
+      "영어",
+      "통가어"
+    ],
+    "capitalLocal": "누쿠아로파",
+    "continent": "아시아/태평양",
+    "fullName": "The Kingdom of Tonga",
+    "fullNameLocal": "통가 왕국",
+    "countryEnName": "Tonga",
+    "countryName": "통가",
+    "id": "230",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_230&file_sn=1",
+    "lastUpdated": "2010-02-02"
+  },
+  {
+    "moreInfo": [
+      "면적: 462,840㎢ (한반도의 2배)",
+      "인구: 830만 명 (2017)",
+      "민족구성: 멜라네시안(96%), 마이크로네시안(2%), 폴리네시안(1%), 중국/유럽계(1%)",
+      "종교: 기독교(69.5%), 가톨릭(26%), 기타 토착신앙"
+    ],
+    "language": [
+      "영어(공용어)",
+      "피진어",
+      "기타(850여 부족 언어)"
+    ],
+    "capitalLocal": "포트 모르즈비",
+    "continent": "아시아/태평양",
+    "fullName": "The Independent State of Papua New Guinea",
+    "fullNameLocal": "파푸아뉴기니 독립국",
+    "countryEnName": "Papua New Guinea",
+    "countryName": "파푸아뉴기니",
+    "id": "240",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_240&file_sn=1",
+    "lastUpdated": "2010-02-02"
+  },
+  {
+    "moreInfo": [
+      "면적: 587,041㎢",
+      "종교: 기독교(50%), 토착신앙(50%)",
+      "현재 언어는 영어를 장려, 많은 국민들이 영어를 배우고 있으나, 아직까지는 마다가스카르어와 불어가 주로 통용됨"
+    ],
+    "language": [
+      "말라가시어",
+      "프랑스어"
+    ],
+    "capitalLocal": "안타나나리보",
+    "continent": "중동/아프리카",
+    "fullName": "Madagascar",
+    "fullNameLocal": "마다가스카르",
+    "countryEnName": "Madagascar",
+    "countryName": "마다가스카르",
+    "id": "49",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_49&file_sn=1",
+    "lastUpdated": "2010-01-20"
+  },
+  {
+    "moreInfo": [
+      "면적: 12만㎢ (한반도의 약 1/2)",
+      "민족: Chewa, Yao, Chipoka, Tonga, Tumbuka 등",
+      "종교: 기독교(82%), 이슬람교(13%)",
+      "기후: 열대성 기후"
+    ],
+    "language": [
+      "영어(공용어)",
+      "체와어"
+    ],
+    "capitalLocal": "릴롱궤",
+    "continent": "중동/아프리카",
+    "fullName": "Malawi",
+    "fullNameLocal": "말라위",
+    "countryEnName": "Malawi",
+    "countryName": "말라위",
+    "id": "55",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_55&file_sn=1",
+    "lastUpdated": "2010-01-20"
+  },
+  {
+    "moreInfo": [
+      "면적: 156만 7,000㎢ (한반도의 7.5배), 동서(2,394km), 남북(1,259km)",
+      "기후: 건조한 냉대성 기후, 평균기온 -2.9도"
+    ],
+    "language": [
+      "몽골어"
+    ],
+    "capitalLocal": "울란바토르",
+    "continent": "아시아/태평양",
+    "fullName": "Mongolia",
+    "fullNameLocal": "몽골",
+    "countryEnName": "Mongolia",
+    "countryName": "몽골",
+    "id": "68",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_68&file_sn=1",
+    "lastUpdated": "2010-01-14"
+  },
+  {
+    "moreInfo": [
+      "영연방에 속한 국가로 호주와 하와이 중간 지점에 위치하고 있으며, 우폴루(Upolu) 섬, 사바이아이(Savaiai) 섬 및 7개의 군소 도서로 이루어 짐",
+      "면적: 2,831㎢ (Upolu 섬, Savaiai 섬 및 수개의 군소 도서)",
+      "민족구성: 사모아인(92.6%), 유럽-폴리네시아 혼혈(7%), 유럽계 (0.4%)",
+      "종교: 기독교 47%, 가톨릭 20%",
+      "관광 목적의 경우 60일 무비자 입국이 가능함."
+    ],
+    "language": [
+      "사모아어",
+      "영어"
+    ],
+    "capitalLocal": "아피아",
+    "continent": "아시아/태평양",
+    "fullName": "The Independent State of Samoa",
+    "fullNameLocal": "사모아 독립국",
+    "countryEnName": "Samoa",
+    "countryName": "사모아",
+    "id": "112",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_112&file_sn=1",
+    "lastUpdated": "2010-01-14"
+  },
+  {
+    "moreInfo": [
+      "면적: 28,896㎢, ‘호니아라’는 현지어로 ‘극심한 남서풍 지역’이라는 의미",
+      "민족구성: 멜라네시아인(94.5%), 폴리네시아인(3%), 미크로네시아인(1.2%). 기타(1.3%)",
+      "기후: 열대성 기후로 고온다습, 11~4월까지 우기, 5~10월까지 건기이고 평균기온은 22~28℃",
+      "종교: 기독교(95% 이상), 기타(토착신앙)"
+    ],
+    "language": [
+      "영어",
+      "피진어",
+      "기타(120개 언어, 한글을 표기문자로 채택한 2개 주(과달카날 주, 말라이타 주)가 있음)"
+    ],
+    "capitalLocal": "호니아라",
+    "continent": "아시아/태평양",
+    "fullName": "Solomon Islands",
+    "fullNameLocal": "솔로몬 제도",
+    "countryEnName": "Solomon Islands",
+    "countryName": "솔로몬 제도",
+    "id": "311",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_311&file_sn=1",
+    "lastUpdated": "2010-01-14"
+  },
+  {
+    "moreInfo": [
+      "면적: 27만㎢ (북섬 11.6만㎢, 남섬 15.1만㎢, 기타 도서 3,542㎢)",
+      "- 한반도 면적의 1.2배, 남한 면적의 2.7배",
+      "인종: 유럽인(74%), 마오리 원주민(15%), 아시아계(12%), 남태평양인(7%) 등",
+      "종교: 성공회, 기독교, 가톨릭"
+    ],
+    "language": [
+      "영어",
+      "마오리어"
+    ],
+    "capitalLocal": "웰링턴",
+    "continent": "아시아/태평양",
+    "fullName": "New Zealand",
+    "fullNameLocal": "뉴질랜드",
+    "countryEnName": "New Zealand",
+    "countryName": "뉴질랜드",
+    "id": "25",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_25&file_sn=1",
+    "lastUpdated": "2010-01-11"
+  },
+  {
+    "moreInfo": [
+      "위치: 아드리아해 동부 내륙",
+      "면적: 51,209㎢ (한반도의 1/4)",
+      "- 경작지(14%), 목초지(20%), 삼림(40%)",
+      "- 약 20km의 해안선을 보유한 사실상의 내륙국",
+      "수도인구: 약 52.6만 명",
+      "주요도시: 바냐 루카(Banja Luka, 20만 명), 제니카(Zenica, 15만 명), 투즐라(Tuzla, 13만 명), 모스타르(Mostar, 13만 명), 프리예도르(Prijedor, 11만 명)",
+      "민족: 보스니아계(48%), 세르비아계(37.1%), 크로아티아계(14.3%)",
+      "종교: 이슬람교(40%), 세르비아 정교(31%), 카톨릭(15%)",
+      "- 주로 보스니아계는 이슬람교, 세르비아계는 정교, 크로아티아계는 카톨릭을 신봉"
+    ],
+    "language": [
+      "보스니아어",
+      "세르비아어",
+      "크로아티아어"
+    ],
+    "capitalLocal": "사라예보",
+    "continent": "유럽",
+    "fullName": "Bosnia and Herzegovina",
+    "fullNameLocal": "보스니아 헤르체고비나",
+    "countryEnName": "Bosnia and Herzegovina",
+    "countryName": "보스니아 헤르체고비나",
+    "id": "298",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_298&file_sn=1",
+    "lastUpdated": "2009-12-28"
+  },
+  {
+    "moreInfo": [
+      "면적: 752,614㎢ (한반도의 약 3.4배)",
+      "민족: 반투족(95%)",
+      "종교: 기독교(70%), 이슬람교, 토착신앙",
+      "기후: 아열대 기후(연평균 15-37℃)"
+    ],
+    "language": [
+      "영어(공용어)"
+    ],
+    "capitalLocal": "루사카",
+    "continent": "중동/아프리카",
+    "fullName": "Zambia",
+    "fullNameLocal": "잠비아",
+    "countryEnName": "Zambia",
+    "countryName": "잠비아",
+    "id": "186",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_186&file_sn=1",
+    "lastUpdated": "2009-12-24"
+  },
+  {
+    "moreInfo": [
+      "면적: 2,791,810㎢ (남극대륙의 964,847㎢ 및 남부 도서 4,617㎢ 제외)",
+      "- 23개 주 및 1개 연방 수도로 구성",
+      "- 동:브라질 및 우루과이, 서:칠레, 남:남 대서양, 북:볼리비아 및 파라과이와 경계",
+      "- 한반도의 약 12.5배, 남한의 약 28배 크기",
+      "- 남북 간 거리: 3,800km, 동서 간 거리: 1,425km",
+      "인종: 유럽계 백인 97%(대부분 이태리계 및 스페인계), 원주민계 및 기타 3%",
+      "종교: 가톨릭(92%), 기독교(2%), 유태교 2%, 기타 4%",
+      "기후: 북부-아열대, 중부-온대, 남부-한대(남극)"
+    ],
+    "language": [
+      "스페인어"
+    ],
+    "capitalLocal": "부에노스아이레스 자치시",
+    "continent": "미주",
+    "fullName": "Republic of Argentina(República de Argentina)",
+    "fullNameLocal": "아르헨티나 공화국",
+    "countryEnName": "Argentina",
+    "countryName": "아르헨티나",
+    "id": "138",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_138&file_sn=1",
+    "lastUpdated": "2009-12-24"
+  },
+  {
+    "moreInfo": [
+      "면적: 283,560㎢ (한반도의 약 1.3배)",
+      "민족구성: 메스티조(65%), 유럽계(7%), 인디오(25%), 흑인(3%)",
+      "종교: 가톨릭(90% 이상)"
+    ],
+    "language": [
+      "스페인어",
+      "케추아어(일부 원주민들 사용)"
+    ],
+    "capitalLocal": "끼또",
+    "continent": "미주",
+    "fullName": "Republic of Ecuador(República del Ecuador)",
+    "fullNameLocal": "에콰도르 공화국",
+    "countryEnName": "Ecuador",
+    "countryName": "에콰도르",
+    "id": "155",
+    "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_155&file_sn=1",
+    "lastUpdated": "2009-12-24"
+  }
+]
