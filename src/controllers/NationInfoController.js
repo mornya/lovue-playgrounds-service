@@ -9,7 +9,7 @@ export default class NationInfoController extends BaseController {
     this.router.get('/nationInfo/:alpha2Code', this.getInfo)
     this.router.get('/nationInfo/memo/:alpha2Code', this.getMemo)
     this.router.post('/nationInfo/memo/:alpha2Code', this.postMemo)
-    this.router.post('/nationInfoReset', this.postReset)
+    this.router.get('/nationInfoReset', this.postReset)
 
     this.nationInfoModel = NationInfo
   }
@@ -58,18 +58,27 @@ export default class NationInfoController extends BaseController {
   }
 
   /**
-   * POST /nationInfo/reset
+   * POST /nationInfoReset
    */
   postReset = (req, res) => {
+    // Node.js에서 API 처리시간이 길어지면 TCP접속을 끊어버린다.
+    // 브라우저단에서는 TCP접속이 끊기게 되면 retry를 하게되는데, API 처리 중인데 재요청이 들어오게 된다.
+    // 헤로쿠 등에서는 전체 데이터 저장이 느리므로, timeout을 늘려 위 현상을 방지한다.
+    req.connection.setTimeout(300000) // 5*60*1000 (5분)
+
     this.nationInfoModel.deleteMany({})
       .then(async (/*resultData*/) => {
+        const unmatchedNation = []
+        let insertedCount = 0
+        let updatedCount = 0
+
         // nationInfo.json
         const nationInfo = require('constants/nationInfo.json')
-        console.info(`Insert ${nationInfo.length} nation information now...`)
+        console.info(`Insert nation information now...`)
 
         for (const nation of nationInfo) {
-          console.info(`+ ${nation.localName}`)
-          await this.nationInfoModel.create({
+          //console.info(`+ ${nation.localName}`)
+          const resultData = await this.nationInfoModel.create({
             alpha2Code: nation.alpha2Code,
             alpha3Code: nation.alpha3Code,
             numericCode: nation.numericCode,
@@ -90,16 +99,21 @@ export default class NationInfoController extends BaseController {
             specialFlag: nation.specialFlag,
             memo: [],
           })
+          if (resultData) {
+            insertedCount++
+          }
         }
+
+        console.info(`Inserted nation information: ${insertedCount} / ${nationInfo.length}`)
 
         // nationMoreInfo.json
         const nationMoreInfo = require('constants/nationMoreInfo.json')
-        console.info(`Insert ${nationMoreInfo.length} nation more information now...`)
+        console.info(`Update nation more information now...`)
 
         for (const nation of nationMoreInfo) {
           const resultData = await this.nationInfoModel.findOne({ officialName: nation.countryEnName })
           if (resultData) {
-            console.info(`> ${nation.countryEnName} -> ${resultData.officialName}`)
+            updatedCount++
             await this.nationInfoModel.findOneAndUpdate(
               { officialName: nation.countryEnName },
               {
@@ -114,7 +128,14 @@ export default class NationInfoController extends BaseController {
               },
               { returnNewDocument: true },
             )
+          } else {
+            unmatchedNation.push(nation.countryEnName)
           }
+        }
+
+        console.info(`Updated nation more information: ${updatedCount} / ${nationMoreInfo.length}`)
+        if (unmatchedNation.length) {
+          console.info('Unmatched:', unmatchedNation.join(', '))
         }
 
         console.info(`✔︎ Insert nation information was done!`)
